@@ -1,0 +1,5342 @@
+Land;Postleitzahl;Zusatzzahl;Ort;Amtliche Gemeindeverzeichnis ID
+CH;1000;0;Lausanne;0
+CH;1000;1;Lausanne 1 DÇpìt;0
+CH;1000;2;Lausanne 2;0
+CH;1000;3;Lausanne 3;0
+CH;1000;6;Lausanne 6;0
+CH;1000;7;Lausanne 7;0
+CH;1000;8;Lausanne 8;0
+CH;1000;12;Lausanne 12;0
+CH;1000;14;Lausanne 14;0
+CH;1000;16;Lausanne 16;0
+CH;1000;17;Lausanne 17;0
+CH;1000;19;Lausanne 19;0
+CH;1000;20;Lausanne 20;0
+CH;1000;21;Lausanne 21;0
+CH;1000;22;Lausanne 22;0
+CH;1000;23;Lausanne 23;0
+CH;1000;24;Lausanne 24;0
+CH;1000;25;Lausanne 25;0
+CH;1000;26;Lausanne 26;0
+CH;1000;27;Lausanne 27;0
+CH;1000;60;Lausanne Dist;0
+CH;1000;61;Lausanne CT;0
+CH;1000;65;Lausanne Swisscom;0
+CH;1001;1;Lausanne;0
+CH;1001;30;Lausanne Sozialb.;0
+CH;1001;49;Lausanne PF331-120;0
+CH;1001;50;Lausanne PF331-130;0
+CH;1001;51;Lausanne PF331-140;0
+CH;1001;52;Lausanne Jurassien;0
+CH;1002;0;Lausanne;0
+CH;1003;0;Lausanne;0
+CH;1003;46;Lausanne Centre;0
+CH;1003;69;Lausanne PF;0
+CH;1004;0;Lausanne;0
+CH;1005;0;Lausanne;0
+CH;1006;0;Lausanne;0
+CH;1006;47;Lausanne Ouchy;0
+CH;1007;0;Lausanne;0
+CH;1008;0;Prilly;0
+CH;1008;2;Jouxtens-MÇzery;0
+CH;1009;0;Pully;0
+CH;1010;0;Lausanne;0
+CH;1011;0;Lausanne;0
+CH;1012;0;Lausanne;0
+CH;1014;0;Lausanne Adm cant;0
+CH;1015;0;Lausanne;0
+CH;1017;0;Lausanne Veillon;0
+CH;1018;0;Lausanne;0
+CH;1019;0;Lausanne;0
+CH;1020;0;Renens VD;0
+CH;1020;1;Renens VD 1;0
+CH;1020;2;Renens VD 2;0
+CH;1020;47;Renens Gare CFF;0
+CH;1020;60;Renens VD 1 Dist;0
+CH;1022;0;Chavannes-Renens;0
+CH;1023;0;Crissier;0
+CH;1023;1;Crissier 1;0
+CH;1023;2;Crissier 2;0
+CH;1023;60;Crissier 1 Dist;0
+CH;1024;0;Ecublens VD;0
+CH;1025;0;St-Sulpice VD;0
+CH;1026;0;Echandens-Denges;0
+CH;1026;2;Denges;0
+CH;1026;3;Echandens;0
+CH;1027;0;Lonay;0
+CH;1028;0;PrÇverenges;0
+CH;1029;0;Villars-Ste-Croix;0
+CH;1030;0;Bussigny-Lausanne;0
+CH;1030;60;Bussigny-p-L Dist;0
+CH;1031;0;Mex VD;0
+CH;1032;0;Romanel-s-Lausanne;0
+CH;1032;47;Romanel Shell;0
+CH;1033;0;Cheseaux-Lausanne;0
+CH;1033;60;Cheseaux Dist;0
+CH;1034;0;Boussens;0
+CH;1035;0;Bournens;0
+CH;1036;0;Sullens;0
+CH;1037;0;Etagniäres;0
+CH;1038;0;Bercher;0
+CH;1039;0;Cheseaux Polyval;0
+CH;1040;0;Echallens;0
+CH;1040;2;Villars-le-Terroir;0
+CH;1040;3;St-BarthÇlemy VD;0
+CH;1040;60;Echallens Dist;0
+CH;1041;21;Dommartin;0
+CH;1041;22;Montaubion-Chardon;0
+CH;1041;26;Naz;0
+CH;1041;31;Poliez-le-Grand;0
+CH;1041;32;Poliez-Pittet;0
+CH;1041;33;Bottens;0
+CH;1042;0;Assens;0
+CH;1042;3;Bioley-Orjulaz;0
+CH;1042;4;Bettens;0
+CH;1043;0;Sugnens;0
+CH;1044;0;Fey;0
+CH;1045;0;Ogens;0
+CH;1046;0;Rueyres;0
+CH;1047;0;Oppens;0
+CH;1052;0;Mont-sur-Lausanne;0
+CH;1052;60;Mont-Lausanne Dist;0
+CH;1053;0;Cugy VD;0
+CH;1053;2;Bretigny-Morrens;0
+CH;1054;0;Morrens VD;0
+CH;1055;0;Froideville;0
+CH;1058;0;Villars-Tiercelin;0
+CH;1059;0;Peney-le-Jorat;0
+CH;1061;0;Villars-Mendraz;0
+CH;1062;0;Sottens;0
+CH;1063;0;Chapelle-s-Moudon;0
+CH;1063;2;Martherenges;0
+CH;1063;3;Boulens;0
+CH;1063;4;Peyres-Possens;0
+CH;1066;0;Epalinges;0
+CH;1066;60;Epalinges Dist;0
+CH;1068;0;Les Monts-de-Pully;0
+CH;1070;0;Puidoux;0
+CH;1071;0;Chexbres;0
+CH;1071;1;Rivaz;0
+CH;1071;2;St-Saphorin-Lavaux;0
+CH;1071;60;Chexbres Dist;0
+CH;1072;0;Forel (Lavaux);0
+CH;1073;0;Savigny;0
+CH;1073;2;Mollie-Margot;0
+CH;1076;0;Ferlens VD;0
+CH;1077;0;Servion;0
+CH;1078;0;Essertes;0
+CH;1080;0;Les Cullayes;0
+CH;1081;0;Montpreveyres;0
+CH;1082;0;Corcelles-le-Jorat;0
+CH;1083;0;MÇziäres VD;0
+CH;1084;0;Carrouge VD;0
+CH;1085;0;Vulliens;0
+CH;1088;0;Ropraz;0
+CH;1090;0;La Croix (Lutry);0
+CH;1091;0;Grandvaux;0
+CH;1091;1;Aran;0
+CH;1091;3;Chenaux;0
+CH;1092;0;Belmont-Lausanne;0
+CH;1093;0;La Conversion;0
+CH;1094;0;Paudex;0
+CH;1095;0;Lutry;0
+CH;1095;60;Lutry Distribution;0
+CH;1096;0;Cully;0
+CH;1096;2;Villette (Lavaux);0
+CH;1097;0;Riex;0
+CH;1098;0;Epesses;0
+CH;1110;0;Morges;0
+CH;1110;1;Morges 1;0
+CH;1110;2;Morges 2;0
+CH;1110;3;Morges 3;0
+CH;1110;60;Morges Dist;0
+CH;1112;0;Echichens;0
+CH;1113;0;St-Saphorin-Morges;0
+CH;1114;0;Colombier VD;0
+CH;1115;0;Vullierens;0
+CH;1116;0;Cottens VD;0
+CH;1117;0;Grancy;0
+CH;1121;0;Bremblens;0
+CH;1122;0;Romanel-sur-Morges;0
+CH;1123;0;Aclens;0
+CH;1124;0;Gollion;0
+CH;1125;0;Monnaz;0
+CH;1126;0;Vaux-sur-Morges;0
+CH;1127;0;Clarmont;0
+CH;1128;0;Reverolle;0
+CH;1131;0;Tolochenaz;0
+CH;1132;0;Lully VD;0
+CH;1134;0;Vufflens-ChÉteau;0
+CH;1134;2;Chigny;0
+CH;1135;0;Denens;0
+CH;1136;0;Bussy-Chardonney;0
+CH;1141;0;SÇvery;0
+CH;1142;0;Pampigny;0
+CH;1143;0;Apples;0
+CH;1144;0;Ballens;0
+CH;1145;0;Biäre;0
+CH;1145;75;Biäre Caserne;0
+CH;1146;0;Mollens VD;0
+CH;1147;0;Montricher;0
+CH;1148;0;L'Isle;0
+CH;1148;2;Mauraz;0
+CH;1148;3;Villars-Bozon;0
+CH;1148;4;Cuarnens;0
+CH;1148;5;Mont-la-Ville;0
+CH;1148;6;La Praz;0
+CH;1148;7;Chavannes-Veyron;0
+CH;1148;8;Moiry VD;0
+CH;1148;9;La Coudre;0
+CH;1149;0;Berolle;0
+CH;1162;0;St-Prex;0
+CH;1162;60;St-Prex Dist;0
+CH;1163;0;Etoy;0
+CH;1164;0;Buchillon;0
+CH;1165;0;Allaman;0
+CH;1166;0;Perroy;0
+CH;1167;0;Lussy-sur-Morges;0
+CH;1168;0;Villars-sous-Yens;0
+CH;1169;0;Yens;0
+CH;1170;0;Aubonne;0
+CH;1170;60;Aubonne Dist;0
+CH;1172;0;Bougy-Villars;0
+CH;1173;0;FÇchy;0
+CH;1174;0;Montherod;0
+CH;1174;2;Pizy;0
+CH;1175;0;Lavigny;0
+CH;1176;0;St-Livres;0
+CH;1180;0;Rolle;0
+CH;1180;2;Tartegnin;0
+CH;1180;60;Rolle Distribution;0
+CH;1182;0;Gilly;0
+CH;1183;0;Bursins;0
+CH;1184;0;Luins;0
+CH;1184;1;Vinzel;0
+CH;1185;0;Mont-sur-Rolle;0
+CH;1186;0;Essertines-Rolle;0
+CH;1187;0;St-Oyens;0
+CH;1188;0;Gimel;0
+CH;1188;2;St-George;0
+CH;1189;0;Saubraz;0
+CH;1195;0;Dully-Bursinel;0
+CH;1195;2;Dully;0
+CH;1195;3;Bursinel;0
+CH;1196;0;Gland;0
+CH;1196;60;Gland Distribution;0
+CH;1196;70;Gland Dist Fil;0
+CH;1197;0;Prangins;0
+CH;1200;0;Genäve;0
+CH;1200;1;Genäve 1;0
+CH;1200;2;Genäve 2 DÇpìt;0
+CH;1200;3;Genäve 3;0
+CH;1200;4;Genäve 4;0
+CH;1200;5;Genäve 2 Transit;0
+CH;1200;6;Genäve 6;0
+CH;1200;7;Genäve 7;0
+CH;1200;8;Genäve 8;0
+CH;1200;11;Genäve 11;0
+CH;1200;12;Genäve 12;0
+CH;1200;13;Genäve 13;0
+CH;1200;17;Genäve 17;0
+CH;1200;18;Genäve 18;0
+CH;1200;19;Genäve 19;0
+CH;1200;20;Genäve 20;0
+CH;1200;21;Genäve 21;0
+CH;1200;24;Genäve 24;0
+CH;1200;26;Genäve 26;0
+CH;1200;28;Genäve 28 Balexert;0
+CH;1200;50;Genäve (CLT);0
+CH;1200;60;Genäve 2 Dist;0
+CH;1200;70;Genäve Dist Ba;0
+CH;1201;0;Genäve;0
+CH;1202;0;Genäve;0
+CH;1203;0;Genäve;0
+CH;1204;0;Genäve;0
+CH;1205;0;Genäve;0
+CH;1206;0;Genäve;0
+CH;1207;0;Genäve;0
+CH;1208;0;Genäve;0
+CH;1209;0;Genäve;0
+CH;1211;1;Genäve 1;0
+CH;1211;2;Genäve 2;0
+CH;1211;3;Genäve 3;0
+CH;1211;4;Genäve 4;0
+CH;1211;5;Genäve 5;0
+CH;1211;6;Genäve 6;0
+CH;1211;7;Genäve 7;0
+CH;1211;8;Genäve 8;0
+CH;1211;10;Genäve 10;0
+CH;1211;11;Genäve 11;0
+CH;1211;12;Genäve 12;0
+CH;1211;13;Genäve 13;0
+CH;1211;14;Genäve 14;0
+CH;1211;17;Genäve 17;0
+CH;1211;19;Genäve 19;0
+CH;1211;20;Genäve 20;0
+CH;1211;21;Genäve 21;0
+CH;1211;22;Genäve 22;0
+CH;1211;23;Genäve 23;0
+CH;1211;26;Genäve 26;0
+CH;1211;27;Genäve 27;0
+CH;1211;28;Genäve 28;0
+CH;1211;65;Genäve 2 Swisscom;0
+CH;1211;70;Genäve 70 CS;0
+CH;1211;71;Genäve 71 CS CP;0
+CH;1211;73;Genäve 73;0
+CH;1211;75;Genäve 26 Caserne;0
+CH;1211;84;Genäve 84 Votation;0
+CH;1211;90;Genäve 5 DÇpìt;0
+CH;1211;94;Genäve 94 UBS;0
+CH;1212;0;Grand-Lancy;0
+CH;1212;1;Grand-Lancy 1;0
+CH;1212;60;Grand-Lancy Dist;0
+CH;1213;0;Petit-Lancy;0
+CH;1213;1;Petit-Lancy 1;0
+CH;1213;2;Petit-Lancy 2;0
+CH;1213;3;Onex;0
+CH;1213;60;Petit-Lancy Dist;0
+CH;1214;0;Vernier;0
+CH;1214;60;Vernier Dist;0
+CH;1215;0;Genäve;0
+CH;1215;2;Genäve ICC OLS;0
+CH;1215;68;Genäve 15 DÇpìt;0
+CH;1216;0;Cointrin;0
+CH;1217;0;Meyrin;0
+CH;1217;1;Meyrin 1;0
+CH;1217;2;Meyrin 2;0
+CH;1217;60;Meyrin Dist;0
+CH;1218;0;Le Grand-Saconnex;0
+CH;1218;60;Grand-Saconnex D;0
+CH;1219;0;Le Lignon;0
+CH;1219;10;Aãre;0
+CH;1219;12;ChÉtelaine;0
+CH;1219;48;Lignon B&V GK;0
+CH;1219;49;Lignon B&V GK 2;0
+CH;1219;60;Le Lignon Dist;0
+CH;1220;0;Les Avanchets;0
+CH;1222;0;VÇsenaz;0
+CH;1222;60;VÇsenaz Dist;0
+CH;1223;0;Cologny;0
+CH;1223;60;Cologny Dist;0
+CH;1224;0;Chàne-Bougeries;0
+CH;1225;0;Chàne-Bourg;0
+CH;1225;60;Chàne-Bourg Dist;0
+CH;1226;0;Thìnex;0
+CH;1227;0;Carouge GE;0
+CH;1227;4;Les Acacias;0
+CH;1227;48;Genäve Carouge;0
+CH;1227;60;Carouge GE Dist;0
+CH;1228;0;Plan-les-Ouates;0
+CH;1231;0;Conches;0
+CH;1232;0;Confignon;0
+CH;1233;0;Bernex;0
+CH;1233;60;Bernex Dist;0
+CH;1234;0;Vessy;0
+CH;1236;0;Cartigny;0
+CH;1237;0;Avully;0
+CH;1239;0;Collex;0
+CH;1240;0;Genäve;0
+CH;1241;0;Puplinge;0
+CH;1242;0;Satigny;0
+CH;1243;0;Presinge;0
+CH;1244;0;Choulex;0
+CH;1245;0;Collonge-Bellerive;0
+CH;1246;0;Corsier GE;0
+CH;1247;0;Aniäres;0
+CH;1248;0;Hermance;0
+CH;1251;0;Gy;0
+CH;1252;0;Meinier;0
+CH;1253;0;Vandoeuvres;0
+CH;1254;0;Jussy;0
+CH;1255;0;Veyrier;0
+CH;1256;0;Troinex;0
+CH;1257;0;La Croix-de-Rozon;0
+CH;1258;0;Perly;0
+CH;1260;0;Nyon;0
+CH;1260;1;Nyon 1;0
+CH;1260;2;Nyon 2;0
+CH;1260;47;Nyon Gare CFF;0
+CH;1260;60;Nyon 1 Dist;0
+CH;1260;76;Nyon car postal;0
+CH;1261;32;Marchissy;0
+CH;1261;33;Le Vaud;0
+CH;1261;35;Longirod;0
+CH;1262;0;Eysins;0
+CH;1263;0;Crassier;0
+CH;1264;0;St-Cergue;0
+CH;1265;0;La Cure;0
+CH;1266;0;Duillier;0
+CH;1267;0;Vich-Coinsins;0
+CH;1267;1;Vich;0
+CH;1267;2;Coinsins;0
+CH;1268;0;Begnins;0
+CH;1268;2;Burtigny;0
+CH;1269;0;Bassins;0
+CH;1270;0;TrÇlex;0
+CH;1271;0;Givrins;0
+CH;1272;0;Genolier;0
+CH;1273;0;Arzier;0
+CH;1273;2;Le Muids;0
+CH;1274;0;Signy-Centre;0
+CH;1274;1;Signy;0
+CH;1274;3;Grens;0
+CH;1275;0;ChÇserex;0
+CH;1276;0;Gingins;0
+CH;1277;0;Borex;0
+CH;1277;1;Arnex-sur-Nyon;0
+CH;1278;0;La Rippe;0
+CH;1279;0;Chavannes-de-Bogis;0
+CH;1279;1;Chavannes-Bogis LS;0
+CH;1279;2;Bogis-Bossey;0
+CH;1281;0;Russin;0
+CH;1283;0;La Plaine;0
+CH;1283;1;Dardagny;0
+CH;1284;0;Chancy;0
+CH;1285;0;Athenaz (Avusy);0
+CH;1286;0;Soral;0
+CH;1287;0;Laconnex;0
+CH;1288;0;Aire-la-Ville;0
+CH;1289;0;Genäve Serv. SpÇc.;0
+CH;1290;0;Versoix;0
+CH;1290;2;Chavannes-des-Bois;0
+CH;1290;60;Versoix Dist;0
+CH;1291;0;Commugny;0
+CH;1292;0;ChambÇsy;0
+CH;1293;0;Bellevue;0
+CH;1294;0;Genthod;0
+CH;1295;0;Mies-Tannay;0
+CH;1295;1;Mies;0
+CH;1295;2;Tannay;0
+CH;1296;0;Coppet;0
+CH;1296;60;Coppet Dist;0
+CH;1297;0;Founex;0
+CH;1298;0;CÇligny;0
+CH;1299;0;Crans-präs-CÇligny;0
+CH;1300;50;EclÇpens CC;0
+CH;1300;51;EclÇpens SAB;0
+CH;1300;57;EclÇpens Clinique;0
+CH;1300;67;EclÇpens DEN;0
+CH;1300;68;EclÇpens CA;0
+CH;1302;0;Vufflens-la-Ville;0
+CH;1303;0;Penthaz;0
+CH;1304;0;Cossonay-Ville;0
+CH;1304;2;Dizy;0
+CH;1304;3;Allens;0
+CH;1304;4;Senarclens;0
+CH;1304;60;Cossonay Dist;0
+CH;1305;0;Penthalaz;0
+CH;1306;0;Daillens;0
+CH;1307;0;Lussery-Villars;0
+CH;1308;0;La Chaux-Cossonay;0
+CH;1310;0;Daillens Centre Co;0
+CH;1310;70;Daillens Dist Ba;0
+CH;1311;0;EclÇpens SC;0
+CH;1312;0;EclÇpens;0
+CH;1313;0;Ferreyres;0
+CH;1315;0;La Sarraz;0
+CH;1316;0;Chevilly;0
+CH;1317;0;Orny;0
+CH;1318;0;Pompaples;0
+CH;1320;0;Daillens ST PP 1;0
+CH;1321;0;Arnex-sur-Orbe;0
+CH;1322;0;Croy;0
+CH;1323;0;Romainmìtier;0
+CH;1324;0;Premier;0
+CH;1325;0;Vaulion;0
+CH;1326;0;Juriens;0
+CH;1329;0;Bretonniäres;0
+CH;1330;0;Daillens CALL;0
+CH;1337;0;Vallorbe;0
+CH;1338;0;Ballaigues;0
+CH;1341;0;Orient;0
+CH;1342;0;Le Pont;0
+CH;1343;0;Les Charbonniäres;0
+CH;1344;0;L'Abbaye;0
+CH;1345;0;Le Lieu;0
+CH;1346;0;Les Bioux;0
+CH;1347;0;Le Sentier;0
+CH;1347;1;Le Solliat;0
+CH;1347;60;Le Sentier Dist;0
+CH;1348;0;Le Brassus;0
+CH;1350;0;Orbe;0
+CH;1350;60;Orbe Distribution;0
+CH;1352;0;Agiez;0
+CH;1353;0;Bofflens;0
+CH;1354;0;Montcherand;0
+CH;1355;0;L'Abergement;0
+CH;1355;2;Sergey;0
+CH;1356;0;Les ClÇes;0
+CH;1356;2;La Russille;0
+CH;1357;0;Lignerolle;0
+CH;1358;0;Valeyres-Rances;0
+CH;1372;0;Bavois;0
+CH;1373;0;Chavornay;0
+CH;1374;0;Corcelles-Chavorn;0
+CH;1375;0;PenthÇrÇaz;0
+CH;1376;0;Goumoens-la-Ville;0
+CH;1376;2;Eclagnens;0
+CH;1376;3;Goumoens-le-Jux;0
+CH;1377;0;Oulens-Echallens;0
+CH;1400;0;Yverdon-les-Bains;0
+CH;1400;1;Yverdon 1;0
+CH;1400;2;Yverdon 2;0
+CH;1400;3;Yverdon 3;0
+CH;1400;5;Cheseaux-NorÇaz;0
+CH;1400;47;Yverdon CFF;0
+CH;1400;60;Yverdon 1 Dist;0
+CH;1400;75;Yverdon Caserne;0
+CH;1400;76;Yverdon car postal;0
+CH;1401;0;Yverdon-les-Bains;0
+CH;1401;48;Yverdon Conseil;0
+CH;1404;0;Cuarny;0
+CH;1404;2;Villars-Epeney;0
+CH;1405;0;Pomy;0
+CH;1406;0;Cronay;0
+CH;1407;0;Donneloye;0
+CH;1407;2;Gossens;0
+CH;1407;3;MÇzery-Donneloye;0
+CH;1407;4;Bioley-Magnoux;0
+CH;1408;0;Prahins;0
+CH;1409;0;ChanÇaz;0
+CH;1410;0;Thierrens;0
+CH;1410;2;Correvon;0
+CH;1410;3;Denezy;0
+CH;1410;4;PrÇvondavaux;0
+CH;1410;5;St-Cierges;0
+CH;1412;0;Valeyres-Ursins;0
+CH;1412;2;Ursins;0
+CH;1413;0;Orzens;0
+CH;1415;0;Molondin;0
+CH;1415;2;DÇmoret;0
+CH;1416;0;Pailly;0
+CH;1417;0;Essertines-Yverdon;0
+CH;1417;2;Epautheyres;0
+CH;1418;0;Vuarrens;0
+CH;1420;0;Fiez;0
+CH;1421;0;Fontaines-Grandson;0
+CH;1421;2;Grandevent;0
+CH;1422;0;Grandson;0
+CH;1422;1;Grandson 1;0
+CH;1422;2;Grandson 2;0
+CH;1423;0;Villars-Burquin;0
+CH;1423;2;Fontanezier;0
+CH;1423;3;Romairon;0
+CH;1423;4;Vaugondry;0
+CH;1424;0;Champagne;0
+CH;1425;0;Onnens VD;0
+CH;1426;0;Concise;0
+CH;1426;1;Corcelles-Concise;0
+CH;1427;0;Bonvillars;0
+CH;1428;1;Provence;0
+CH;1428;2;Mutrux;0
+CH;1429;0;Giez;0
+CH;1430;0;Orges;0
+CH;1431;0;Vugelles-La Mothe;0
+CH;1431;2;Novalles;0
+CH;1432;0;Belmont-Yverdon;0
+CH;1432;2;Gressy;0
+CH;1433;0;Suchy;0
+CH;1434;0;Ependes VD;0
+CH;1435;0;Essert-Pittet;0
+CH;1436;0;Treycovagnes;0
+CH;1436;2;Chamblon;0
+CH;1437;0;SuscÇvaz;0
+CH;1438;0;Mathod;0
+CH;1439;0;Rances;0
+CH;1440;0;Montagny-Chamard;0
+CH;1441;0;Valeyres-Montagny;0
+CH;1442;0;Montagny-Yverdon;0
+CH;1443;0;Champvent;0
+CH;1443;2;Essert-s-Champvent;0
+CH;1443;3;Villars-Champvent;0
+CH;1445;0;Vuiteboeuf;0
+CH;1446;0;Baulmes;0
+CH;1450;0;Ste-Croix;0
+CH;1450;2;La Sagne VD;0
+CH;1450;3;Le ChÉteau-Croix;0
+CH;1450;60;Ste-Croix Dist;0
+CH;1452;0;Les Rasses;0
+CH;1453;0;Bullet;0
+CH;1453;2;Mauborget;0
+CH;1454;0;L'Auberson;0
+CH;1454;2;La Vraconnaz;0
+CH;1462;0;Yvonand;0
+CH;1463;0;Rovray;0
+CH;1464;0;Chavannes-le-Chàne;0
+CH;1464;2;Chàne-PÉquier;0
+CH;1468;0;Cheyres;0
+CH;1470;0;Estavayer-le-Lac;0
+CH;1470;2;Lully FR;0
+CH;1470;3;Seiry;0
+CH;1470;4;Bollion;0
+CH;1470;60;Estavayer-le-Lac D;0
+CH;1473;0;Font;0
+CH;1473;2;ChÉtillon FR;0
+CH;1474;0;ChÉbles FR;0
+CH;1475;0;Autavaux;0
+CH;1475;2;Forel FR;0
+CH;1475;3;Montbrelloz;0
+CH;1482;0;Cugy FR;0
+CH;1483;0;Montet (Broye);0
+CH;1483;2;Frasses;0
+CH;1483;3;Vesin;0
+CH;1484;0;Aumont;0
+CH;1484;2;Granges-de-Vesin;0
+CH;1485;0;Nuvilly;0
+CH;1486;0;Vuissens;0
+CH;1489;0;Murist;0
+CH;1509;0;Vucherens;0
+CH;1510;0;Moudon;0
+CH;1510;2;Syens;0
+CH;1510;60;Moudon Dist;0
+CH;1510;75;Moudon Caserne;0
+CH;1512;0;Chavannes-s-Moudon;0
+CH;1513;0;Hermenches;0
+CH;1513;2;Rossenges;0
+CH;1514;0;Bussy-sur-Moudon;0
+CH;1515;0;Villars-le-Comte;0
+CH;1515;1;Neyruz-sur-Moudon;0
+CH;1521;0;Curtilles;0
+CH;1522;0;Lucens;0
+CH;1522;9;Oulens-sur-Lucens;0
+CH;1523;0;Granges-Marnand;0
+CH;1524;0;Marnand;0
+CH;1525;0;Henniez;0
+CH;1525;2;Seigneux;0
+CH;1526;0;Forel-sur-Lucens;0
+CH;1526;2;Cremin;0
+CH;1527;0;Villeneuve FR;0
+CH;1528;0;Surpierre;0
+CH;1528;2;Praratoud;0
+CH;1529;0;Cheiry;0
+CH;1530;0;Payerne;0
+CH;1530;60;Payerne Dist;0
+CH;1530;75;Payerne Caserne;0
+CH;1532;0;FÇtigny;0
+CH;1532;70;FÇtigny Dist Fil;0
+CH;1533;0;MÇniäres;0
+CH;1534;0;Sassel;0
+CH;1534;2;Chapelle (Broye);0
+CH;1535;0;Combremont-Grand;0
+CH;1536;0;Combremont-Petit;0
+CH;1537;0;Champtauroz;0
+CH;1538;0;Treytorrens-Payern;0
+CH;1541;0;Bussy FR;0
+CH;1541;2;Morens FR;0
+CH;1541;3;SÇvaz;0
+CH;1542;0;Rueyres-les-PrÇs;0
+CH;1543;0;Grandcour;0
+CH;1544;0;Gletterens;0
+CH;1545;0;Chevroux;0
+CH;1551;0;Vers-chez-Perrin;0
+CH;1552;0;Trey;0
+CH;1553;0;ChÉtonnaye;0
+CH;1554;0;SÇdeilles;0
+CH;1554;2;Rossens VD;0
+CH;1555;0;Villarzel;0
+CH;1562;0;Corcelles-Payerne;0
+CH;1563;0;Dompierre FR;0
+CH;1564;0;Domdidier;0
+CH;1565;0;Missy;0
+CH;1565;2;Vallon;0
+CH;1566;0;St-Aubin FR;0
+CH;1566;2;Les Friques;0
+CH;1567;0;Delley;0
+CH;1568;0;Portalban;0
+CH;1580;0;Avenches;0
+CH;1580;2;Oleyres;0
+CH;1580;60;Avenches Dist;0
+CH;1582;0;Donatyre;0
+CH;1583;0;Villarepos;0
+CH;1584;0;Villars-le-Grand;0
+CH;1585;0;Salavaux;0
+CH;1585;2;Bellerive VD;0
+CH;1585;3;Cotterd;0
+CH;1586;0;Vallamand;0
+CH;1587;0;Montmagny;0
+CH;1587;1;Constantine;0
+CH;1588;0;Cudrefin;0
+CH;1589;0;Chabrey;0
+CH;1595;0;Faoug;0
+CH;1595;2;Clavaleyres;0
+CH;1607;0;PalÇzieux;0
+CH;1607;1;PalÇzieux-Village;0
+CH;1607;3;Les Tavernes;0
+CH;1607;4;Les Thioleyres;0
+CH;1607;60;PalÇzieux Dist;0
+CH;1608;0;Oron-le-ChÉtel;0
+CH;1608;2;Bussigny-sur-Oron;0
+CH;1608;3;Chesalles-sur-Oron;0
+CH;1608;4;Chapelle (GlÉne);0
+CH;1609;0;St-Martin FR;0
+CH;1609;2;Besencens;0
+CH;1609;3;Fiaugäres;0
+CH;1610;0;Oron-la-Ville;0
+CH;1610;1;ChÉtillens;0
+CH;1610;2;Vuibroye;0
+CH;1611;0;Le Cràt-p-Semsales;0
+CH;1612;0;Ecoteaux;0
+CH;1613;0;Maracon;0
+CH;1614;0;Granges (Veveyse);0
+CH;1615;0;Bossonnens;0
+CH;1616;0;Attalens;0
+CH;1617;0;Remaufens;0
+CH;1617;2;Tatroz;0
+CH;1618;0;ChÉtel-St-Denis;0
+CH;1618;60;ChÉtel-Denis Dist;0
+CH;1619;0;Les Paccots;0
+CH;1623;0;Semsales;0
+CH;1624;0;La Verrerie;0
+CH;1624;2;Grattavache;0
+CH;1624;3;Progens;0
+CH;1625;0;SÉles (Gruyäre);0
+CH;1625;2;Maules;0
+CH;1626;0;Romanens;0
+CH;1626;2;Treyfayes;0
+CH;1626;3;Rueyres-Treyfayes;0
+CH;1627;0;Vaulruz;0
+CH;1628;0;Vuadens;0
+CH;1630;0;Bulle;0
+CH;1630;1;Bulle 1;0
+CH;1630;2;Bulle 2;0
+CH;1630;60;Bulle 1 Dist;0
+CH;1630;70;Bulle Dist Fil;0
+CH;1631;0;Bulle;0
+CH;1632;0;Riaz;0
+CH;1633;0;Marsens;0
+CH;1633;2;Vuippens;0
+CH;1634;0;La Roche FR;0
+CH;1635;0;La Tour-de-Tràme;0
+CH;1636;0;Broc;0
+CH;1637;0;Charmey (Gruyäre);0
+CH;1638;0;Morlon;0
+CH;1642;0;Sorens;0
+CH;1643;0;Gumefens;0
+CH;1644;0;Avry-devant-Pont;0
+CH;1645;0;Le Bry;0
+CH;1646;0;Echarlens;0
+CH;1647;0;Corbiäres;0
+CH;1648;0;Hauteville;0
+CH;1649;0;Pont-la-Ville;0
+CH;1651;0;Villarvolard;0
+CH;1652;0;Botterens;0
+CH;1652;2;Villarbeney;0
+CH;1653;2;CrÇsuz;0
+CH;1653;3;ChÉtel-Montsalvens;0
+CH;1654;0;Cerniat FR;0
+CH;1656;0;Jaun;0
+CH;1656;1;Im Fang;0
+CH;1657;0;AblÑndschen;0
+CH;1658;0;Rossiniäre;0
+CH;1658;2;La Tine;0
+CH;1659;0;Rougemont;0
+CH;1659;2;Flendruz;0
+CH;1660;0;ChÉteau-d'Oex;0
+CH;1660;2;Les Moulins;0
+CH;1660;3;L'Etivaz;0
+CH;1660;4;La LÇcherette;0
+CH;1661;0;PÉquier-Montbarry;0
+CH;1663;0;Gruyäres;0
+CH;1663;2;Pringy;0
+CH;1663;3;Epagny;0
+CH;1663;4;MolÇson-s-Gruyäres;0
+CH;1663;60;Epagny Dist;0
+CH;1665;0;Estavannens;0
+CH;1666;0;Grandvillard;0
+CH;1666;2;Villars-sous-Mont;0
+CH;1667;0;Enney;0
+CH;1669;0;Albeuve;0
+CH;1669;2;Lessoc;0
+CH;1669;3;Sciernes-d'Albeuve;0
+CH;1669;4;Neirivue;0
+CH;1669;5;Montbovon;0
+CH;1670;0;Ursy;0
+CH;1670;2;Bionnens;0
+CH;1670;3;Esmonts;0
+CH;1673;0;Promasens;0
+CH;1673;2;Gillarens;0
+CH;1673;3;Auboranges;0
+CH;1673;4;Ecublens FR;0
+CH;1673;5;Rue;0
+CH;1674;0;Vuarmarens;0
+CH;1674;2;Montet (GlÉne);0
+CH;1674;3;Morlens;0
+CH;1675;0;Vauderens;0
+CH;1675;2;Blessens;0
+CH;1675;3;Mossel;0
+CH;1676;0;Chavannes-Forts;0
+CH;1677;0;Prez-vers-Siviriez;0
+CH;1678;0;Siviriez;0
+CH;1679;0;Villaraboud;0
+CH;1680;0;Romont FR;0
+CH;1680;2;Berlens;0
+CH;1680;60;Romont FR Dist;0
+CH;1680;75;Romont Caserne;0
+CH;1681;0;Billens;0
+CH;1681;2;Hennens;0
+CH;1682;0;PrÇvonloup;0
+CH;1682;2;Lovatens;0
+CH;1682;3;Dompierre VD;0
+CH;1682;4;Villars-Bramard;0
+CH;1682;5;Cerniaz VD;0
+CH;1683;0;Brenles;0
+CH;1683;2;Chesalles-Moudon;0
+CH;1683;3;Sarzens;0
+CH;1684;0;MÇziäres FR;0
+CH;1685;0;Villariaz;0
+CH;1686;0;Grangettes-Romont;0
+CH;1686;2;La Neirigue;0
+CH;1687;0;Vuisternens-Romont;0
+CH;1687;2;La Magne;0
+CH;1687;3;EstÇvenens;0
+CH;1688;0;Sommentier;0
+CH;1688;2;Lieffrens;0
+CH;1689;0;ChÉtelard-p-Romont;0
+CH;1690;0;Villaz-St-Pierre;0
+CH;1690;2;Lussy FR;0
+CH;1691;0;Villarimboud;0
+CH;1692;0;Massonnens;0
+CH;1694;0;Villarsiviriaux;0
+CH;1694;2;Villargiroud;0
+CH;1694;3;Orsonnens;0
+CH;1694;4;Chavannes-Orsonnen;0
+CH;1695;0;Villarlod;0
+CH;1695;2;Rueyres-St-Laurent;0
+CH;1695;3;Estavayer-Gibloux;0
+CH;1695;4;Villarsel-Gibloux;0
+CH;1696;0;Vuisternens-Ogoz;0
+CH;1697;0;La Joux FR;0
+CH;1697;2;Les Ecasseys;0
+CH;1699;0;Porsel;0
+CH;1699;2;Pont (Veveyse);0
+CH;1699;3;Bouloz;0
+CH;1700;0;Fribourg;0
+CH;1700;1;Fribourg 1;0
+CH;1700;48;Fribourg PF Fil.;0
+CH;1700;60;Fribourg 1 Dist;0
+CH;1700;75;Fribourg Caserne;0
+CH;1701;0;Fribourg;0
+CH;1702;0;Fribourg;0
+CH;1704;0;Fribourg;0
+CH;1705;0;Fribourg;0
+CH;1707;0;Fribourg;0
+CH;1708;0;Fribourg;0
+CH;1709;0;Fribourg;0
+CH;1712;0;Tafers;0
+CH;1713;0;St. Antoni;0
+CH;1714;0;Heitenried;0
+CH;1715;0;Alterswil FR;0
+CH;1716;0;Plaffeien;0
+CH;1716;2;Oberschrot;0
+CH;1716;3;Schwarzsee;0
+CH;1717;0;St. Ursen;0
+CH;1718;0;Rechthalten;0
+CH;1719;0;BrÅnisried;0
+CH;1719;2;Zumholz;0
+CH;1720;0;Corminboeuf;0
+CH;1720;2;ChÇsopelloz;0
+CH;1721;0;Misery-Courtion;0
+CH;1721;1;Misery;0
+CH;1721;2;CormÇrod;0
+CH;1721;4;Courtion;0
+CH;1722;0;Bourguillon;0
+CH;1723;0;Marly;0
+CH;1723;1;Marly 1;0
+CH;1723;2;Marly 2;0
+CH;1723;3;Villarsel-Marly;0
+CH;1723;4;Pierrafortscha;0
+CH;1723;60;Marly 1 Dist;0
+CH;1724;0;Le Mouret;0
+CH;1724;2;Essert FR;0
+CH;1724;3;Ferpicloz;0
+CH;1724;4;MontÇvraz;0
+CH;1724;5;Oberried FR;0
+CH;1724;6;Senädes;0
+CH;1724;7;ZÇnauva;0
+CH;1724;8;Bonnefontaine;0
+CH;1725;0;Posieux;0
+CH;1726;0;Farvagny;0
+CH;1726;2;Farvagny-le-Petit;0
+CH;1726;3;Grenilles;0
+CH;1726;4;Posat;0
+CH;1727;0;Corpataux-Magneden;0
+CH;1727;2;Magnedens;0
+CH;1728;0;Rossens FR;0
+CH;1730;0;Ecuvillens;0
+CH;1731;0;Ependes FR;0
+CH;1732;0;Arconciel;0
+CH;1733;0;Treyvaux;0
+CH;1734;0;Tentlingen;0
+CH;1735;0;Giffers;0
+CH;1736;0;St. Silvester;0
+CH;1737;0;Plasselb;0
+CH;1738;0;Sangernboden;0
+CH;1740;0;Neyruz FR;0
+CH;1741;0;Cottens FR;0
+CH;1742;0;Autigny;0
+CH;1744;0;ChÇnens;0
+CH;1745;0;Lentigny;0
+CH;1746;0;Prez-vers-NorÇaz;0
+CH;1747;0;Corserey;0
+CH;1748;0;Torny-le-Grand;0
+CH;1749;0;Middes;0
+CH;1752;0;Villars-sur-GlÉne;0
+CH;1752;1;Villars-GlÉne 1;0
+CH;1752;2;Villars-GlÉne 2;0
+CH;1752;60;Villars-GlÉne Dist;0
+CH;1753;0;Matran;0
+CH;1754;0;RosÇ;0
+CH;1754;2;Corjolens;0
+CH;1754;4;Avry-sur-Matran;0
+CH;1754;5;Avry-Centre FR;0
+CH;1754;60;Corjolens Dist;0
+CH;1756;0;Onnens FR;0
+CH;1756;2;Lovens;0
+CH;1757;0;NorÇaz;0
+CH;1762;0;Givisiez;0
+CH;1762;49;Givisiez PickPost;0
+CH;1762;70;Givisiez Dist Ba;0
+CH;1763;0;Granges-Paccot;0
+CH;1772;0;Grolley;0
+CH;1772;1;Nierlet-les-Bois;0
+CH;1772;2;Ponthaux;0
+CH;1773;0;LÇchelles;0
+CH;1773;2;Chandon;0
+CH;1773;3;Russy;0
+CH;1774;0;Cousset;0
+CH;1774;2;Montagny-les-Monts;0
+CH;1775;2;Mannens;0
+CH;1775;3;Grandsivaz;0
+CH;1776;0;Montagny-la-Ville;0
+CH;1782;0;Belfaux;0
+CH;1782;2;Autafond;0
+CH;1782;3;Lossy;0
+CH;1782;4;La Corbaz;0
+CH;1782;5;Cormagens;0
+CH;1782;6;Formangueires;0
+CH;1783;0;Pensier;0
+CH;1783;4;Barberàche;0
+CH;1784;0;Courtepin;0
+CH;1784;2;Cournillens;0
+CH;1784;3;Wallenried;0
+CH;1785;0;Cressier FR;0
+CH;1786;0;Sugiez;0
+CH;1787;0;Mìtier (Vully);0
+CH;1787;1;Mur (Vully) FR;0
+CH;1787;2;Mur (Vully) VD;0
+CH;1788;0;Praz (Vully);0
+CH;1789;0;Lugnorre;0
+CH;1791;0;Courtaman;0
+CH;1792;0;Cordast;0
+CH;1792;2;Guschelmuth;0
+CH;1793;0;Jeuss;0
+CH;1794;0;Salvenach;0
+CH;1795;0;Courlevon;0
+CH;1796;0;Courgevaux;0
+CH;1797;0;MÅnchenwiler;0
+CH;1800;0;Vevey;0
+CH;1800;1;Vevey 1;0
+CH;1800;2;Vevey 2;0
+CH;1800;60;Vevey 1 Dist;0
+CH;1801;0;Le Mont-Pälerin;0
+CH;1802;0;Corseaux;0
+CH;1803;0;Chardonne;0
+CH;1804;0;Corsier-sur-Vevey;0
+CH;1805;0;Jongny;0
+CH;1805;60;Jongny Dist;0
+CH;1806;0;St-LÇgier-ChiÇsaz;0
+CH;1806;60;St-LÇgier Dist;0
+CH;1806;70;St-LÇgier Dist Fil;0
+CH;1807;0;Blonay;0
+CH;1808;0;Monts-de-Corsier;0
+CH;1809;0;Fenil-sur-Corsier;0
+CH;1811;0;Vevey;0
+CH;1814;0;La Tour-de-Peilz;0
+CH;1815;0;Clarens;0
+CH;1816;0;Chailly-Montreux;0
+CH;1816;60;Chailly Dist;0
+CH;1817;0;Brent;0
+CH;1818;0;Montreux Redoute;0
+CH;1820;0;Montreux;0
+CH;1820;1;Montreux 1;0
+CH;1820;2;Montreux 2;0
+CH;1820;4;Territet-Veytaux;0
+CH;1820;5;Territet;0
+CH;1820;6;Veytaux;0
+CH;1820;60;Montreux 1 Dist;0
+CH;1822;0;Chernex;0
+CH;1823;0;Glion;0
+CH;1824;0;Caux;0
+CH;1832;0;Chamby;0
+CH;1832;2;Villard-sur-Chamby;0
+CH;1833;0;Les Avants;0
+CH;1844;0;Villeneuve VD;0
+CH;1844;60;Villeneuve VD Dist;0
+CH;1845;0;Noville;0
+CH;1846;0;Chessel;0
+CH;1847;0;Rennaz;0
+CH;1852;0;Roche VD;0
+CH;1853;0;Yvorne;0
+CH;1854;0;Leysin;0
+CH;1854;60;Leysin Dist;0
+CH;1856;0;Corbeyrier;0
+CH;1860;0;Aigle;0
+CH;1860;47;Aigle Gare CFF;0
+CH;1860;60;Aigle Distribution;0
+CH;1862;0;Les Mosses;0
+CH;1862;2;La Comballaz;0
+CH;1863;0;Le SÇpey;0
+CH;1864;0;Vers-l'Eglise;0
+CH;1865;0;Les Diablerets;0
+CH;1866;0;La Forclaz VD;0
+CH;1867;0;Ollon VD;0
+CH;1867;2;St-Triphon;0
+CH;1867;3;Panex;0
+CH;1868;0;Collombey;0
+CH;1869;0;Massongex;0
+CH;1870;0;Monthey;0
+CH;1870;1;Monthey 1;0
+CH;1870;2;Monthey 2;0
+CH;1870;60;Monthey 1 Dist;0
+CH;1871;0;Choâx;0
+CH;1871;2;Les Giettes;0
+CH;1872;0;Troistorrents;0
+CH;1873;0;Val-d'Illiez;0
+CH;1873;2;Champoussin;0
+CH;1873;3;Les Crosets;0
+CH;1874;0;ChampÇry;0
+CH;1875;0;Morgins;0
+CH;1880;0;Bex;0
+CH;1880;2;Freniäres-sur-Bex;0
+CH;1880;3;Fenalet-sur-Bex;0
+CH;1880;4;Les Plans-sur-Bex;0
+CH;1880;60;Bex Distribution;0
+CH;1880;70;Bex Dist Fil;0
+CH;1882;0;Gryon;0
+CH;1882;2;Les Posses-sur-Bex;0
+CH;1884;0;Villars-sur-Ollon;0
+CH;1884;2;Arveyes;0
+CH;1884;3;HuÇmoz;0
+CH;1885;0;Chesiäres;0
+CH;1890;0;St-Maurice;0
+CH;1890;1;Mex VS;0
+CH;1890;75;St-Maurice Caserne;0
+CH;1891;11;VÇrossaz;0
+CH;1892;0;Lavey-Village;0
+CH;1892;1;Lavey-les-Bains;0
+CH;1892;2;Morcles;0
+CH;1893;0;Muraz (Collombey);0
+CH;1895;0;Vionnaz;0
+CH;1896;0;Vouvry;0
+CH;1896;2;Miex;0
+CH;1897;0;Bouveret;0
+CH;1897;2;Port-Valais;0
+CH;1897;3;Les Evouettes;0
+CH;1898;0;St-Gingolph;0
+CH;1899;0;Torgon;0
+CH;1902;0;Evionnaz;0
+CH;1903;0;Collonges;0
+CH;1904;0;Vernayaz;0
+CH;1905;0;DorÇnaz;0
+CH;1905;76;DorÇnaz PA;0
+CH;1906;0;Charrat;0
+CH;1907;0;Saxon;0
+CH;1908;0;Riddes;0
+CH;1911;0;Ovronnaz;0
+CH;1911;2;Mayens-de-Chamoson;0
+CH;1912;0;Leytron;0
+CH;1912;2;Produit (Leytron);0
+CH;1912;3;Montagnon (Leytron;0
+CH;1912;4;Dugny (Leytron);0
+CH;1913;0;Saillon;0
+CH;1914;0;IsÇrables;0
+CH;1914;2;Auddes-sur-Riddes;0
+CH;1918;0;La Tzoumaz;0
+CH;1919;0;Martigny Mutuel;0
+CH;1920;0;Martigny;0
+CH;1920;1;Martigny 1;0
+CH;1920;2;Martigny 2;0
+CH;1920;3;Martigny Gare CFF;0
+CH;1920;48;Martigny PF;0
+CH;1920;60;Martigny 1 Dist;0
+CH;1921;0;Martigny-Croix;0
+CH;1922;0;Salvan;0
+CH;1922;1;Granges (Salvan);0
+CH;1923;0;Les MarÇcottes;0
+CH;1923;2;Le TrÇtien;0
+CH;1925;0;Finhaut;0
+CH;1925;1;Le ChÉtelard VS;0
+CH;1926;0;Fully;0
+CH;1926;60;Fully Dist;0
+CH;1927;0;Chemin;0
+CH;1928;0;Ravoire;0
+CH;1929;0;Trient;0
+CH;1932;0;Bovernier;0
+CH;1932;2;Les Valettes;0
+CH;1933;0;Sembrancher;0
+CH;1933;2;Vens(Sembrancher);0
+CH;1933;3;Chamoille;0
+CH;1933;4;La Garde;0
+CH;1934;0;Le ChÉble VS;0
+CH;1934;1;Bruson;0
+CH;1934;2;Cotterg(Le ChÉble);0
+CH;1934;3;Villette;0
+CH;1934;4;Fontenelle;0
+CH;1934;5;Montagnier;0
+CH;1934;60;Le ChÉble VS Dist;0
+CH;1936;0;Verbier;0
+CH;1937;0;Orsiäres;0
+CH;1938;0;Champex-Lac;0
+CH;1941;0;Volläges;0
+CH;1941;2;Cries (Volläges);0
+CH;1942;0;Levron;0
+CH;1943;0;Praz-de-Fort;0
+CH;1944;0;La Fouly VS;0
+CH;1945;0;Liddes;0
+CH;1945;2;Fontaine Dessus;0
+CH;1945;3;Fontaine Dessous;0
+CH;1945;4;Dranse (Liddes);0
+CH;1945;5;Chandonne (Liddes);0
+CH;1945;6;Rive Haute(Liddes);0
+CH;1945;7;Fornex(Liddes);0
+CH;1945;8;Les Moulins VS;0
+CH;1945;9;Vichäres (Liddes);0
+CH;1945;10;Palasuit (Liddes);0
+CH;1945;11;Chez Petit(Liddes);0
+CH;1945;12;Petit Vichäres;0
+CH;1946;0;Bourg-St-Pierre;0
+CH;1947;0;Versegäres;0
+CH;1947;2;Prarreyer;0
+CH;1947;3;Les Places;0
+CH;1947;4;La Montoz;0
+CH;1947;5;Champsec;0
+CH;1947;6;Le Fregnoley;0
+CH;1948;0;Lourtier;0
+CH;1948;1;Fionnay;0
+CH;1948;2;Sarreyer;0
+CH;1948;3;Le Planchamp;0
+CH;1948;4;Le Morgnes;0
+CH;1950;0;Sion;0
+CH;1950;1;Sion 1;0
+CH;1950;2;Sion 2;0
+CH;1950;3;Sion 3;0
+CH;1950;4;Sion 4;0
+CH;1950;60;Sion 1 Dist;0
+CH;1950;70;Sion Dist Ba;0
+CH;1950;75;Sion Caserne;0
+CH;1951;0;Sion;0
+CH;1951;50;Sion CLVTR;0
+CH;1951;76;Sion car postal;0
+CH;1955;0;Chamoson;0
+CH;1955;2;Les VÇrines;0
+CH;1955;3;NÇmiaz (Chamoson);0
+CH;1955;4;Grugnay (Chamoson);0
+CH;1955;5;St-Pierre-Clages;0
+CH;1957;0;Ardon;0
+CH;1958;0;St-LÇonard;0
+CH;1958;2;Uvrier;0
+CH;1961;0;Vernamiäge;0
+CH;1962;0;Pont-de-la-Morge;0
+CH;1963;0;VÇtroz;0
+CH;1964;0;Conthey;0
+CH;1964;60;Conthey Dist;0
+CH;1965;0;Saviäse;0
+CH;1965;2;Roumaz (Saviäse);0
+CH;1965;3;Granois (Saviäse);0
+CH;1965;4;St-Germain;0
+CH;1965;5;Ormìne (Saviäse);0
+CH;1965;6;Mayens-de-la-Zour;0
+CH;1965;7;Chandolin-Saviäse;0
+CH;1965;8;Drìne VS;0
+CH;1965;9;Monteiller-Saviäse;0
+CH;1965;60;Saviäse Dist;0
+CH;1966;0;Ayent;0
+CH;1966;2;Fortunau (Ayent);0
+CH;1966;3;Luc (Ayent);0
+CH;1966;4;St-Romain (Ayent);0
+CH;1966;5;Saxonne (Ayent);0
+CH;1966;6;Villa (Ayent);0
+CH;1966;7;La Place (Ayent);0
+CH;1966;8;Botyre (Ayent);0
+CH;1966;9;Blignou (Ayent);0
+CH;1966;10;Argnou (Ayent);0
+CH;1966;11;Signäse (Ayent);0
+CH;1967;0;Bramois;0
+CH;1968;0;Mase;0
+CH;1969;0;St-Martin VS;0
+CH;1969;2;Liez (St-Martin);0
+CH;1969;3;Trogne (St-Martin);0
+CH;1969;4;Suen (St-Martin);0
+CH;1969;5;Eison (St.Martin);0
+CH;1971;0;Grimisuat;0
+CH;1971;2;Champlan;0
+CH;1972;0;Anzäre;0
+CH;1973;0;Nax;0
+CH;1974;0;Arbaz;0
+CH;1975;0;St-SÇverin;0
+CH;1976;0;Erde;0
+CH;1976;1;Aven;0
+CH;1976;2;Daillon;0
+CH;1977;0;Icogne;0
+CH;1978;0;Lens;0
+CH;1981;0;Vex;0
+CH;1982;0;Euseigne;0
+CH;1983;0;Evoläne;0
+CH;1983;2;Lana (Evoläne);0
+CH;1984;0;Les Haudäres;0
+CH;1984;1;La Tour VS;0
+CH;1985;0;La Sage;0
+CH;1985;1;La Forclaz VS;0
+CH;1985;2;Villaz VS;0
+CH;1986;0;Arolla;0
+CH;1987;0;HÇrÇmence;0
+CH;1987;1;MÉche;0
+CH;1988;0;Thyon-Les Collons;0
+CH;1988;1;Thyon;0
+CH;1988;2;Les Collons;0
+CH;1991;0;Salins;0
+CH;1991;2;Arvillard (Salins);0
+CH;1991;3;Pravidondaz;0
+CH;1991;4;Turin (Salins);0
+CH;1991;5;MisÇriez (Salins);0
+CH;1992;0;Les Agettes;0
+CH;1992;1;Les Mayens-de-Sion;0
+CH;1992;2;La Vernaz;0
+CH;1992;3;Cràte-Ö-l'Oeil;0
+CH;1993;0;Veysonnaz;0
+CH;1993;2;Cläbes (Nendaz);0
+CH;1994;2;Aproz (Nendaz);0
+CH;1996;0;Basse-Nendaz;0
+CH;1996;1;Fey (Nendaz);0
+CH;1996;2;Bieudron (Nendaz);0
+CH;1996;3;CondÇmines (Nendaz;0
+CH;1996;4;Saclentz;0
+CH;1996;5;Baar (Nendaz);0
+CH;1996;6;Beuson (Nendaz);0
+CH;1996;7;Brignon (Nendaz);0
+CH;1997;0;Haute-Nendaz;0
+CH;1997;1;Siviez (Nendaz);0
+CH;1997;2;Sornard (Nendaz);0
+CH;2000;0;NeuchÉtel;0
+CH;2000;2;NeuchÉtel 2;0
+CH;2000;60;NeuchÉtel 2 Dist;0
+CH;2001;0;NeuchÉtel 1 DÇpìt;0
+CH;2001;1;NeuchÉtel 1;0
+CH;2002;1;NeuchÉtel 2;0
+CH;2003;0;NeuchÉtel 3;0
+CH;2004;0;NeuchÉtel 4;0
+CH;2006;0;NeuchÉtel 6;0
+CH;2007;0;NeuchÉtel 7;0
+CH;2008;0;NeuchÉtel;0
+CH;2009;0;NeuchÉtel 9;0
+CH;2010;0;NeuchÉtel OFS;0
+CH;2012;0;Auvernier;0
+CH;2013;0;Colombier NE;0
+CH;2013;60;Colombier NE Dist;0
+CH;2013;70;Boudry Dist Ba;0
+CH;2013;75;Colombier NE Cas;0
+CH;2014;0;Bìle;0
+CH;2015;0;Areuse;0
+CH;2016;0;Cortaillod;0
+CH;2017;0;Boudry;0
+CH;2019;0;Rochefort;0
+CH;2019;2;Chambrelien;0
+CH;2022;0;Bevaix;0
+CH;2023;0;Gorgier;0
+CH;2024;0;St-Aubin-Sauges;0
+CH;2025;0;Chez-le-Bart;0
+CH;2027;2;Montalchez;0
+CH;2027;3;Fresens;0
+CH;2028;0;Vaumarcus;0
+CH;2034;0;Peseux;0
+CH;2035;0;Corcelles NE;0
+CH;2035;60;Corcelles NE Dist;0
+CH;2036;0;Cormondräche;0
+CH;2037;0;Montmollin;0
+CH;2037;2;Montezillon;0
+CH;2042;0;Valangin;0
+CH;2043;0;Boudevilliers;0
+CH;2046;0;Fontaines NE;0
+CH;2052;0;Fontainemelon;0
+CH;2052;2;La Vue-des-Alpes;0
+CH;2053;0;Cernier;0
+CH;2054;0;ChÇzard-St-Martin;0
+CH;2054;2;Les Vieux-PrÇs;0
+CH;2056;0;Dombresson;0
+CH;2057;0;Villiers;0
+CH;2058;0;Le PÉquier NE;0
+CH;2063;0;Vilars NE;0
+CH;2063;2;Engollon;0
+CH;2063;3;Fenin;0
+CH;2063;4;Saules;0
+CH;2065;0;Savagnier;0
+CH;2067;0;Chaumont;0
+CH;2068;0;Hauterive NE;0
+CH;2072;0;St-Blaise;0
+CH;2073;0;Enges;0
+CH;2074;0;Marin-Epagnier;0
+CH;2074;2;Marin-Centre;0
+CH;2074;60;Marin-Epagnier Dis;0
+CH;2075;1;Thielle;0
+CH;2075;2;Wavre;0
+CH;2087;0;Cornaux NE;0
+CH;2088;0;Cressier NE;0
+CH;2103;0;Noiraigue;0
+CH;2105;0;Travers;0
+CH;2108;0;Couvet;0
+CH;2112;0;Mìtiers NE;0
+CH;2113;0;Boveresse;0
+CH;2114;0;Fleurier;0
+CH;2115;0;Buttes;0
+CH;2116;0;Mont-de-Buttes;0
+CH;2117;0;La Cìte-aux-FÇes;0
+CH;2123;0;St-Sulpice NE;0
+CH;2124;0;Les Sagnettes;0
+CH;2126;0;Les Verriäres;0
+CH;2127;0;Les Bayards;0
+CH;2149;0;Champ-du-Moulin;0
+CH;2149;2;Fretereules;0
+CH;2149;3;Brot-Dessous;0
+CH;2206;0;Geneveys-Coffrane;0
+CH;2207;0;Coffrane;0
+CH;2208;0;Les Hauts-Geneveys;0
+CH;2300;0;La Chaux-de-Fonds;0
+CH;2300;1;La Chaux-de-Fds 1;0
+CH;2300;8;La Cibourg;0
+CH;2300;60;Chdfds 1 Dist;0
+CH;2301;1;La Chaux-de-Fonds;0
+CH;2301;2;La Chx-de-F. Combe;0
+CH;2302;0;La Chaux-de-Fonds;0
+CH;2303;0;La Chaux-de-Fonds;0
+CH;2304;0;La Chaux-de-Fonds;0
+CH;2306;0;La Chaux-de-Fonds;0
+CH;2314;0;La Sagne NE;0
+CH;2316;0;Ponts-de-Martel;0
+CH;2316;2;Petit-Martel;0
+CH;2318;0;Brot-Plamboz;0
+CH;2322;0;Le Cràt-du-Locle;0
+CH;2325;0;Les Planchettes;0
+CH;2325;2;Les Joux-Derriäre;0
+CH;2333;0;La Ferriäre;0
+CH;2333;2;La Cibourg;0
+CH;2336;0;Les Bois;0
+CH;2338;0;Les Emibois;0
+CH;2338;2;Muriaux;0
+CH;2340;0;Le Noirmont;0
+CH;2340;60;Le Noirmont Dist;0
+CH;2345;0;Les Breuleux;0
+CH;2345;2;Le Cerneux-Veusil;0
+CH;2345;3;Chaux-des-Breuleux;0
+CH;2350;0;SaignelÇgier;0
+CH;2353;0;Les Pommerats;0
+CH;2354;0;Goumois;0
+CH;2360;0;Le BÇmont JU;0
+CH;2362;0;Montfaucon;0
+CH;2362;2;Montfavergier;0
+CH;2363;0;Les Enfers;0
+CH;2364;0;St-Brais;0
+CH;2400;0;Le Locle;0
+CH;2400;2;Le PrÇvoux;0
+CH;2400;60;Le Locle Dist;0
+CH;2405;0;La Chaux-du-Milieu;0
+CH;2406;0;La BrÇvine;0
+CH;2406;2;Les Tailläres;0
+CH;2406;3;La ChÉtagne;0
+CH;2406;4;Le Brouillet;0
+CH;2414;0;Cerneux-PÇquignot;0
+CH;2416;0;Les Brenets;0
+CH;2500;0;Biel/Bienne;0
+CH;2500;1;Biel/Bienne 1;0
+CH;2500;3;Biel/Bienne 3;0
+CH;2500;4;Biel/Bienne 4;0
+CH;2500;6;Biel/Bienne 6;0
+CH;2500;7;Biel/Bienne 7;0
+CH;2500;8;Biel/Bienne 8;0
+CH;2500;10;Biel/Bienne 10;0
+CH;2500;60;Biel/Bienne 1 Zust;0
+CH;2500;68;Biel 1 Annahme;0
+CH;2501;0;Biel/Bienne;0
+CH;2502;0;Biel/Bienne;0
+CH;2503;0;Biel/Bienne;0
+CH;2504;0;Biel/Bienne;0
+CH;2505;0;Biel/Bienne;0
+CH;2510;0;Biel/Bienne DistBa;0
+CH;2512;0;TÅscherz-AlfermÇe;0
+CH;2513;0;Twann;0
+CH;2514;0;Ligerz;0
+CH;2515;0;Pràles;0
+CH;2516;0;Lamboing;0
+CH;2517;0;Diesse;0
+CH;2518;0;Nods;0
+CH;2520;0;La Neuveville;0
+CH;2520;60;La Neuveville Dist;0
+CH;2523;0;Ligniäres;0
+CH;2525;0;Le Landeron;0
+CH;2532;0;Magglingen/Macolin;0
+CH;2533;0;Evilard;0
+CH;2534;0;Orvin;0
+CH;2534;2;Les PrÇs-d'Orvin;0
+CH;2535;0;Frinvillier;0
+CH;2536;0;Plagne;0
+CH;2537;0;Vauffelin;0
+CH;2538;0;Romont BE;0
+CH;2540;0;Grenchen;0
+CH;2540;1;Grenchen 1;0
+CH;2540;2;Grenchen 2;0
+CH;2540;60;Grenchen 1 Zust;0
+CH;2542;0;Pieterlen;0
+CH;2543;0;Lengnau BE;0
+CH;2544;0;Bettlach;0
+CH;2545;0;Selzach;0
+CH;2552;0;Orpund;0
+CH;2553;0;Safnern;0
+CH;2554;0;Meinisberg;0
+CH;2555;0;BrÅgg BE;0
+CH;2556;0;Scheuren;0
+CH;2556;2;Schwadernau;0
+CH;2557;0;Studen BE;0
+CH;2558;0;Aegerten;0
+CH;2560;0;Nidau;0
+CH;2560;60;Nidau Zustellung;0
+CH;2562;0;Port;0
+CH;2563;0;Ipsach;0
+CH;2564;0;Bellmund;0
+CH;2565;0;Jens;0
+CH;2572;0;Sutz;0
+CH;2572;2;Mîrigen;0
+CH;2575;0;TÑuffelen;0
+CH;2575;1;Gerolfingen;0
+CH;2575;2;Hagneck;0
+CH;2576;0;LÅscherz;0
+CH;2577;0;Siselen BE;0
+CH;2577;2;Finsterhennen;0
+CH;2603;0;PÇry;0
+CH;2604;0;La Heutte;0
+CH;2605;0;Sonceboz-Sombeval;0
+CH;2606;0;CorgÇmont;0
+CH;2607;0;CortÇbert;0
+CH;2608;0;Courtelary;0
+CH;2608;2;Mtgne-Courtelary;0
+CH;2610;0;St-Imier;0
+CH;2610;2;Mont-Soleil;0
+CH;2610;3;Les Pontins;0
+CH;2610;4;Mont-Crosin;0
+CH;2610;60;St-Imier Dist;0
+CH;2612;0;Cormoret;0
+CH;2613;0;Villeret;0
+CH;2615;0;Sonvilier;0
+CH;2615;2;Montagne-Sonvilier;0
+CH;2616;0;Renan BE;0
+CH;2616;2;La Cibourg;0
+CH;2710;0;Tavannes;0
+CH;2710;60;Tavannes Dist;0
+CH;2712;0;Le Fuet;0
+CH;2713;0;Bellelay;0
+CH;2714;0;Les Genevez JU;0
+CH;2714;2;Le PrÇdame;0
+CH;2715;0;ChÉtelat-Monible;0
+CH;2715;1;ChÉtelat;0
+CH;2715;2;Monible;0
+CH;2716;0;Sornetan;0
+CH;2717;0;Fornet-Dessous;0
+CH;2717;2;RebÇvelier;0
+CH;2718;0;Lajoux JU;0
+CH;2718;2;Fornet-Dessus;0
+CH;2720;0;Tramelan;0
+CH;2720;2;La Tanne;0
+CH;2720;60;Tramelan Dist;0
+CH;2722;0;Les Reussilles;0
+CH;2723;0;Mont-Tramelan;0
+CH;2732;0;Reconvilier;0
+CH;2732;2;Saicourt;0
+CH;2732;3;Saules BE;0
+CH;2732;4;Loveresse;0
+CH;2733;0;Pontenet;0
+CH;2735;0;Malleray-BÇvilard;0
+CH;2735;2;BÇvilard;0
+CH;2735;3;Champoz;0
+CH;2735;4;Malleray;0
+CH;2735;60;Malleray-BÇv. Dist;0
+CH;2736;0;Sorvilier;0
+CH;2738;0;Court;0
+CH;2740;0;Moutier;0
+CH;2740;1;Moutier 1;0
+CH;2740;2;Moutier 2;0
+CH;2740;60;Moutier 1 Dist;0
+CH;2742;0;Perrefitte;0
+CH;2743;0;Eschert;0
+CH;2744;0;Belprahon;0
+CH;2745;0;Grandval;0
+CH;2746;0;CrÇmines;0
+CH;2747;0;Corcelles BE;0
+CH;2747;2;Seehof;0
+CH;2748;0;Souboz;0
+CH;2748;2;Les Ecorcheresses;0
+CH;2762;0;Roches BE;0
+CH;2800;0;DelÇmont;0
+CH;2800;1;DelÇmont 1;0
+CH;2800;2;DelÇmont 2;0
+CH;2800;60;DelÇmont 1 Dist;0
+CH;2800;70;DelÇmont Dist Ba;0
+CH;2800;76;DelÇmont car post;0
+CH;2802;0;Develier;0
+CH;2802;76;Develier PostAuto;0
+CH;2803;0;Bourrignon;0
+CH;2805;0;Soyhiäres;0
+CH;2806;0;Mettembert;0
+CH;2807;0;Pleigne;0
+CH;2807;1;Lucelle;0
+CH;2812;0;Movelier;0
+CH;2813;0;Ederswiler;0
+CH;2814;0;Roggenburg;0
+CH;2822;0;Courroux;0
+CH;2823;0;Courcelon;0
+CH;2824;0;Vicques;0
+CH;2825;0;Courchapoix;0
+CH;2826;0;Corban;0
+CH;2827;0;Mervelier;0
+CH;2827;2;Schelten;0
+CH;2828;0;Montsevelier;0
+CH;2829;0;Vermes;0
+CH;2830;0;Courrendlin;0
+CH;2830;2;Vellerat;0
+CH;2832;0;Rebeuvelier;0
+CH;2842;0;Rossemaison;0
+CH;2843;0;ChÉtillon JU;0
+CH;2852;0;CourtÇtelle;0
+CH;2853;0;Courfaivre;0
+CH;2854;0;Bassecourt;0
+CH;2855;0;Glovelier;0
+CH;2856;0;BoÇcourt;0
+CH;2857;0;Montavon;0
+CH;2863;0;Undervelier;0
+CH;2864;0;Soulce;0
+CH;2873;0;Saulcy;0
+CH;2882;0;St-Ursanne;0
+CH;2883;0;Montmelon;0
+CH;2884;0;Montenol;0
+CH;2885;0;Epauvillers;0
+CH;2886;0;Epiquerez;0
+CH;2887;0;Soubey;0
+CH;2888;0;Seleute;0
+CH;2889;0;Ocourt;0
+CH;2900;0;Porrentruy;0
+CH;2900;1;Porrentruy 1;0
+CH;2900;2;Porrentruy 2;0
+CH;2900;60;Porrentruy 1 Dist;0
+CH;2900;75;Porrentruy Caserne;0
+CH;2902;0;Fontenais;0
+CH;2903;0;Villars-Fontenais;0
+CH;2904;0;Bressaucourt;0
+CH;2905;0;Courtedoux;0
+CH;2906;0;Chevenez;0
+CH;2907;0;Rocourt;0
+CH;2908;0;Grandfontaine;0
+CH;2912;2;RÇcläre;0
+CH;2912;3;Roche-d'Or;0
+CH;2914;0;Damvant;0
+CH;2915;0;Bure;0
+CH;2916;0;Fahy;0
+CH;2922;0;Courchavon;0
+CH;2923;0;Courtemaåche;0
+CH;2924;0;Montignez;0
+CH;2925;0;Buix;0
+CH;2926;0;Boncourt;0
+CH;2932;0;Coeuve;0
+CH;2933;2;Damphreux;0
+CH;2933;3;Lugnez;0
+CH;2935;0;BeurnevÇsin;0
+CH;2942;0;Alle;0
+CH;2943;0;Vendlincourt;0
+CH;2944;0;Bonfol;0
+CH;2946;0;MiÇcourt;0
+CH;2947;0;Charmoille;0
+CH;2950;0;Courgenay;0
+CH;2950;2;Courtemautruy;0
+CH;2952;0;Cornol;0
+CH;2953;0;FregiÇcourt-Pleuj;0
+CH;2953;2;FregiÇcourt;0
+CH;2953;3;Pleujouse;0
+CH;2954;0;Asuel;0
+CH;3000;0;Bern;0
+CH;3000;1;Bern 1 Schanzenpst;0
+CH;3000;5;Bern 5;0
+CH;3000;6;Bern 6;0
+CH;3000;8;Bern 8;0
+CH;3000;9;Bern 9;0
+CH;3000;13;Bern 13;0
+CH;3000;14;Bern 14;0
+CH;3000;15;Bern 15;0
+CH;3000;21;Bern 21;0
+CH;3000;22;Bern 22;0
+CH;3000;23;Bern 23;0
+CH;3000;25;Bern 25;0
+CH;3000;28;Bern BrÅnnen;0
+CH;3000;31;Bern 31;0
+CH;3000;47;Bern 7 BÑrenplatz;0
+CH;3000;61;Bern 60 UPD;0
+CH;3000;65;Bern 65;0
+CH;3000;71;Bern 71 CS PZ;0
+CH;3000;75;Bern 22 Kaserne;0
+CH;3000;76;Bern Postauto;0
+CH;3000;77;Bern 77 SBV;0
+CH;3000;88;Bern Radio Schweiz;0
+CH;3000;90;Bern 90;0
+CH;3000;94;Bern 94;0
+CH;3001;0;Bern;0
+CH;3002;0;Bern Postfinance;0
+CH;3003;0;Bern;0
+CH;3003;1;Bern 3 Nationalrat;0
+CH;3003;2;Bern 3 StÑnderat;0
+CH;3004;0;Bern;0
+CH;3005;0;Bern;0
+CH;3006;0;Bern;0
+CH;3007;0;Bern;0
+CH;3008;0;Bern;0
+CH;3010;0;Bern;0
+CH;3011;0;Bern;0
+CH;3012;0;Bern;0
+CH;3013;0;Bern;0
+CH;3014;0;Bern;0
+CH;3015;0;Bern;0
+CH;3017;60;Bern Zustellung;0
+CH;3018;0;Bern;0
+CH;3019;0;Bern;0
+CH;3020;0;Bern;0
+CH;3024;0;Bern;0
+CH;3027;0;Bern;0
+CH;3029;0;Bern Entris;0
+CH;3030;1;Bern;0
+CH;3030;81;Bern PF KD PK Be 4;0
+CH;3030;82;Bern PF KD PK Be 5;0
+CH;3030;97;Bern LOGIPV;0
+CH;3032;0;Hinterkappelen;0
+CH;3033;0;Wohlen b. Bern;0
+CH;3034;0;Murzelen;0
+CH;3035;0;Frieswil;0
+CH;3036;0;Detligen;0
+CH;3037;0;Herrenschwanden;0
+CH;3038;0;Kirchlindach;0
+CH;3039;0;Bern PF OC;0
+CH;3040;0;Bern;0
+CH;3041;0;Bern;0
+CH;3042;0;Ortschwaben;0
+CH;3043;0;Uettligen;0
+CH;3044;2;Innerberg;0
+CH;3045;0;Meikirch;0
+CH;3046;0;Wahlendorf;0
+CH;3047;0;Bremgarten b. Bern;0
+CH;3048;0;Worblaufen;0
+CH;3049;0;SÑriswil;0
+CH;3050;0;Bern;0
+CH;3050;55;Bern DS;0
+CH;3052;0;Zollikofen;0
+CH;3052;60;Zollikofen Zust;0
+CH;3053;0;MÅnchenbuchsee;0
+CH;3053;2;Deisswil Mbuchsee;0
+CH;3053;3;Diemerswil;0
+CH;3053;4;Wiggiswil;0
+CH;3053;5;LÑtti;0
+CH;3053;60;M'buchsee Zust;0
+CH;3054;0;SchÅpfen;0
+CH;3063;0;Ittigen;0
+CH;3065;0;Bolligen;0
+CH;3065;1;Bolligen Dorf;0
+CH;3065;2;Bolligen Station;0
+CH;3066;0;Stettlen;0
+CH;3067;0;Boll;0
+CH;3067;60;Boll Zustellung;0
+CH;3068;0;Utzigen;0
+CH;3070;50;Ostermundigen LZB;0
+CH;3070;52;Ostermundigen BHS;0
+CH;3071;1;Ostermundigen KATA;0
+CH;3071;60;Ostermundigen Zust;0
+CH;3071;70;Ostermundi Dist Ba;0
+CH;3072;0;Ostermundigen;0
+CH;3072;1;Ostermundigen 1;0
+CH;3072;2;Ostermundigen 2;0
+CH;3072;3;Ostermundigen Ober;0
+CH;3072;11;Ostermundigen SB;0
+CH;3072;64;Omundigen RÅti FÑ;0
+CH;3073;0;GÅmligen;0
+CH;3073;60;GÅmligen Zust;0
+CH;3074;0;Muri b. Bern;0
+CH;3075;0;RÅfenacht BE;0
+CH;3076;0;Worb;0
+CH;3076;60;Worb Zustellung;0
+CH;3077;0;Enggistein;0
+CH;3078;0;Richigen;0
+CH;3082;0;Schlosswil;0
+CH;3083;0;Trimstein;0
+CH;3084;0;Wabern;0
+CH;3085;0;Wabern Weihnachten;0
+CH;3086;0;Zimmerwald;0
+CH;3086;2;Englisberg;0
+CH;3087;0;Niedermuhlern;0
+CH;3088;0;RÅeggisberg;0
+CH;3088;2;OberbÅtschel;0
+CH;3089;0;Hinterfultigen;0
+CH;3095;0;Spiegel b. Bern;0
+CH;3096;0;Oberbalm;0
+CH;3097;0;Liebefeld;0
+CH;3098;0;Kîniz;0
+CH;3098;1;Schliern b. Kîniz;0
+CH;3099;0;RÅti b. Riggisberg;0
+CH;3110;0;MÅnsingen;0
+CH;3110;60;MÅnsingen Zust;0
+CH;3111;0;TÑgertschi;0
+CH;3112;0;Allmendingen b. BE;0
+CH;3113;0;Rubigen;0
+CH;3114;0;Wichtrach;0
+CH;3115;0;Gerzensee;0
+CH;3116;0;Kirchdorf BE;0
+CH;3116;2;MÅhledorf BE;0
+CH;3116;3;Noflen BE;0
+CH;3122;0;Kehrsatz;0
+CH;3123;0;Belp;0
+CH;3123;60;Belp Zustellung;0
+CH;3124;0;Belpberg;0
+CH;3125;0;Toffen;0
+CH;3126;0;Kaufdorf;0
+CH;3126;2;Gelterfingen;0
+CH;3127;0;MÅhlethurnen;0
+CH;3127;2;Lohnstorf;0
+CH;3128;0;Kirchenthurnen;0
+CH;3128;2;RÅmligen;0
+CH;3132;0;Riggisberg;0
+CH;3144;0;Gasel;0
+CH;3145;0;Niederscherli;0
+CH;3147;0;MittelhÑusern;0
+CH;3148;0;LanzenhÑusern;0
+CH;3150;0;Schwarzenburg;0
+CH;3150;60;Schwarzenburg Zust;0
+CH;3152;0;Mamishaus;0
+CH;3153;0;RÅschegg Gambach;0
+CH;3154;0;RÅschegg Heubach;0
+CH;3155;0;Helgisried;0
+CH;3156;0;Riffenmatt;0
+CH;3157;0;Milken;0
+CH;3158;0;Guggisberg;0
+CH;3159;0;RiedstÑtt;0
+CH;3172;0;Niederwangen BE;0
+CH;3173;0;Oberwangen b. Bern;0
+CH;3174;0;Thîrishaus;0
+CH;3175;0;Flamatt;0
+CH;3175;60;Flamatt Zustellung;0
+CH;3176;0;Neuenegg;0
+CH;3177;0;Laupen BE;0
+CH;3177;60;Laupen BE Zust;0
+CH;3178;0;Bîsingen;0
+CH;3179;0;Kriechenwil;0
+CH;3182;0;Ueberstorf;0
+CH;3183;0;Albligen;0
+CH;3184;0;WÅnnewil;0
+CH;3185;0;Schmitten FR;0
+CH;3186;0;DÅdingen;0
+CH;3186;60;DÅdingen Zust;0
+CH;3202;0;Frauenkappelen;0
+CH;3203;0;MÅhleberg;0
+CH;3204;0;RosshÑusern;0
+CH;3205;0;GÅmmenen;0
+CH;3206;0;Rizenbach;0
+CH;3206;1;Ferenbalm;0
+CH;3206;2;Wallenbuch;0
+CH;3206;3;Biberen;0
+CH;3206;4;Gammen;0
+CH;3207;0;Wileroltigen;0
+CH;3207;2;Golaten;0
+CH;3208;0;GurbrÅ;0
+CH;3210;0;Kerzers;0
+CH;3210;60;Kerzers Zust;0
+CH;3212;0;Gurmels;0
+CH;3212;2;Kleingurmels;0
+CH;3213;0;Liebistorf;0
+CH;3213;2;Kleinbîsingen;0
+CH;3214;0;Ulmiz;0
+CH;3215;0;Gempenach;0
+CH;3215;2;BÅchslen;0
+CH;3215;3;Lurtigen;0
+CH;3216;0;Ried b. Kerzers;0
+CH;3216;2;Agriswil;0
+CH;3225;0;MÅntschemier;0
+CH;3226;0;Treiten;0
+CH;3232;0;Ins;0
+CH;3233;0;Tschugg;0
+CH;3234;0;Vinelz;0
+CH;3235;0;Erlach;0
+CH;3236;0;Gampelen;0
+CH;3237;0;BrÅttelen;0
+CH;3238;0;Gals;0
+CH;3250;0;Lyss;0
+CH;3250;60;Lyss Zustellung;0
+CH;3250;75;Lyss Kaserne;0
+CH;3251;0;Wengi b. BÅren;0
+CH;3251;2;Ruppoldsried;0
+CH;3252;0;Worben;0
+CH;3253;0;Schnottwil;0
+CH;3254;0;Messen;0
+CH;3254;2;Balm b. Messen;0
+CH;3255;0;Rapperswil BE;0
+CH;3256;0;Dieterswil;0
+CH;3256;2;Bangerten;0
+CH;3256;3;Seewil;0
+CH;3257;0;Grossaffoltern;0
+CH;3257;1;Ammerzwil BE;0
+CH;3262;0;Suberg;0
+CH;3263;0;BÅetigen;0
+CH;3264;0;Diessbach b. BÅren;0
+CH;3266;0;Wiler b. Seedorf;0
+CH;3267;0;Seedorf BE;0
+CH;3268;0;Lobsigen;0
+CH;3270;0;Aarberg;0
+CH;3271;0;Radelfingen;0
+CH;3272;0;Walperswil;0
+CH;3272;2;Epsach;0
+CH;3273;0;Kappelen;0
+CH;3274;0;Hermrigen;0
+CH;3274;2;BÅhl BE;0
+CH;3274;3;Merzligen;0
+CH;3280;0;Murten;0
+CH;3280;2;Meyriez;0
+CH;3280;4;Greng;0
+CH;3280;60;Murten Zustellung;0
+CH;3282;0;Bargen BE;0
+CH;3283;0;Kallnach;0
+CH;3283;2;Niederried b. Kall;0
+CH;3284;0;FrÑschels;0
+CH;3285;0;Galmiz;0
+CH;3286;0;Muntelier;0
+CH;3292;0;Busswil BE;0
+CH;3293;0;Dotzigen;0
+CH;3294;0;BÅren an der Aare;0
+CH;3294;2;Meienried;0
+CH;3294;60;BÅren a.A. Zust;0
+CH;3295;0;RÅti b. BÅren;0
+CH;3296;0;Arch;0
+CH;3297;0;Leuzigen;0
+CH;3298;0;Oberwil b. BÅren;0
+CH;3302;0;Moosseedorf;0
+CH;3303;0;Jegenstorf;0
+CH;3303;2;MÅnchringen;0
+CH;3303;3;Zuzwil BE;0
+CH;3303;4;Ballmoos;0
+CH;3303;60;Jegenstorf Zust;0
+CH;3305;0;Iffwil;0
+CH;3305;2;Scheunen;0
+CH;3306;0;Etzelkofen;0
+CH;3307;0;Brunnenthal;0
+CH;3308;0;Grafenried;0
+CH;3309;0;Kernenried;0
+CH;3309;2;Zauggenried;0
+CH;3312;0;Fraubrunnen;0
+CH;3313;0;BÅren zum Hof;0
+CH;3314;0;Schalunen;0
+CH;3315;0;BÑtterkinden;0
+CH;3315;1;KrÑiligen;0
+CH;3317;0;Limpach;0
+CH;3317;1;MÅlchi;0
+CH;3321;0;SchînbÅhl EKZ;0
+CH;3322;0;Urtenen-SchînbÅhl;0
+CH;3322;1;Mattstetten;0
+CH;3322;60;Urtenen-S Zust;0
+CH;3323;0;BÑriswil BE;0
+CH;3324;0;Hindelbank;0
+CH;3324;2;Mîtschwil;0
+CH;3325;0;Hettiswil;0
+CH;3326;0;Krauchthal;0
+CH;3360;0;Herzogenbuchsee;0
+CH;3360;60;Hbuchsee Zust;0
+CH;3362;0;Niederînz;0
+CH;3363;0;Oberînz;0
+CH;3365;0;Grasswil;0
+CH;3365;2;Seeberg;0
+CH;3366;0;Bettenhausen;0
+CH;3366;2;Bollodingen;0
+CH;3367;0;Thîrigen;0
+CH;3367;2;Ochlenberg;0
+CH;3368;0;Bleienbach;0
+CH;3372;0;Wanzwil;0
+CH;3373;0;Rîthenbach Hbsee;0
+CH;3373;2;Heimenhausen;0
+CH;3374;0;Wangenried;0
+CH;3375;0;Inkwil;0
+CH;3376;0;Graben;0
+CH;3376;2;Berken;0
+CH;3377;0;Walliswil b.Wangen;0
+CH;3380;0;Wangen an der Aare;0
+CH;3380;2;Walliswil-Nbipp;0
+CH;3380;75;Wangen Kaserne;0
+CH;3400;0;Burgdorf;0
+CH;3400;1;Burgdorf 1;0
+CH;3400;5;Burgdorf PF mob;0
+CH;3400;40;Burgdorf Filiale;0
+CH;3400;60;Burgdorf Zust;0
+CH;3400;70;Burgdorf Dist Fil;0
+CH;3401;0;Burgdorf;0
+CH;3402;0;Burgdorf;0
+CH;3412;0;Heimiswil;0
+CH;3413;0;Kaltacker;0
+CH;3414;0;Oberburg;0
+CH;3415;0;Hasle-RÅegsau;0
+CH;3415;1;Hasle b. Burgdorf;0
+CH;3415;2;Schafhausen i. E.;0
+CH;3415;3;RÅegsauschachen;0
+CH;3415;60;Hasle-RÅegsau Zust;0
+CH;3416;0;Affoltern BE;0
+CH;3417;0;RÅegsau;0
+CH;3418;0;RÅegsbach;0
+CH;3419;0;Biembach;0
+CH;3421;0;Lyssach;0
+CH;3421;2;RÅti b. Lyssach;0
+CH;3422;0;Kirchberg BE;0
+CH;3422;1;RÅdtligen;0
+CH;3422;2;AlchenflÅh;0
+CH;3422;60;Kirchberg BE Zust;0
+CH;3423;0;Ersigen;0
+CH;3424;0;Niederîsch;0
+CH;3424;2;Oberîsch;0
+CH;3425;0;Koppigen;0
+CH;3425;2;Willadingen;0
+CH;3426;0;Aefligen;0
+CH;3427;0;Utzenstorf;0
+CH;3428;0;Wiler b.Utzenstorf;0
+CH;3429;0;Hîchstetten-Hells;0
+CH;3429;2;Hîchstetten;0
+CH;3429;3;Hellsau;0
+CH;3432;0;LÅtzelflÅh-Goldb;0
+CH;3433;0;Schwanden i. E.;0
+CH;3434;0;Obergoldbach;0
+CH;3434;1;Landiswil;0
+CH;3435;0;Ramsei;0
+CH;3436;0;ZollbrÅck;0
+CH;3436;60;ZollbrÅck Zust;0
+CH;3437;0;RÅderswil;0
+CH;3438;0;Lauperswil;0
+CH;3439;0;RanflÅh;0
+CH;3452;0;GrÅnenmatt;0
+CH;3453;0;Heimisbach;0
+CH;3454;0;Sumiswald;0
+CH;3454;60;Sumiswald Zust;0
+CH;3455;0;GrÅnen;0
+CH;3456;0;Trachselwald;0
+CH;3457;0;Wasen im Emmental;0
+CH;3462;0;Weier im Emmental;0
+CH;3463;0;HÑusernmoos;0
+CH;3464;0;Schmidigen-MÅhlew;0
+CH;3465;0;DÅrrenroth;0
+CH;3472;0;Wynigen;0
+CH;3472;2;Rumendingen;0
+CH;3473;0;Alchenstorf;0
+CH;3474;0;RÅedisbach;0
+CH;3475;0;Riedtwil;0
+CH;3475;1;Hermiswil;0
+CH;3476;0;Oschwand;0
+CH;3503;0;Gysenstein;0
+CH;3504;0;NiederhÅnigen;0
+CH;3504;2;OberhÅnigen;0
+CH;3506;0;Grosshîchstetten;0
+CH;3507;0;Biglen;0
+CH;3508;0;Arni BE;0
+CH;3510;0;Konolfingen;0
+CH;3510;8;Freimettigen;0
+CH;3510;9;HÑutligen;0
+CH;3510;60;Konolfingen 1 Zust;0
+CH;3512;0;Walkringen;0
+CH;3513;0;Bigenthal;0
+CH;3531;0;Oberthal;0
+CH;3532;0;ZÑziwil;0
+CH;3532;2;Mirchel;0
+CH;3533;0;Bowil;0
+CH;3534;0;Signau;0
+CH;3535;0;SchÅpbach;0
+CH;3536;0;Aeschau;0
+CH;3537;0;Eggiwil;0
+CH;3537;60;Eggiwil Zustellung;0
+CH;3538;0;Rîthenbach i. E.;0
+CH;3543;0;Emmenmatt;0
+CH;3550;0;Langnau i. E.;0
+CH;3550;60;Langnau i. E. Zust;0
+CH;3551;0;Oberfrittenbach;0
+CH;3552;0;BÑrau;0
+CH;3553;0;Gohl;0
+CH;3555;0;Trubschachen;0
+CH;3556;0;Trub;0
+CH;3557;0;Fankhaus (Trub);0
+CH;3600;0;Thun;0
+CH;3600;60;Thun 2 Zustellung;0
+CH;3600;70;Thun Dist Ba;0
+CH;3601;0;Thun;0
+CH;3602;0;Thun;0
+CH;3603;0;Thun;0
+CH;3604;0;Thun;0
+CH;3605;0;Thun;0
+CH;3607;0;Thun;0
+CH;3608;0;Thun;0
+CH;3609;0;Thun;0
+CH;3612;0;Steffisburg;0
+CH;3612;60;Steffisburg 1 Zust;0
+CH;3613;0;Steffisburg;0
+CH;3613;60;Steffisburg 2 Zust;0
+CH;3614;0;Unterlangenegg;0
+CH;3615;0;Heimenschwand;0
+CH;3616;0;Schwarzenegg;0
+CH;3617;0;Fahrni b. Thun;0
+CH;3618;0;SÅderen;0
+CH;3619;0;Eriz;0
+CH;3619;1;Innereriz;0
+CH;3622;0;Homberg b. Thun;0
+CH;3623;0;Teuffenthal BE;0
+CH;3623;2;Horrenbach;0
+CH;3623;3;Buchen BE;0
+CH;3624;0;Goldiwil (Thun);0
+CH;3624;2;Schwendibach;0
+CH;3625;0;Heiligenschwendi;0
+CH;3626;0;HÅnibach;0
+CH;3627;0;Heimberg;0
+CH;3627;60;Heimberg Zust;0
+CH;3628;0;Uttigen;0
+CH;3628;2;KienersrÅti;0
+CH;3629;0;Kiesen;0
+CH;3629;2;Oppligen;0
+CH;3629;3;Jaberg;0
+CH;3631;0;Hîfen b. Thun;0
+CH;3632;2;Niederstocken;0
+CH;3632;3;Oberstocken;0
+CH;3633;0;Amsoldingen;0
+CH;3634;0;Thierachern;0
+CH;3635;0;Uebeschi;0
+CH;3636;0;LÑngenbÅhl;0
+CH;3636;2;Forst;0
+CH;3638;0;Blumenstein;0
+CH;3638;1;Pohlern;0
+CH;3645;0;Gwatt (Thun);0
+CH;3645;2;Zwieselberg;0
+CH;3646;0;Einigen;0
+CH;3647;0;Reutigen;0
+CH;3652;0;Hilterfingen;0
+CH;3653;0;Oberhofen Thun'see;0
+CH;3654;0;Gunten;0
+CH;3655;0;Sigriswil;0
+CH;3656;0;Tschingel;0
+CH;3656;1;Aeschlen ob Gunten;0
+CH;3656;2;Ringoldswil;0
+CH;3657;0;Schwanden Sigrisw;0
+CH;3658;0;Merligen;0
+CH;3661;0;Uetendorf;0
+CH;3661;60;Uetendorf Zust;0
+CH;3662;0;Seftigen;0
+CH;3663;0;Gurzelen;0
+CH;3664;0;Burgistein;0
+CH;3665;0;Wattenwil;0
+CH;3671;0;Brenzikofen;0
+CH;3671;2;Herbligen;0
+CH;3672;0;Oberdiessbach;0
+CH;3672;2;Aeschlen;0
+CH;3673;0;Linden;0
+CH;3674;0;Bleiken;0
+CH;3700;0;Spiez;0
+CH;3700;2;Spiezwiler;0
+CH;3700;60;Spiez Zustellung;0
+CH;3702;0;Hondrich;0
+CH;3703;0;Aeschi b. Spiez;0
+CH;3703;41;Aeschiried;0
+CH;3704;0;Krattigen;0
+CH;3705;0;Faulensee;0
+CH;3706;0;Leissigen;0
+CH;3707;0;DÑrligen;0
+CH;3711;0;Emdthal;0
+CH;3711;2;MÅlenen;0
+CH;3713;0;Reichenbach i. K.;0
+CH;3714;0;Frutigen;0
+CH;3714;3;Wengi b. Frutigen;0
+CH;3714;60;Frutigen Zust;0
+CH;3715;0;Adelboden;0
+CH;3715;60;Adelboden Zust;0
+CH;3716;0;Kandergrund;0
+CH;3717;0;Blausee-Mitholz;0
+CH;3718;0;Kandersteg;0
+CH;3722;0;Scharnachtal;0
+CH;3723;0;Kiental;0
+CH;3724;0;Ried (Frutigen);0
+CH;3725;0;Achseten;0
+CH;3752;0;Wimmis;0
+CH;3753;0;Oey;0
+CH;3754;0;Diemtigen;0
+CH;3755;0;Horboden;0
+CH;3756;0;ZwischenflÅh;0
+CH;3757;0;Schwenden;0
+CH;3758;0;Latterbach;0
+CH;3762;0;Erlenbach i. S.;0
+CH;3763;0;DÑrstetten;0
+CH;3764;0;Weissenburg;0
+CH;3765;0;Oberwil i. S.;0
+CH;3766;0;Boltigen;0
+CH;3770;0;Zweisimmen;0
+CH;3770;60;Zweisimmen Zust;0
+CH;3771;0;Blankenburg;0
+CH;3772;0;St. Stephan;0
+CH;3773;0;Matten(St.Stephan);0
+CH;3775;0;Lenk im Simmental;0
+CH;3775;60;Lenk i. S. Zust;0
+CH;3776;0;Oeschseite;0
+CH;3777;0;Saanenmîser;0
+CH;3778;0;Schînried;0
+CH;3780;0;Gstaad;0
+CH;3780;60;Gstaad Zustellung;0
+CH;3781;0;Turbach;0
+CH;3782;0;Lauenen b. Gstaad;0
+CH;3783;0;Grund b. Gstaad;0
+CH;3784;0;Feutersoey;0
+CH;3785;0;Gsteig b. Gstaad;0
+CH;3792;0;Saanen;0
+CH;3800;0;Interlaken;0
+CH;3800;2;Unterseen;0
+CH;3800;3;Matten b. Interl;0
+CH;3800;5;Sundlauenen;0
+CH;3800;60;Interlaken Zust;0
+CH;3800;76;Interlaken Pauto;0
+CH;3801;33;Jungfraujoch;0
+CH;3803;0;Beatenberg;0
+CH;3804;0;Habkern;0
+CH;3805;0;Goldswil;0
+CH;3806;0;Bînigen;0
+CH;3807;0;Iseltwald;0
+CH;3812;0;Wilderswil;0
+CH;3813;0;Saxeten;0
+CH;3814;0;Gsteigwiler;0
+CH;3815;0;ZweilÅtschinen;0
+CH;3815;2;GÅndlischwand;0
+CH;3816;0;LÅtschental;0
+CH;3816;1;Burglauenen;0
+CH;3818;0;Grindelwald;0
+CH;3818;60;Grindelwald Zust;0
+CH;3822;0;Lauterbrunnen;0
+CH;3822;2;Isenfluh;0
+CH;3823;0;Wengen;0
+CH;3823;1;Kleine Scheidegg;0
+CH;3823;2;Eigergletscher;0
+CH;3824;0;Stechelberg;0
+CH;3825;0;MÅrren;0
+CH;3826;0;Gimmelwald;0
+CH;3852;0;Ringgenberg BE;0
+CH;3853;0;Niederried Interl;0
+CH;3854;0;Oberried Brienz;0
+CH;3855;0;Brienz BE;0
+CH;3855;1;Axalp;0
+CH;3855;41;Schwanden-Brienz;0
+CH;3855;60;Brienz BE Zust;0
+CH;3856;0;Brienzwiler;0
+CH;3857;0;Unterbach BE;0
+CH;3858;0;Hofstetten BE;0
+CH;3860;0;Meiringen;0
+CH;3860;2;Rosenlaui;0
+CH;3860;3;Schattenhalb;0
+CH;3860;4;BrÅnig;0
+CH;3860;60;Meiringen Zust;0
+CH;3862;0;Innertkirchen;0
+CH;3863;0;Gadmen;0
+CH;3864;0;Guttannen;0
+CH;3900;0;Brig;0
+CH;3900;2;Gamsen;0
+CH;3900;3;Brigerbad;0
+CH;3900;60;Brig Zustellung;0
+CH;3900;70;Brig Dist Ba;0
+CH;3900;76;Brig Postauto;0
+CH;3901;23;Rothwald;0
+CH;3902;0;Glis;0
+CH;3903;0;Mund;0
+CH;3903;1;Birgisch;0
+CH;3904;0;Naters;0
+CH;3905;0;Saas-Almagell;0
+CH;3906;0;Saas-Fee;0
+CH;3907;0;Simplon Dorf;0
+CH;3907;2;Simplon Hospiz;0
+CH;3907;3;Gabi (Simplon);0
+CH;3907;4;Gondo;0
+CH;3908;0;Saas-Balen;0
+CH;3910;0;Saas-Grund;0
+CH;3911;0;Ried-Brig;0
+CH;3912;0;Termen;0
+CH;3913;0;Rosswald;0
+CH;3914;0;Blatten b. Naters;0
+CH;3914;1;Belalp;0
+CH;3916;0;Ferden;0
+CH;3917;0;Kippel;0
+CH;3917;2;Goppenstein;0
+CH;3918;0;Wiler (Lîtschen);0
+CH;3919;0;Blatten(Lîtschen);0
+CH;3920;0;Zermatt;0
+CH;3920;60;Zermatt Zustellung;0
+CH;3922;0;Stalden VS;0
+CH;3922;1;Kalpetran;0
+CH;3922;2;Eisten;0
+CH;3923;0;Tîrbel;0
+CH;3924;0;St. Niklaus VS;0
+CH;3924;1;Gasenried;0
+CH;3925;0;GrÑchen;0
+CH;3926;0;Embd;0
+CH;3927;0;Herbriggen;0
+CH;3928;0;Randa;0
+CH;3929;0;TÑsch;0
+CH;3930;0;Visp;0
+CH;3930;2;Eyholz;0
+CH;3930;11;Visp Verkauf;0
+CH;3930;47;Visp Bahnhof SBB;0
+CH;3930;60;Visp Zustellung;0
+CH;3931;1;Lalden;0
+CH;3932;0;Visperterminen;0
+CH;3933;0;Staldenried;0
+CH;3934;0;Zeneggen;0
+CH;3935;0;BÅrchen;0
+CH;3937;0;Baltschieder;0
+CH;3938;0;Ausserberg;0
+CH;3939;0;Eggerberg;0
+CH;3940;0;Steg VS;0
+CH;3940;1;Steg-Gampel;0
+CH;3942;0;Raron;0
+CH;3942;2;Niedergesteln;0
+CH;3942;3;St. German;0
+CH;3943;0;Eischoll;0
+CH;3944;0;UnterbÑch VS;0
+CH;3945;0;Gampel;0
+CH;3945;1;Niedergampel;0
+CH;3946;0;Turtmann;0
+CH;3946;2;Gruben;0
+CH;3947;0;Ergisch;0
+CH;3948;0;Unterems;0
+CH;3948;1;Oberems;0
+CH;3949;0;Hohtenn;0
+CH;3951;0;Agarn;0
+CH;3952;0;Susten;0
+CH;3953;0;Leuk Stadt;0
+CH;3953;1;Inden;0
+CH;3953;2;Varen;0
+CH;3954;0;Leukerbad;0
+CH;3955;0;Albinen;0
+CH;3956;0;Guttet-Feschel;0
+CH;3956;2;Feschel;0
+CH;3956;3;Guttet;0
+CH;3957;0;Erschmatt;0
+CH;3957;2;Bratsch;0
+CH;3960;0;Sierre;0
+CH;3960;2;Corin-de-la-Cràte;0
+CH;3960;3;Loc;0
+CH;3960;4;Niouc;0
+CH;3960;5;Muraz (Sierre);0
+CH;3960;60;Sierre Dist;0
+CH;3960;70;Sierre Dist Fil;0
+CH;3961;21;Vissoie;0
+CH;3961;22;St-Luc;0
+CH;3961;23;Chandolin;0
+CH;3961;24;Ayer;0
+CH;3961;25;Zinal;0
+CH;3961;26;Grimentz;0
+CH;3961;41;St-Jean VS;0
+CH;3963;0;Crans-Montana;0
+CH;3963;1;Crans-Montana 1;0
+CH;3963;2;Crans-Montana 2;0
+CH;3963;3;Montana;0
+CH;3963;4;Aminona;0
+CH;3963;60;C.-Montana 1 Dist;0
+CH;3965;0;Chippis;0
+CH;3966;0;Chalais;0
+CH;3966;1;RÇchy;0
+CH;3967;0;Vercorin;0
+CH;3968;0;Veyras;0
+CH;3970;0;Salgesch;0
+CH;3971;0;Chermignon;0
+CH;3971;1;Chermignon-Bas;0
+CH;3971;2;Ollon VS;0
+CH;3972;0;Miäge;0
+CH;3973;0;Venthìne;0
+CH;3974;0;Mollens VS;0
+CH;3975;0;Randogne;0
+CH;3976;0;Noâs;0
+CH;3976;2;ChampzabÇ;0
+CH;3977;0;Granges VS;0
+CH;3977;60;Granges VS Dist;0
+CH;3978;0;Flanthey;0
+CH;3979;0;Grìne;0
+CH;3982;0;Bitsch;0
+CH;3983;0;Mîrel;0
+CH;3983;2;Bister;0
+CH;3983;3;Filet;0
+CH;3983;4;Goppisberg;0
+CH;3983;5;Greich;0
+CH;3984;0;Fiesch;0
+CH;3984;2;Fieschertal;0
+CH;3985;0;MÅnster VS;0
+CH;3985;2;Geschinen;0
+CH;3986;0;Ried-Mîrel;0
+CH;3987;0;Riederalp;0
+CH;3988;0;Ulrichen;0
+CH;3988;2;Obergesteln;0
+CH;3989;0;Biel VS;0
+CH;3989;1;Grafschaft;0
+CH;3989;2;Ritzingen;0
+CH;3989;3;Selkingen;0
+CH;3989;4;Niederwald;0
+CH;3989;5;Blitzingen;0
+CH;3991;0;Betten;0
+CH;3992;0;Bettmeralp;0
+CH;3993;0;Grengiols;0
+CH;3994;0;Lax;0
+CH;3994;2;Martisberg;0
+CH;3995;0;Ernen;0
+CH;3995;2;Ausserbinn;0
+CH;3995;3;MÅhlebach (Goms);0
+CH;3995;4;Steinhaus;0
+CH;3996;0;Binn;0
+CH;3997;0;Bellwald;0
+CH;3998;0;Reckingen VS;0
+CH;3998;1;Gluringen;0
+CH;3999;0;Oberwald;0
+CH;4000;0;Basel;0
+CH;4000;60;Basel 2 Zustellung;0
+CH;4000;70;Basel Dist Ba;0
+CH;4000;76;Basel Postauto;0
+CH;4001;0;Basel;0
+CH;4002;0;Basel 2 Annahme;0
+CH;4002;2;Basel;0
+CH;4002;50;Basel LZB;0
+CH;4003;0;Basel;0
+CH;4004;0;Basel;0
+CH;4005;0;Basel;0
+CH;4007;0;Basel;0
+CH;4008;0;Basel;0
+CH;4009;0;Basel;0
+CH;4010;0;Basel;0
+CH;4011;0;Basel;0
+CH;4012;0;Basel;0
+CH;4013;0;Basel;0
+CH;4013;1;Basel Voltastrasse;0
+CH;4015;0;Basel;0
+CH;4016;0;Basel;0
+CH;4017;0;Basel;0
+CH;4018;0;Basel;0
+CH;4019;0;Basel;0
+CH;4020;0;Basel;0
+CH;4023;0;Basel;0
+CH;4024;0;Basel;0
+CH;4025;0;Basel;0
+CH;4030;0;Basel;0
+CH;4031;0;Basel UniSpital;0
+CH;4032;0;Basel;0
+CH;4033;0;Basel;0
+CH;4034;0;Basel 34 Breite;0
+CH;4035;0;Basel;0
+CH;4039;0;Basel;0
+CH;4040;2;Basel;0
+CH;4041;0;Basel;0
+CH;4042;0;Basel PF OC;0
+CH;4051;0;Basel;0
+CH;4052;0;Basel;0
+CH;4053;0;Basel;0
+CH;4053;47;Basel Shell;0
+CH;4054;0;Basel;0
+CH;4055;0;Basel;0
+CH;4056;0;Basel;0
+CH;4057;0;Basel;0
+CH;4058;0;Basel;0
+CH;4059;0;Basel;0
+CH;4065;0;Basel SBB Cargo AG;0
+CH;4070;0;Basel;0
+CH;4075;0;Basel;0
+CH;4078;0;Basel Reader's D.;0
+CH;4080;0;Basel;0
+CH;4081;0;Basel;0
+CH;4082;0;Basel;0
+CH;4083;0;Basel;0
+CH;4084;0;Basel;0
+CH;4085;0;Basel;0
+CH;4086;0;Basel;0
+CH;4087;0;Basel;0
+CH;4088;0;Basel;0
+CH;4089;0;Basel;0
+CH;4089;73;Basel SPI GLS;0
+CH;4091;0;Basel;0
+CH;4092;0;Basel SPI AS 22;0
+CH;4093;0;Basel SPI AS 23;0
+CH;4094;0;Basel SPI AS 24;0
+CH;4095;0;Basel SPI AS 25;0
+CH;4096;0;Basel SPI AS 26;0
+CH;4101;0;Bruderholz;0
+CH;4102;0;Binningen;0
+CH;4102;1;Binningen 1;0
+CH;4102;2;Binningen 2;0
+CH;4102;60;Binningen 1 Zust;0
+CH;4103;0;Bottmingen;0
+CH;4104;0;Oberwil BL;0
+CH;4104;60;Oberwil BL Zust;0
+CH;4105;0;Biel-Benken BL;0
+CH;4106;0;Therwil;0
+CH;4106;47;Therwil Shell;0
+CH;4106;60;Therwil Zustellung;0
+CH;4107;0;Ettingen;0
+CH;4108;0;Witterswil;0
+CH;4112;0;BÑttwil-FlÅh;0
+CH;4112;1;BÑttwil;0
+CH;4112;2;FlÅh;0
+CH;4114;0;Hofstetten SO;0
+CH;4115;0;Mariastein;0
+CH;4116;0;Metzerlen;0
+CH;4117;0;Burg im Leimental;0
+CH;4118;0;Rodersdorf;0
+CH;4123;0;Allschwil;0
+CH;4123;1;Allschwil 1;0
+CH;4123;2;Allschwil 2;0
+CH;4123;60;Allschwil Zust;0
+CH;4124;0;Schînenbuch;0
+CH;4125;0;Riehen;0
+CH;4125;1;Riehen 1;0
+CH;4125;2;Riehen 2;0
+CH;4125;60;Riehen 1 Zust;0
+CH;4126;0;Bettingen;0
+CH;4127;0;Birsfelden;0
+CH;4127;60;Birsfelden Zust;0
+CH;4132;0;Muttenz;0
+CH;4132;1;Muttenz 1;0
+CH;4132;2;Muttenz 2;0
+CH;4132;60;Muttenz 1 Zust;0
+CH;4133;0;Pratteln;0
+CH;4133;1;Pratteln 1;0
+CH;4133;2;Pratteln 2;0
+CH;4133;60;Pratteln 1 Zust;0
+CH;4133;89;Pratteln SPI;0
+CH;4142;0;MÅnchenstein;0
+CH;4142;1;MÅnchenstein 1;0
+CH;4142;3;MÅnchenstein 3;0
+CH;4142;60;MÅnchenstein 1 Zus;0
+CH;4143;0;Dornach;0
+CH;4143;1;Dornach 1;0
+CH;4143;2;Dornach 2;0
+CH;4144;0;Arlesheim;0
+CH;4144;60;Arlesheim Zust;0
+CH;4144;80;Arlesheim Hub;0
+CH;4145;0;Gempen;0
+CH;4146;0;Hochwald;0
+CH;4147;0;Aesch BL;0
+CH;4148;0;Pfeffingen;0
+CH;4153;0;Reinach BL;0
+CH;4153;1;Reinach BL 1;0
+CH;4153;2;Reinach BL 2;0
+CH;4153;60;Reinach BL Zust;0
+CH;4202;0;Duggingen;0
+CH;4203;0;Grellingen;0
+CH;4204;0;Himmelried;0
+CH;4204;76;Himmelried Pauto;0
+CH;4206;0;Seewen SO;0
+CH;4207;0;Bretzwil;0
+CH;4208;0;Nunningen;0
+CH;4222;0;Zwingen;0
+CH;4223;0;Blauen;0
+CH;4224;0;Nenzlingen;0
+CH;4225;0;Brislach;0
+CH;4226;0;Breitenbach;0
+CH;4227;0;BÅsserach;0
+CH;4228;0;Erschwil;0
+CH;4229;0;Beinwil SO;0
+CH;4232;0;Fehren;0
+CH;4233;0;Meltingen;0
+CH;4234;0;Zullwil;0
+CH;4242;0;Laufen;0
+CH;4242;60;Laufen Zustellung;0
+CH;4243;0;Dittingen;0
+CH;4244;0;Rîschenz;0
+CH;4245;0;KleinlÅtzel;0
+CH;4246;0;Wahlen b. Laufen;0
+CH;4247;0;Grindel;0
+CH;4252;0;BÑrschwil;0
+CH;4252;1;BÑrschwil Dorf;0
+CH;4253;0;Liesberg;0
+CH;4254;0;Liesberg Dorf;0
+CH;4302;0;Augst BL;0
+CH;4303;0;Kaiseraugst;0
+CH;4303;3;Kaiseraugst Lieb.;0
+CH;4304;0;Giebenach;0
+CH;4305;0;Olsberg;0
+CH;4310;0;Rheinfelden;0
+CH;4310;1;Rheinfelden 1;0
+CH;4310;2;Rheinfelden 2;0
+CH;4310;47;Rheinfelden SBB;0
+CH;4310;60;Rheinfelden 1 Zust;0
+CH;4310;76;Rheinfelden PAuto;0
+CH;4310;89;Rheinfelden SPI;0
+CH;4312;0;Magden;0
+CH;4313;0;Mîhlin;0
+CH;4313;60;Mîhlin Zustellung;0
+CH;4314;0;Zeiningen;0
+CH;4315;0;Zuzgen;0
+CH;4316;0;Hellikon;0
+CH;4317;0;Wegenstetten;0
+CH;4322;0;Mumpf;0
+CH;4323;0;Wallbach;0
+CH;4324;0;Obermumpf;0
+CH;4325;0;Schupfart;0
+CH;4332;0;Stein AG;0
+CH;4333;0;MÅnchwilen AG;0
+CH;4334;0;Sisseln AG;0
+CH;4402;0;Frenkendorf;0
+CH;4410;0;Liestal;0
+CH;4410;47;Liestal SBB;0
+CH;4410;60;Liestal Zustellung;0
+CH;4410;70;Liestal Dist Fil;0
+CH;4410;75;Liestal Kaserne;0
+CH;4411;0;Seltisberg;0
+CH;4412;0;Nuglar;0
+CH;4413;0;BÅren SO;0
+CH;4414;0;FÅllinsdorf;0
+CH;4414;60;FÅllinsdorf Zust;0
+CH;4415;0;Lausen;0
+CH;4415;60;Lausen Zustellung;0
+CH;4416;0;Bubendorf;0
+CH;4416;60;Bubendorf Zust;0
+CH;4417;0;Ziefen;0
+CH;4418;0;Reigoldswil;0
+CH;4419;0;Lupsingen;0
+CH;4421;0;St. Pantaleon;0
+CH;4422;0;Arisdorf;0
+CH;4423;0;Hersberg;0
+CH;4424;0;Arboldswil;0
+CH;4425;0;Titterten;0
+CH;4426;0;Lauwil;0
+CH;4431;0;Bennwil;0
+CH;4432;0;Lampenberg;0
+CH;4433;0;Ramlinsburg;0
+CH;4434;0;Hîlstein;0
+CH;4435;0;Niederdorf;0
+CH;4436;0;Oberdorf BL;0
+CH;4436;2;Liedertswil;0
+CH;4437;0;Waldenburg;0
+CH;4438;0;Langenbruck;0
+CH;4441;0;ThÅrnen;0
+CH;4442;0;Diepflingen;0
+CH;4443;0;Wittinsburg;0
+CH;4444;0;RÅmlingen;0
+CH;4445;0;HÑfelfingen;0
+CH;4446;0;Buckten;0
+CH;4447;0;KÑnerkinden;0
+CH;4448;0;LÑufelfingen;0
+CH;4450;0;Sissach;0
+CH;4450;60;Sissach Zustellung;0
+CH;4451;0;Wintersingen;0
+CH;4452;0;Itingen;0
+CH;4453;0;Nusshof;0
+CH;4455;0;Zunzgen;0
+CH;4456;0;Tenniken;0
+CH;4457;0;Diegten;0
+CH;4458;0;Eptingen;0
+CH;4460;0;Gelterkinden;0
+CH;4460;60;Gelterkinden Zust;0
+CH;4461;0;Bîckten;0
+CH;4462;0;Rickenbach BL;0
+CH;4463;0;Buus;0
+CH;4464;0;Maisprach;0
+CH;4465;0;Hemmiken;0
+CH;4466;0;Ormalingen;0
+CH;4467;0;Rothenfluh;0
+CH;4468;0;Kienberg;0
+CH;4469;0;Anwil;0
+CH;4492;0;Tecknau;0
+CH;4493;0;Wenslingen;0
+CH;4494;0;Oltingen;0
+CH;4495;0;Zeglingen;0
+CH;4496;0;Kilchberg BL;0
+CH;4497;0;RÅnenberg;0
+CH;4500;0;Solothurn;0
+CH;4500;1;Solothurn 1;0
+CH;4500;47;Solothurn SBB;0
+CH;4500;60;Solothurn 1 Zust;0
+CH;4501;0;Solothurn;0
+CH;4501;68;Solothurn 1 Ann.;0
+CH;4502;0;Solothurn;0
+CH;4503;0;Solothurn;0
+CH;4509;0;Solothurn;0
+CH;4512;0;Bellach;0
+CH;4512;60;Bellach Zustellung;0
+CH;4513;0;Langendorf;0
+CH;4514;0;Lommiswil;0
+CH;4515;0;Oberdorf SO;0
+CH;4515;1;Weissenstein;0
+CH;4522;0;RÅttenen;0
+CH;4523;0;Niederwil SO;0
+CH;4524;0;GÅnsberg;0
+CH;4524;2;Balmberg;0
+CH;4524;3;Oberbalmberg;0
+CH;4525;0;Balm b. GÅnsberg;0
+CH;4528;0;Zuchwil;0
+CH;4532;0;Feldbrunnen;0
+CH;4533;0;Riedholz;0
+CH;4534;0;Flumenthal;0
+CH;4535;0;Hubersdorf;0
+CH;4535;2;Kammersrohr;0
+CH;4536;0;Attiswil;0
+CH;4537;0;Wiedlisbach;0
+CH;4538;0;Oberbipp;0
+CH;4539;0;Rumisberg;0
+CH;4539;2;Farnern;0
+CH;4542;0;Luterbach;0
+CH;4543;0;Deitingen;0
+CH;4551;0;Derendingen;0
+CH;4552;0;Derendingen;0
+CH;4552;60;Derendingen Zust;0
+CH;4553;0;Subingen;0
+CH;4554;0;Etziken;0
+CH;4554;2;HÅniken;0
+CH;4556;0;Aeschi SO;0
+CH;4556;2;Bolken;0
+CH;4556;3;BurgÑschi;0
+CH;4556;4;Steinhof SO;0
+CH;4557;0;Horriwil;0
+CH;4558;0;Hersiwil;0
+CH;4558;2;Heinrichswil;0
+CH;4558;3;Winistorf;0
+CH;4562;0;Biberist;0
+CH;4563;0;Gerlafingen;0
+CH;4563;60;Gerlafingen Zust;0
+CH;4564;0;Obergerlafingen;0
+CH;4564;1;Zielebach;0
+CH;4565;0;Recherswil;0
+CH;4566;0;Kriegstetten;0
+CH;4566;2;Halten;0
+CH;4566;3;Oekingen;0
+CH;4571;0;LÅterkofen-Ichert;0
+CH;4571;1;LÅterkofen;0
+CH;4571;2;Ichertswil;0
+CH;4573;0;Lohn-Ammannsegg;0
+CH;4574;0;Nennigkofen;0
+CH;4574;1;LÅsslingen;0
+CH;4576;0;Tscheppach;0
+CH;4577;0;Hessigkofen;0
+CH;4578;0;Bibern SO;0
+CH;4579;0;Gossliwil;0
+CH;4581;0;KÅttigkofen;0
+CH;4582;0;BrÅgglen;0
+CH;4583;0;MÅhledorf SO;0
+CH;4583;2;Aetigkofen;0
+CH;4584;2;LÅterswil;0
+CH;4584;3;GÑchliwil;0
+CH;4585;0;Biezwil;0
+CH;4586;0;Kyburg-Buchegg;0
+CH;4587;0;Aetingen;0
+CH;4588;0;Unterramsern;0
+CH;4588;1;Brittern;0
+CH;4588;2;Oberramsern;0
+CH;4600;0;Olten;0
+CH;4600;1;Olten 1;0
+CH;4600;45;Olten Personal;0
+CH;4600;60;Olten 2 Zustellung;0
+CH;4601;0;Olten 1 FÑcher;0
+CH;4603;0;Olten;0
+CH;4609;0;Olten;0
+CH;4611;0;HÑrkingen SC;0
+CH;4612;0;Wangen b. Olten;0
+CH;4613;0;Rickenbach SO;0
+CH;4614;0;HÑgendorf;0
+CH;4614;60;HÑgendorf Zust;0
+CH;4615;0;Allerheiligenberg;0
+CH;4616;0;Kappel SO;0
+CH;4617;0;Gunzgen;0
+CH;4618;0;Boningen;0
+CH;4620;0;HÑrkingen PZ;0
+CH;4620;70;HÑrkingen Dist Ba;0
+CH;4621;49;HÑrkingen SPS DO;0
+CH;4621;50;HÑrkingen BZ;0
+CH;4621;57;HÑrkingen Briefkl.;0
+CH;4621;59;HÑrkingen SPS AG;0
+CH;4621;68;HÑrkingen FZ;0
+CH;4622;0;Egerkingen;0
+CH;4623;0;Neuendorf;0
+CH;4624;0;HÑrkingen;0
+CH;4625;0;Oberbuchsiten;0
+CH;4626;0;Niederbuchsiten;0
+CH;4628;0;Wolfwil;0
+CH;4629;0;Fulenbach;0
+CH;4630;0;HÑrkingen CALL;0
+CH;4632;0;Trimbach;0
+CH;4632;60;Trimbach Zust;0
+CH;4633;0;Hauenstein;0
+CH;4634;0;Wisen SO;0
+CH;4640;0;HÑrkingen ST PP 1;0
+CH;4652;0;Winznau;0
+CH;4653;0;Obergîsgen;0
+CH;4654;0;Lostorf;0
+CH;4655;0;StÅsslingen;0
+CH;4655;2;Rohr b. Olten;0
+CH;4656;0;Starrkirch-Wil;0
+CH;4657;0;Dulliken;0
+CH;4658;0;DÑniken SO;0
+CH;4663;0;Aarburg;0
+CH;4663;60;Aarburg Zust;0
+CH;4665;0;Oftringen;0
+CH;4665;1;Oftringen 1;0
+CH;4665;2;Oftringen 2;0
+CH;4665;60;Oftringen 1 Zust;0
+CH;4665;72;Oftringen PL Hub;0
+CH;4665;74;Oftringen SPN;0
+CH;4702;0;Oensingen;0
+CH;4702;47;Oensingen SBB;0
+CH;4702;60;Oensingen Zust;0
+CH;4702;85;Oensingen Hub;0
+CH;4703;0;Kestenholz;0
+CH;4704;0;Niederbipp;0
+CH;4704;2;Wolfisberg;0
+CH;4704;60;Niederbipp Zust;0
+CH;4710;0;Balsthal;0
+CH;4710;60;Balsthal Zust;0
+CH;4710;76;Balsthal Postauto;0
+CH;4712;0;Laupersdorf;0
+CH;4713;0;Matzendorf;0
+CH;4714;0;Aedermannsdorf;0
+CH;4715;0;Herbetswil;0
+CH;4716;0;Welschenrohr;0
+CH;4716;1;GÑnsbrunnen;0
+CH;4717;0;MÅmliswil;0
+CH;4718;0;Holderbank SO;0
+CH;4719;0;Ramiswil;0
+CH;4800;0;Zofingen;0
+CH;4800;40;Zofingen PFinance;0
+CH;4800;41;Zofingen PF 368-2;0
+CH;4800;45;Zofingen 3 Kudi PK;0
+CH;4800;47;Zofingen SBB;0
+CH;4800;48;Zofingen B&V GK;0
+CH;4800;49;Zofingen PF 368-1;0
+CH;4800;60;Zofingen Zust;0
+CH;4801;0;Zofingen;0
+CH;4802;0;Strengelbach;0
+CH;4803;0;Vordemwald;0
+CH;4805;0;Brittnau;0
+CH;4806;0;Wikon;0
+CH;4807;40;Zofingen PF;0
+CH;4808;40;Zofingen PF;0
+CH;4809;0;Zofingen PF;0
+CH;4809;1;Zofingen PF UBS;0
+CH;4812;0;MÅhlethal;0
+CH;4813;0;Uerkheim;0
+CH;4814;0;Bottenwil;0
+CH;4852;0;Rothrist;0
+CH;4852;60;Rothrist Zust;0
+CH;4853;0;Murgenthal;0
+CH;4853;2;Riken AG;0
+CH;4856;0;GlashÅtten;0
+CH;4900;0;Langenthal;0
+CH;4900;1;Langenthal 1;0
+CH;4900;60;Langenthal 1 Zust;0
+CH;4901;0;Langenthal;0
+CH;4902;0;Langenthal;0
+CH;4911;0;SchwarzhÑusern;0
+CH;4912;0;Aarwangen;0
+CH;4913;0;Bannwil;0
+CH;4914;0;Roggwil BE;0
+CH;4915;0;St. Urban;0
+CH;4916;0;Untersteckholz;0
+CH;4917;0;Melchnau;0
+CH;4917;2;Busswil b.Melchnau;0
+CH;4919;0;Reisiswil;0
+CH;4922;0;BÅtzberg;0
+CH;4922;2;Thunstetten;0
+CH;4923;0;Wynau;0
+CH;4924;0;Obersteckholz;0
+CH;4932;0;Lotzwil;0
+CH;4932;2;Gutenburg;0
+CH;4933;0;RÅtschelen;0
+CH;4934;0;Madiswil;0
+CH;4935;0;Leimiswil;0
+CH;4936;0;Kleindietwil;0
+CH;4937;0;Ursenbach;0
+CH;4938;0;Rohrbach;0
+CH;4938;2;Rohrbachgraben;0
+CH;4942;0;Walterswil BE;0
+CH;4943;0;Oeschenbach;0
+CH;4944;0;Auswil;0
+CH;4950;0;Huttwil;0
+CH;4950;60;Huttwil Zustellung;0
+CH;4952;0;Eriswil;0
+CH;4953;0;Schwarzenbach BE;0
+CH;4954;0;Wyssachen;0
+CH;4955;0;Gondiswil;0
+CH;5000;0;Aarau;0
+CH;5000;1;Aarau 1;0
+CH;5000;3;Aarau 3;0
+CH;5000;60;Aarau 1 Zustellung;0
+CH;5000;75;Aarau Kaserne;0
+CH;5000;76;Aarau Postauto AG;0
+CH;5001;0;Aarau 1 FÑcher;0
+CH;5004;0;Aarau;0
+CH;5010;80;DÑniken PZ;0
+CH;5012;0;Schînenwerd;0
+CH;5012;3;Wîschnau;0
+CH;5012;4;Eppenberg;0
+CH;5012;60;Schînenwerd Zust;0
+CH;5013;0;Niedergîsgen;0
+CH;5014;0;Gretzenbach;0
+CH;5015;0;Erlinsbach SO;0
+CH;5017;0;Barmelweid;0
+CH;5018;0;Erlinsbach;0
+CH;5022;0;Rombach;0
+CH;5023;0;Biberstein;0
+CH;5024;0;KÅttigen;0
+CH;5025;0;Asp;0
+CH;5026;0;DensbÅren;0
+CH;5027;0;Herznach;0
+CH;5028;0;Ueken;0
+CH;5032;0;Aarau Rohr;0
+CH;5033;0;Buchs AG;0
+CH;5033;60;Buchs AG Zust;0
+CH;5034;0;Suhr;0
+CH;5034;60;Suhr Zustellung;0
+CH;5035;0;Unterentfelden;0
+CH;5036;0;Oberentfelden;0
+CH;5036;60;Oberentfelden Zust;0
+CH;5037;0;Muhen;0
+CH;5040;0;Schîftland;0
+CH;5042;0;Hirschthal;0
+CH;5043;0;Holziken;0
+CH;5044;0;Schlossrued;0
+CH;5046;0;Schmiedrued-Walde;0
+CH;5046;1;Schmiedrued;0
+CH;5046;2;Walde AG;0
+CH;5053;0;Staffelbach;0
+CH;5053;2;Wittwil;0
+CH;5054;0;Kirchleerau-Moosle;0
+CH;5054;1;Kirchleerau;0
+CH;5054;2;Moosleerau;0
+CH;5056;0;Attelwil;0
+CH;5057;0;Reitnau;0
+CH;5058;0;Wiliberg;0
+CH;5062;0;Oberhof;0
+CH;5063;0;Wîlflinswil;0
+CH;5064;0;Wittnau;0
+CH;5070;0;Frick;0
+CH;5070;60;Frick Zustellung;0
+CH;5072;0;Oeschgen;0
+CH;5073;0;Gipf-Oberfrick;0
+CH;5074;0;Eiken;0
+CH;5075;0;Hornussen;0
+CH;5076;0;Bîzen;0
+CH;5077;0;Elfingen;0
+CH;5078;0;Effingen;0
+CH;5079;0;Zeihen;0
+CH;5080;0;Laufenburg;0
+CH;5082;0;Kaisten;0
+CH;5083;0;Ittenthal;0
+CH;5084;0;Rheinsulz;0
+CH;5085;0;Sulz AG;0
+CH;5102;0;Rupperswil;0
+CH;5103;0;Wildegg;0
+CH;5103;2;Mîriken AG;0
+CH;5105;0;Auenstein;0
+CH;5106;0;Veltheim AG;0
+CH;5107;0;Schinznach Dorf;0
+CH;5108;0;Oberflachs;0
+CH;5112;0;Thalheim AG;0
+CH;5113;0;Holderbank AG;0
+CH;5116;0;Schinznach Bad;0
+CH;5200;0;Brugg AG;0
+CH;5200;1;Brugg AG 1;0
+CH;5200;3;Brugg AG 3;0
+CH;5200;47;Brugg Bahnhof SBB;0
+CH;5200;60;Brugg AG 1 Zust;0
+CH;5200;70;Brugg AG Dist Fil;0
+CH;5200;75;Brugg AG Kaserne;0
+CH;5201;0;Brugg AG;0
+CH;5210;0;Windisch;0
+CH;5212;0;Hausen AG;0
+CH;5213;0;Villnachern;0
+CH;5222;0;Umiken;0
+CH;5223;0;Riniken;0
+CH;5224;0;Unterbîzberg;0
+CH;5224;2;Gallenkirch;0
+CH;5224;3;Linn;0
+CH;5225;0;Oberbîzberg;0
+CH;5232;0;Villigen PSI;0
+CH;5233;0;Stilli;0
+CH;5234;0;Villigen;0
+CH;5235;0;RÅfenach AG;0
+CH;5236;0;Remigen;0
+CH;5237;0;Mînthal;0
+CH;5242;0;Birr-Lupfig;0
+CH;5242;1;Birr;0
+CH;5242;2;Lupfig;0
+CH;5242;60;Birr-Lupfig Zust;0
+CH;5243;0;MÅlligen;0
+CH;5244;0;Birrhard;0
+CH;5245;0;Habsburg;0
+CH;5246;0;Scherz;0
+CH;5272;0;Gansingen;0
+CH;5273;0;Oberhofen AG;0
+CH;5274;0;Mettau;0
+CH;5275;0;Etzgen;0
+CH;5276;0;Wil AG;0
+CH;5277;0;Hottwil;0
+CH;5300;0;Turgi;0
+CH;5301;0;Siggenthal Station;0
+CH;5303;0;WÅrenlingen;0
+CH;5304;0;Endingen;0
+CH;5305;0;Unterendingen;0
+CH;5306;0;Tegerfelden;0
+CH;5312;0;Dîttingen;0
+CH;5312;60;Dîttingen Zust;0
+CH;5313;0;Klingnau;0
+CH;5314;0;Kleindîttingen;0
+CH;5315;0;Bîttstein;0
+CH;5316;0;Leuggern;0
+CH;5316;2;Felsenau AG;0
+CH;5317;0;Hettenschwil;0
+CH;5318;0;Mandach;0
+CH;5322;0;Koblenz;0
+CH;5323;0;Rietheim;0
+CH;5324;0;Full-Reuenthal;0
+CH;5325;0;Leibstadt;0
+CH;5326;0;Schwaderloch;0
+CH;5330;0;Bad Zurzach;0
+CH;5332;0;Rekingen AG;0
+CH;5333;0;Baldingen;0
+CH;5334;0;Bîbikon;0
+CH;5400;0;Baden;0
+CH;5400;1;Baden 1;0
+CH;5400;60;Baden 1 Zustellung;0
+CH;5400;74;Baden 1 PAD;0
+CH;5400;80;Baden IM;0
+CH;5401;0;Baden;0
+CH;5402;0;Baden;0
+CH;5404;0;Baden;0
+CH;5405;0;Baden;0
+CH;5405;1;Baden TÑfern;0
+CH;5405;2;DÑttwil AG;0
+CH;5405;47;Baden B&V GK 2;0
+CH;5405;48;Baden B&V GK;0
+CH;5406;0;Baden;0
+CH;5406;2;RÅtihof;0
+CH;5408;0;Ennetbaden;0
+CH;5412;0;Gebenstorf;0
+CH;5412;1;Vogelsang AG;0
+CH;5413;0;Birmenstorf AG;0
+CH;5415;0;Nussbaumen AG;0
+CH;5415;1;Hertenstein AG;0
+CH;5415;2;Rieden AG;0
+CH;5415;60;Nussbaumen AG Zust;0
+CH;5416;0;Kirchdorf AG;0
+CH;5417;0;Untersiggenthal;0
+CH;5420;0;Ehrendingen;0
+CH;5423;0;Freienwil;0
+CH;5425;0;Schneisingen;0
+CH;5426;0;Lengnau AG;0
+CH;5430;0;Wettingen;0
+CH;5430;1;Wettingen 1;0
+CH;5430;2;Wettingen 2;0
+CH;5430;3;Wettingen 3;0
+CH;5430;60;Wettingen 1 Zust;0
+CH;5431;0;Wettingen Sonderd;0
+CH;5432;0;Neuenhof;0
+CH;5436;0;WÅrenlos;0
+CH;5442;0;Fislisbach;0
+CH;5443;0;Niederrohrdorf;0
+CH;5444;0;KÅnten;0
+CH;5445;0;Eggenwil;0
+CH;5452;0;Oberrohrdorf;0
+CH;5453;0;Remetschwil;0
+CH;5454;0;Bellikon;0
+CH;5462;0;Siglistorf;0
+CH;5463;0;Wislikofen;0
+CH;5464;0;RÅmikon AG;0
+CH;5465;0;Mellikon;0
+CH;5466;0;Kaiserstuhl AG;0
+CH;5467;0;Fisibach;0
+CH;5502;0;Hunzenschwil;0
+CH;5503;0;Schafisheim;0
+CH;5504;0;Othmarsingen;0
+CH;5505;0;Brunegg;0
+CH;5506;0;MÑgenwil;0
+CH;5506;70;MÑgenwil Dist Ba;0
+CH;5506;71;MÑgenwil GKA;0
+CH;5506;73;MÑgenwil HUB;0
+CH;5507;0;Mellingen;0
+CH;5512;0;Wohlenschwil;0
+CH;5522;0;TÑgerig;0
+CH;5524;0;Niederwil AG;0
+CH;5524;2;Nesselnbach;0
+CH;5525;0;Fischbach-Gîslikon;0
+CH;5600;0;Lenzburg;0
+CH;5600;1;Lenzburg 1;0
+CH;5600;2;Lenzburg 2;0
+CH;5600;3;Ammerswil AG;0
+CH;5600;47;Lenzburg SBB;0
+CH;5600;60;Lenzburg Zust;0
+CH;5601;0;Lenzburg Sonderdst;0
+CH;5603;0;Staufen;0
+CH;5604;0;Hendschiken;0
+CH;5605;0;Dottikon;0
+CH;5605;60;Dottikon Zust;0
+CH;5606;0;Dintikon;0
+CH;5607;0;HÑgglingen;0
+CH;5608;0;Stetten AG;0
+CH;5610;0;Wohlen AG;0
+CH;5610;1;Wohlen AG 1;0
+CH;5610;2;Wohlen AG 2;0
+CH;5610;60;Wohlen AG 1 Zust;0
+CH;5610;70;Dintikon LCD;0
+CH;5611;0;Anglikon;0
+CH;5612;0;Villmergen;0
+CH;5613;0;Hilfikon;0
+CH;5614;0;Sarmenstorf;0
+CH;5615;0;Fahrwangen;0
+CH;5616;0;Meisterschwanden;0
+CH;5617;0;Tennwil;0
+CH;5618;0;Bettwil;0
+CH;5619;0;BÅttikon AG;0
+CH;5619;2;Uezwil;0
+CH;5620;0;Bremgarten AG;0
+CH;5620;1;Bremgarten AG 1;0
+CH;5620;2;Bremgarten AG 2;0
+CH;5620;60;Bremgarten 1 Zust;0
+CH;5620;75;Bremgarten AG Kas;0
+CH;5621;0;Zufikon;0
+CH;5622;0;Waltenschwil;0
+CH;5623;0;Boswil;0
+CH;5624;0;BÅnzen;0
+CH;5624;2;WaldhÑusern AG;0
+CH;5625;0;Kallern;0
+CH;5626;0;Hermetschwil-Staff;0
+CH;5627;0;BesenbÅren;0
+CH;5628;0;Aristau;0
+CH;5630;0;Muri AG;0
+CH;5630;60;Muri AG Zustellung;0
+CH;5632;0;Buttwil;0
+CH;5634;0;Merenschwand;0
+CH;5636;0;Benzenschwil;0
+CH;5637;0;Beinwil (Freiamt);0
+CH;5637;2;Geltwil;0
+CH;5642;0;MÅhlau;0
+CH;5643;0;Sins;0
+CH;5643;2;Alikon;0
+CH;5643;3;Meienberg;0
+CH;5644;0;Auw;0
+CH;5645;0;Aettenschwil;0
+CH;5645;2;Fenkrieden;0
+CH;5646;0;Abtwil AG;0
+CH;5647;0;OberrÅti;0
+CH;5702;0;Niederlenz;0
+CH;5703;0;Seon;0
+CH;5703;60;Seon Zustellung;0
+CH;5704;0;Egliswil;0
+CH;5705;0;Hallwil;0
+CH;5706;0;Boniswil;0
+CH;5707;0;Seengen;0
+CH;5708;0;Birrwil;0
+CH;5712;0;Beinwil am See;0
+CH;5722;0;GrÑnichen;0
+CH;5722;60;GrÑnichen Zust;0
+CH;5723;0;Teufenthal AG;0
+CH;5724;0;DÅrrenÑsch;0
+CH;5725;0;Leutwil;0
+CH;5726;0;Unterkulm;0
+CH;5726;60;Unterkulm Zust;0
+CH;5727;0;Oberkulm;0
+CH;5728;0;Gontenschwil;0
+CH;5732;0;Zetzwil;0
+CH;5733;0;Leimbach AG;0
+CH;5734;0;Reinach AG;0
+CH;5734;60;Reinach AG Zust;0
+CH;5735;0;Pfeffikon LU;0
+CH;5736;0;Burg AG;0
+CH;5737;0;Menziken;0
+CH;5742;0;Kîlliken;0
+CH;5745;0;Safenwil;0
+CH;5746;0;Walterswil SO;0
+CH;6000;0;Luzern;0
+CH;6000;1;Luzern 1 Annahme;0
+CH;6000;2;Luzern 2;0
+CH;6000;4;Luzern 4;0
+CH;6000;5;Luzern 5;0
+CH;6000;6;Luzern 6;0
+CH;6000;7;Luzern 7;0
+CH;6000;10;Luzern 10;0
+CH;6000;11;Luzern 11;0
+CH;6000;14;Luzern 14;0
+CH;6000;15;Luzern 15;0
+CH;6000;16;Luzern 16;0
+CH;6000;30;Luzern 30 AAL;0
+CH;6000;31;Luzern 31;0
+CH;6000;47;Luzern Bahnhof SBB;0
+CH;6000;48;Luzern 1 PF;0
+CH;6000;60;Luzern Zust;0
+CH;6000;75;Luzern Kaserne;0
+CH;6000;76;Luzern Postauto;0
+CH;6002;2;Luzern;0
+CH;6002;46;Luzern Uni PG;0
+CH;6003;0;Luzern;0
+CH;6004;0;Luzern;0
+CH;6005;0;Luzern;0
+CH;6005;2;St. Niklausen LU;0
+CH;6006;0;Luzern;0
+CH;6007;0;Luzern;0
+CH;6008;0;Luzern;0
+CH;6009;0;Luzern;0
+CH;6010;0;Kriens;0
+CH;6010;1;Kriens 1;0
+CH;6010;2;Pilatus Kulm;0
+CH;6010;3;Kriens 2 Sternmatt;0
+CH;6010;4;Kriens 2;0
+CH;6010;50;Kriens LZB;0
+CH;6010;60;Kriens 2 Zust;0
+CH;6010;81;Kriens PF KD LU 2;0
+CH;6011;0;Kriens;0
+CH;6012;0;Obernau;0
+CH;6013;0;Eigenthal;0
+CH;6014;0;Luzern;0
+CH;6015;0;Luzern;0
+CH;6015;60;Luzern R'bÅhl Zust;0
+CH;6016;0;HellbÅhl;0
+CH;6017;0;Ruswil;0
+CH;6017;60;Ruswil Zustellung;0
+CH;6018;0;Buttisholz;0
+CH;6019;0;Sigigen;0
+CH;6020;0;EmmenbrÅcke;0
+CH;6020;1;EmmenbrÅcke 1;0
+CH;6020;2;EmmenbrÅcke 2;0
+CH;6020;3;EmmenbrÅcke 3;0
+CH;6020;11;EmmenbrÅcke SB;0
+CH;6020;60;EmmenbrÅcke 1 Zust;0
+CH;6021;0;EmmenbrÅcke 1;0
+CH;6022;0;Grosswangen;0
+CH;6023;0;Rothenburg;0
+CH;6023;60;Rothenburg Zust;0
+CH;6023;70;Rothenburg DIST BA;0
+CH;6024;0;Hildisrieden;0
+CH;6025;0;Neudorf;0
+CH;6026;0;Rain;0
+CH;6027;0;Rîmerswil LU;0
+CH;6028;0;Herlisberg;0
+CH;6030;0;Ebikon;0
+CH;6030;60;Ebikon Zustellung;0
+CH;6031;0;Ebikon;0
+CH;6032;0;Emmen;0
+CH;6032;60;Emmen Zustellung;0
+CH;6032;75;Emmen Kaserne;0
+CH;6033;0;Buchrain;0
+CH;6034;0;Inwil;0
+CH;6035;0;Perlen;0
+CH;6036;0;Dierikon;0
+CH;6037;0;Root;0
+CH;6037;60;Root Zustellung;0
+CH;6038;0;Gisikon;0
+CH;6038;2;Honau;0
+CH;6039;0;Root LÑngenbold;0
+CH;6039;5;Root LÑngenbold SH;0
+CH;6042;0;Dietwil;0
+CH;6043;0;Adligenswil;0
+CH;6043;60;Adligenswil Zust;0
+CH;6044;0;Udligenswil;0
+CH;6045;0;Meggen;0
+CH;6045;60;Meggen Zustellung;0
+CH;6047;0;Kastanienbaum;0
+CH;6048;0;Horw;0
+CH;6052;0;Hergiswil NW;0
+CH;6052;60;Hergiswil NW Zust;0
+CH;6053;0;Alpnachstad;0
+CH;6055;0;Alpnach Dorf;0
+CH;6055;60;Alpnach Zustellung;0
+CH;6056;0;KÑgiswil;0
+CH;6060;0;Sarnen;0
+CH;6060;1;Sarnen 1;0
+CH;6060;2;Ramersberg;0
+CH;6060;3;Sarnen 2 BÅntenp.;0
+CH;6060;4;Sarnen 2;0
+CH;6060;60;Sarnen 2 Zust;0
+CH;6061;0;Sarnen 1;0
+CH;6062;0;Wilen (Sarnen);0
+CH;6063;0;Stalden (Sarnen);0
+CH;6064;0;Kerns;0
+CH;6066;0;St. Niklausen OW;0
+CH;6067;0;Melchtal;0
+CH;6068;0;Melchsee-Frutt;0
+CH;6072;0;Sachseln;0
+CH;6073;0;FlÅeli-Ranft;0
+CH;6074;0;Giswil;0
+CH;6078;0;Lungern;0
+CH;6078;2;BÅrglen OW;0
+CH;6083;0;Hasliberg Hohfluh;0
+CH;6084;0;Hasliberg Wasserw;0
+CH;6085;0;Hasliberg Goldern;0
+CH;6086;0;Hasliberg Reuti;0
+CH;6102;0;Malters;0
+CH;6102;60;Malters Zust;0
+CH;6103;0;Schwarzenberg LU;0
+CH;6105;0;Schachen LU;0
+CH;6106;0;Werthenstein;0
+CH;6110;0;Wolhusen;0
+CH;6110;2;Fontannen;0
+CH;6110;60;Wolhusen Zust;0
+CH;6112;0;Doppleschwand;0
+CH;6113;0;Romoos;0
+CH;6114;0;Steinhuserberg;0
+CH;6122;0;Menznau;0
+CH;6123;0;Geiss;0
+CH;6125;0;Menzberg;0
+CH;6126;0;Daiwil;0
+CH;6130;0;Willisau;0
+CH;6130;60;Willisau Zust;0
+CH;6132;0;Rohrmatt;0
+CH;6133;0;Hergiswil LU;0
+CH;6142;0;Gettnau;0
+CH;6143;0;Ohmstal;0
+CH;6144;0;Zell LU;0
+CH;6145;0;Fischbach LU;0
+CH;6146;0;Grossdietwil;0
+CH;6147;0;AltbÅron;0
+CH;6152;0;HÅswil;0
+CH;6153;0;Ufhusen;0
+CH;6154;0;Hofstatt;0
+CH;6156;0;Luthern;0
+CH;6156;2;Luthern Bad;0
+CH;6160;0;Entlebuch;0
+CH;6161;0;Entlebuch;0
+CH;6162;0;Entlebuch;0
+CH;6162;2;Rengg;0
+CH;6162;3;Finsterwald LU;0
+CH;6162;60;Entlebuch Zust;0
+CH;6163;0;Ebnet;0
+CH;6166;0;Hasle LU;0
+CH;6167;0;Bramboden;0
+CH;6170;0;SchÅpfheim;0
+CH;6170;60;SchÅpfheim Zust;0
+CH;6173;0;FlÅhli LU;0
+CH;6174;0;Sîrenberg;0
+CH;6182;0;Escholzmatt;0
+CH;6182;60;Escholzmatt Zust;0
+CH;6192;0;Wiggen;0
+CH;6196;0;Marbach LU;0
+CH;6197;0;Schangnau;0
+CH;6203;0;Sempach Station;0
+CH;6204;0;Sempach;0
+CH;6204;2;Sempach Stadt;0
+CH;6205;0;Eich;0
+CH;6206;0;Neuenkirch;0
+CH;6207;0;Nottwil;0
+CH;6207;2;Nottwil SPZ;0
+CH;6208;0;Oberkirch LU;0
+CH;6210;0;Sursee;0
+CH;6210;47;Sursee Bahnhof SBB;0
+CH;6210;60;Sursee Zust;0
+CH;6211;1;Buchs LU;0
+CH;6212;0;St. Erhard;0
+CH;6212;2;Kaltbach;0
+CH;6213;0;Knutwil;0
+CH;6214;0;Schenkon;0
+CH;6215;0;BeromÅnster;0
+CH;6215;2;Schwarzenbach LU;0
+CH;6216;0;Mauensee;0
+CH;6217;0;Kottwil;0
+CH;6218;0;Ettiswil;0
+CH;6221;0;Rickenbach LU;0
+CH;6222;0;Gunzwil;0
+CH;6231;0;Schlierbach;0
+CH;6232;0;Geuensee;0
+CH;6233;0;BÅron;0
+CH;6234;0;Triengen;0
+CH;6234;1;Kulmerau;0
+CH;6235;0;Winikon;0
+CH;6236;0;Wilihof;0
+CH;6242;0;Wauwil;0
+CH;6243;0;Egolzwil;0
+CH;6244;0;Nebikon;0
+CH;6245;0;Ebersecken;0
+CH;6246;0;Altishofen;0
+CH;6247;0;Schîtz;0
+CH;6248;0;Alberswil;0
+CH;6252;0;Dagmersellen;0
+CH;6253;0;Uffikon;0
+CH;6260;0;Reiden;0
+CH;6260;2;Reidermoos;0
+CH;6260;3;Hintermoos;0
+CH;6260;4;Mehlsecken;0
+CH;6260;60;Reiden Zustellung;0
+CH;6262;0;Langnau b. Reiden;0
+CH;6263;0;Richenthal;0
+CH;6264;0;Pfaffnau;0
+CH;6265;0;Roggliswil;0
+CH;6274;0;Eschenbach LU;0
+CH;6275;0;Ballwil;0
+CH;6276;0;Hohenrain;0
+CH;6277;0;Kleinwangen;0
+CH;6277;2;Lieli;0
+CH;6280;0;Hochdorf;0
+CH;6280;2;Urswil;0
+CH;6280;60;Hochdorf Zust;0
+CH;6281;0;Hochdorf;0
+CH;6283;0;Baldegg;0
+CH;6284;0;Gelfingen;0
+CH;6284;2;Sulz LU;0
+CH;6285;0;Hitzkirch;0
+CH;6285;2;Retschwil;0
+CH;6286;0;Altwis;0
+CH;6287;0;Aesch LU;0
+CH;6288;0;Schongau;0
+CH;6289;0;MÅswangen;0
+CH;6289;2;HÑmikon;0
+CH;6294;0;Ermensee;0
+CH;6295;0;Mosen;0
+CH;6300;0;Zug;0
+CH;6300;1;Zug 1;0
+CH;6300;5;Zugerberg;0
+CH;6301;0;Zug;0
+CH;6302;0;Zug;0
+CH;6303;0;Zug;0
+CH;6304;0;Zug;0
+CH;6304;47;Zug Bahnhof SBB;0
+CH;6310;0;Zug;0
+CH;6312;0;Steinhausen;0
+CH;6312;60;Steinhausen Zust;0
+CH;6313;0;Menzingen;0
+CH;6313;2;Edlibach;0
+CH;6313;3;Finstersee;0
+CH;6314;0;UnterÑgeri;0
+CH;6314;1;NeuÑgeri;0
+CH;6314;60;UnterÑgeri Zust;0
+CH;6315;0;OberÑgeri;0
+CH;6315;2;Alosen;0
+CH;6315;3;Morgarten;0
+CH;6317;0;Oberwil b. Zug;0
+CH;6318;0;Walchwil;0
+CH;6319;0;Allenwinden;0
+CH;6330;0;Cham;0
+CH;6330;1;Cham 1;0
+CH;6330;2;Cham 2;0
+CH;6330;60;Cham Zustellung;0
+CH;6331;0;HÅnenberg;0
+CH;6331;60;HÅnenberg Zust;0
+CH;6332;0;Hagendorn;0
+CH;6333;0;HÅnenberg See;0
+CH;6340;0;Baar;0
+CH;6340;1;Baar 1;0
+CH;6340;4;Sihlbrugg;0
+CH;6340;60;Baar 1 Zustellung;0
+CH;6341;0;Baar;0
+CH;6342;0;Baar;0
+CH;6343;0;Rotkreuz;0
+CH;6343;2;Buonas;0
+CH;6343;3;Risch;0
+CH;6343;4;HolzhÑusern ZG;0
+CH;6343;47;Rotkreuz SBB;0
+CH;6343;60;Rotkreuz Zust;0
+CH;6344;0;Meierskappel;0
+CH;6345;0;Neuheim;0
+CH;6346;60;Baar 3;0
+CH;6346;70;Baar 3 Dist Ba;0
+CH;6349;0;Baar;0
+CH;6353;0;Weggis;0
+CH;6354;0;Vitznau;0
+CH;6356;0;Rigi Kaltbad;0
+CH;6362;0;Stansstad;0
+CH;6363;0;ObbÅrgen;0
+CH;6363;1;FÅrigen;0
+CH;6363;2;BÅrgenstock;0
+CH;6365;0;Kehrsiten;0
+CH;6370;0;Stans;0
+CH;6370;41;Oberdorf NW;0
+CH;6370;60;Stans Zust;0
+CH;6370;75;Stans Kaserne;0
+CH;6371;0;Stans;0
+CH;6372;0;Ennetmoos;0
+CH;6373;0;EnnetbÅrgen;0
+CH;6374;0;Buochs;0
+CH;6374;60;Buochs Zustellung;0
+CH;6375;0;Beckenried;0
+CH;6376;0;Emmetten;0
+CH;6377;0;Seelisberg;0
+CH;6382;0;BÅren NW;0
+CH;6383;0;Dallenwil;0
+CH;6383;2;Niederrickenbach;0
+CH;6383;3;Wiesenberg;0
+CH;6383;4;Wirzweli;0
+CH;6386;0;Wolfenschiessen;0
+CH;6387;0;Oberrickenbach;0
+CH;6388;0;Grafenort;0
+CH;6390;0;Engelberg;0
+CH;6390;60;Engelberg Zust;0
+CH;6391;0;Engelberg;0
+CH;6402;0;Merlischachen;0
+CH;6403;0;KÅssnacht am Rigi;0
+CH;6403;60;KÅssnacht SZ Zust;0
+CH;6404;0;Greppen;0
+CH;6405;0;Immensee;0
+CH;6410;0;Goldau;0
+CH;6410;2;Rigi Klîsterli;0
+CH;6410;3;Rigi Staffel;0
+CH;6410;4;Rigi Kulm;0
+CH;6410;5;Rigi Scheidegg;0
+CH;6410;60;Goldau Zust;0
+CH;6414;0;Oberarth;0
+CH;6415;0;Arth;0
+CH;6416;0;Steinerberg;0
+CH;6417;0;Sattel;0
+CH;6418;0;Rothenthurm;0
+CH;6422;0;Steinen;0
+CH;6422;60;Steinen Zustellung;0
+CH;6423;0;Seewen SZ;0
+CH;6424;0;Lauerz;0
+CH;6430;0;Schwyz;0
+CH;6430;60;Schwyz Zust;0
+CH;6430;81;Schwyz SKB;0
+CH;6431;0;Schwyz;0
+CH;6432;0;Rickenbach SZ;0
+CH;6433;0;Stoos SZ;0
+CH;6434;0;Illgau;0
+CH;6436;0;Muotathal;0
+CH;6436;2;Bisisthal;0
+CH;6436;3;Ried (Muotathal);0
+CH;6438;0;Ibach;0
+CH;6440;0;Brunnen;0
+CH;6440;47;Brunnen SBB;0
+CH;6440;60;Brunnen Zust;0
+CH;6441;2;RÅtli;0
+CH;6442;0;Gersau;0
+CH;6443;0;Morschach;0
+CH;6452;0;Sisikon;0
+CH;6452;2;Riemenstalden;0
+CH;6454;0;FlÅelen;0
+CH;6460;0;Altdorf UR;0
+CH;6460;1;Altdorf UR 1;0
+CH;6460;2;Altdorf UR 2 Ryn.;0
+CH;6460;3;Altdorf UR 2;0
+CH;6460;60;Altdorf UR 2 Zust;0
+CH;6461;0;Isenthal;0
+CH;6462;0;Seedorf UR;0
+CH;6463;0;BÅrglen UR;0
+CH;6464;0;Spiringen;0
+CH;6465;0;UnterschÑchen;0
+CH;6466;0;Bauen;0
+CH;6467;0;Schattdorf;0
+CH;6468;0;Attinghausen;0
+CH;6469;0;Haldi b.Schattdorf;0
+CH;6472;0;Erstfeld;0
+CH;6473;0;Silenen;0
+CH;6474;0;Amsteg;0
+CH;6475;0;Bristen;0
+CH;6476;0;Intschi;0
+CH;6482;0;Gurtnellen;0
+CH;6484;0;Wassen UR;0
+CH;6485;0;Meien;0
+CH;6487;0;Gîschenen;0
+CH;6490;0;Andermatt;0
+CH;6491;0;Realp;0
+CH;6493;0;Hospental;0
+CH;6500;0;Bellinzona;0
+CH;6500;1;Bellinzona 1;0
+CH;6500;2;Bellinzona 2;0
+CH;6500;5;Bellinzona 5;0
+CH;6500;47;Bellinzona FFS;0
+CH;6500;55;Bellinzona VZ;0
+CH;6500;60;Bellinzona Dist;0
+CH;6500;65;Bellinzona CS;0
+CH;6500;75;Bellinzona Caserma;0
+CH;6501;0;Bellinzona;0
+CH;6503;0;Bellinzona;0
+CH;6506;0;Bellinzona 6 Autop;0
+CH;6511;0;Cadenazzo SC;0
+CH;6512;0;Giubiasco;0
+CH;6513;0;Monte Carasso;0
+CH;6514;0;Sementina;0
+CH;6515;0;Gudo;0
+CH;6516;0;Cugnasco;0
+CH;6517;0;Arbedo;0
+CH;6518;0;Gorduno;0
+CH;6523;0;Preonzo;0
+CH;6524;0;Moleno;0
+CH;6525;0;Gnosca;0
+CH;6526;0;Prosito;0
+CH;6527;0;Lodrino;0
+CH;6528;0;Camorino;0
+CH;6532;0;Castione;0
+CH;6533;0;Lumino;0
+CH;6534;0;S. Vittore;0
+CH;6535;0;Roveredo GR;0
+CH;6537;0;Grono;0
+CH;6538;0;Verdabbio;0
+CH;6540;0;Castaneda;0
+CH;6541;0;Sta. Maria;0
+CH;6542;0;Buseno;0
+CH;6543;0;Arvigo;0
+CH;6544;0;Braggio;0
+CH;6545;0;Selma;0
+CH;6546;0;Cauco;0
+CH;6547;0;Augio;0
+CH;6548;0;Rossa;0
+CH;6549;0;Laura;0
+CH;6556;0;Leggia;0
+CH;6557;0;Cama;0
+CH;6558;0;Lostallo;0
+CH;6558;1;Cabbiolo;0
+CH;6562;0;Soazza;0
+CH;6563;0;Mesocco;0
+CH;6565;0;S. Bernardino;0
+CH;6571;0;Indemini;0
+CH;6572;0;Quartino;0
+CH;6573;0;Magadino;0
+CH;6574;0;Vira (Gambarogno);0
+CH;6575;0;S. Nazzaro;0
+CH;6575;1;Vairano;0
+CH;6576;0;Gerra (Gambarogno);0
+CH;6577;0;Ranzo;0
+CH;6578;0;Caviano;0
+CH;6579;0;Piazzogna;0
+CH;6582;0;Pianezzo;0
+CH;6583;0;S. Antonio;0
+CH;6584;0;Carena;0
+CH;6590;50;Cadenazzo (CLL);0
+CH;6592;0;S. Antonino;0
+CH;6593;0;Cadenazzo;0
+CH;6593;1;Cadenazzo Dist;0
+CH;6593;70;Cadenazzo Dist Ba;0
+CH;6594;0;Contone;0
+CH;6595;0;Riazzino;0
+CH;6595;1;Riazzino Dist;0
+CH;6596;0;Gordola;0
+CH;6597;0;Agarone;0
+CH;6598;0;Tenero;0
+CH;6599;0;Robasacco;0
+CH;6600;0;Locarno;0
+CH;6600;1;Locarno 1;0
+CH;6600;2;Muralto;0
+CH;6600;4;Solduno;0
+CH;6600;5;Locarno 4 Solduno;0
+CH;6600;47;Locarno FFS;0
+CH;6600;60;Locarno Dist;0
+CH;6600;74;Locarno 3 Autopost;0
+CH;6601;0;Locarno;0
+CH;6602;0;Muralto;0
+CH;6604;0;Locarno;0
+CH;6605;0;Locarno;0
+CH;6605;1;Monte Brä Locarno;0
+CH;6611;13;Mosogno;0
+CH;6611;16;Gresso;0
+CH;6611;17;Crana;0
+CH;6612;0;Ascona;0
+CH;6613;0;Porto Ronco;0
+CH;6614;0;Brissago;0
+CH;6614;2;Isole di Brissago;0
+CH;6616;0;Losone;0
+CH;6616;60;Losone Dist;0
+CH;6616;75;Losone Caserma;0
+CH;6618;0;Arcegno;0
+CH;6622;0;Ronco sopra Ascona;0
+CH;6631;0;Corippo;0
+CH;6632;0;Vogorno;0
+CH;6633;0;Lavertezzo;0
+CH;6634;0;Brione (Verzasca);0
+CH;6635;0;Gerra (Verzasca);0
+CH;6636;0;Frasco;0
+CH;6637;0;Sonogno;0
+CH;6644;0;Orselina;0
+CH;6645;0;Brione s. Minusio;0
+CH;6646;0;Contra;0
+CH;6647;0;Mergoscia;0
+CH;6648;0;Minusio;0
+CH;6652;0;Tegna;0
+CH;6653;0;Verscio;0
+CH;6654;0;Cavigliano;0
+CH;6655;0;Intragna;0
+CH;6655;2;Verdasio;0
+CH;6655;3;Rasa;0
+CH;6656;0;Golino;0
+CH;6657;0;Palagnedra;0
+CH;6658;0;Borgnone;0
+CH;6659;0;Camedo;0
+CH;6659;9;Moneto;0
+CH;6661;0;Loco;0
+CH;6661;2;Auressio;0
+CH;6661;3;Berzona;0
+CH;6662;0;Russo;0
+CH;6663;0;Comologno;0
+CH;6663;2;Spruga;0
+CH;6664;0;Vergeletto;0
+CH;6670;0;Avegno;0
+CH;6672;0;Gordevio;0
+CH;6673;0;Maggia;0
+CH;6674;0;Someo;0
+CH;6674;2;Riveo;0
+CH;6675;0;Cevio;0
+CH;6676;0;Bignasco;0
+CH;6677;1;Aurigeno;0
+CH;6677;2;Moghegno;0
+CH;6678;0;Giumaglio;0
+CH;6678;2;Lodano;0
+CH;6678;3;Coglio;0
+CH;6682;0;Linescio;0
+CH;6683;0;Cerentino;0
+CH;6683;2;Niva (Vallemaggia);0
+CH;6684;0;Campo (VM);0
+CH;6684;1;Cimalmotto;0
+CH;6685;0;Bosco/Gurin;0
+CH;6690;0;Cavergno;0
+CH;6690;1;S. Carlo;0
+CH;6692;0;Menzonio;0
+CH;6692;1;Brontallo;0
+CH;6693;0;Broglio;0
+CH;6694;0;Prato-Sornico;0
+CH;6695;0;Peccia;0
+CH;6695;1;Piano di Peccia;0
+CH;6696;0;Fusio;0
+CH;6702;0;Claro;0
+CH;6703;0;Osogna;0
+CH;6705;0;Cresciano;0
+CH;6707;0;Iragna;0
+CH;6710;0;Biasca;0
+CH;6710;1;Biasca Stazione;0
+CH;6710;60;Biasca Borgo;0
+CH;6713;0;Malvaglia;0
+CH;6714;0;Semione;0
+CH;6715;0;Dongio;0
+CH;6716;0;Acquarossa;0
+CH;6716;2;Leontica;0
+CH;6716;3;Lottigna;0
+CH;6717;0;Dangio-Torre;0
+CH;6717;1;Torre;0
+CH;6718;0;Olivone;0
+CH;6718;1;Camperio;0
+CH;6719;0;Aquila;0
+CH;6720;0;Campo (Blenio);0
+CH;6720;2;Ghirone;0
+CH;6721;0;Ludiano;0
+CH;6721;2;Motto (Blenio);0
+CH;6722;0;Corzoneso;0
+CH;6723;0;Prugiasco;0
+CH;6723;2;Castro;0
+CH;6723;3;Marolta;0
+CH;6724;0;Ponto Valentino;0
+CH;6724;2;Largario;0
+CH;6742;0;Pollegio;0
+CH;6743;0;Bodio TI;0
+CH;6744;0;Personico;0
+CH;6745;0;Giornico;0
+CH;6746;0;Lavorgo;0
+CH;6746;1;Calonico;0
+CH;6746;2;Nivo;0
+CH;6747;0;Chironico;0
+CH;6748;0;Anzonico;0
+CH;6749;0;Sobrio;0
+CH;6749;1;Cavagnago;0
+CH;6760;0;Faido;0
+CH;6760;1;Molare;0
+CH;6760;2;Calpiogna;0
+CH;6760;3;Campello;0
+CH;6760;4;Carç;0
+CH;6760;5;Rossura;0
+CH;6763;0;Osco;0
+CH;6763;1;Mairengo;0
+CH;6764;0;Chiggiogna;0
+CH;6772;0;Rodi-Fiesso;0
+CH;6773;0;Prato (Leventina);0
+CH;6774;0;Dalpe;0
+CH;6775;0;Ambrç;0
+CH;6776;0;Piotta;0
+CH;6777;0;Quinto;0
+CH;6777;1;Varenzo;0
+CH;6780;0;Airolo;0
+CH;6780;2;Madrano;0
+CH;6780;75;Airolo Caserma;0
+CH;6781;1;Villa Bedretto;0
+CH;6781;4;Bedretto;0
+CH;6802;0;Rivera;0
+CH;6802;75;Rivera Caserma;0
+CH;6803;0;Camignolo;0
+CH;6804;0;Bironico;0
+CH;6805;0;Mezzovico;0
+CH;6806;0;Sigirino;0
+CH;6807;0;Taverne;0
+CH;6808;0;Torricella;0
+CH;6809;0;Medeglia;0
+CH;6810;0;Isone;0
+CH;6810;75;Isone Caserma;0
+CH;6814;0;Lamone-Cadempino;0
+CH;6814;2;Lamone;0
+CH;6814;3;Cadempino;0
+CH;6815;0;Melide;0
+CH;6816;0;Bissone;0
+CH;6817;0;Maroggia;0
+CH;6818;0;Melano;0
+CH;6821;0;Rovio;0
+CH;6822;0;Arogno;0
+CH;6823;0;Pugerna;0
+CH;6825;0;Capolago;0
+CH;6826;0;Riva San Vitale;0
+CH;6827;0;Brusino Arsizio;0
+CH;6828;0;Balerna;0
+CH;6830;0;Chiasso;0
+CH;6830;1;Chiasso 1;0
+CH;6830;3;Chiasso 3;0
+CH;6830;20;Chiasso 1 ZF;0
+CH;6830;47;Chiasso FFS;0
+CH;6830;60;Chiasso Dist;0
+CH;6832;0;Pedrinate;0
+CH;6832;1;Seseglio;0
+CH;6833;0;Vacallo;0
+CH;6834;0;Morbio Inferiore;0
+CH;6835;0;Morbio Superiore;0
+CH;6836;0;Serfontana;0
+CH;6837;0;Caneggio;0
+CH;6837;2;Bruzella;0
+CH;6838;0;Muggio;0
+CH;6838;2;Cabbio;0
+CH;6838;3;Scudellate;0
+CH;6839;0;Sagno;0
+CH;6850;0;Mendrisio;0
+CH;6850;1;Mendrisio Stazione;0
+CH;6850;2;Mendrisio Borgo;0
+CH;6850;60;Mendrisio Dist;0
+CH;6852;0;Genestrerio;0
+CH;6852;70;Genestrerio Dist F;0
+CH;6853;0;Ligornetto;0
+CH;6854;0;S. Pietro;0
+CH;6855;0;Stabio;0
+CH;6862;0;Rancate;0
+CH;6863;0;Besazio;0
+CH;6864;0;Arzo;0
+CH;6865;0;Tremona;0
+CH;6866;0;Meride;0
+CH;6867;0;Serpiano;0
+CH;6872;0;Salorino;0
+CH;6872;1;Somazzo;0
+CH;6873;0;Corteglia;0
+CH;6874;0;Castel San Pietro;0
+CH;6875;0;Monte;0
+CH;6875;2;Casima;0
+CH;6877;0;Coldrerio;0
+CH;6883;0;Novazzano;0
+CH;6900;0;Lugano;0
+CH;6900;1;Lugano 1;0
+CH;6900;2;Lugano 2;0
+CH;6900;3;Lugano 3;0
+CH;6900;4;Lugano 4;0
+CH;6900;5;Massagno;0
+CH;6900;6;Lugano 6;0
+CH;6900;7;Lugano 7;0
+CH;6900;8;Lugano 8;0
+CH;6900;9;Paradiso;0
+CH;6900;41;Lugano FSS;0
+CH;6900;60;Lugano Dist;0
+CH;6900;89;Lugano MailSource;0
+CH;6901;0;Lugano;0
+CH;6902;0;Lugano 2 Caselle;0
+CH;6903;0;Lugano;0
+CH;6904;0;Lugano 4 Caselle;0
+CH;6905;74;Lugano 5 Autoposta;0
+CH;6906;0;Lugano 6 Caselle;0
+CH;6907;0;Lugano 7 Caselle;0
+CH;6908;0;Massagno Caselle;0
+CH;6910;0;Lugano;0
+CH;6911;0;Campione;0
+CH;6912;0;Pazzallo;0
+CH;6913;0;Carabbia;0
+CH;6914;0;Carona;0
+CH;6915;0;Pambio-Noranco;0
+CH;6916;0;Grancia;0
+CH;6917;0;Barbengo;0
+CH;6918;0;Figino;0
+CH;6919;0;Carabietta;0
+CH;6921;0;Vico Morcote;0
+CH;6922;0;Morcote;0
+CH;6924;0;Sorengo;0
+CH;6925;0;Gentilino;0
+CH;6926;0;Montagnola;0
+CH;6927;0;Agra;0
+CH;6928;0;Manno;0
+CH;6928;70;Manno Dist Fil;0
+CH;6929;0;Gravesano;0
+CH;6930;0;Bedano;0
+CH;6932;0;Breganzona;0
+CH;6933;0;Muzzano;0
+CH;6934;0;Bioggio;0
+CH;6935;0;Bosco Luganese;0
+CH;6936;0;Cademario;0
+CH;6937;0;Breno;0
+CH;6938;0;Vezio;0
+CH;6938;1;Fescoggia;0
+CH;6939;0;Arosio-Mugena;0
+CH;6939;1;Mugena;0
+CH;6939;2;Arosio;0
+CH;6942;0;Savosa;0
+CH;6943;0;Vezia;0
+CH;6944;0;Cureglia;0
+CH;6945;0;Origlio;0
+CH;6946;0;Ponte Capriasca;0
+CH;6947;0;Vaglio;0
+CH;6948;0;Porza;0
+CH;6949;0;Comano;0
+CH;6950;0;Tesserete;0
+CH;6951;8;Insone;0
+CH;6951;12;Odogno;0
+CH;6951;17;Scareglia;0
+CH;6951;18;Colla;0
+CH;6951;19;Bogno;0
+CH;6951;20;Cozzo;0
+CH;6951;23;Signìra;0
+CH;6952;0;Canobbio;0
+CH;6953;0;Lugaggia;0
+CH;6954;0;Sala Capriasca;0
+CH;6954;1;Bigorio;0
+CH;6955;0;Cagiallo;0
+CH;6955;1;Oggio;0
+CH;6956;0;Lopagno;0
+CH;6957;0;Roveredo TI;0
+CH;6958;0;Bidogno;0
+CH;6958;2;Corticiasca;0
+CH;6959;0;Maglio di Colla;0
+CH;6959;2;Certara;0
+CH;6959;3;Curtina;0
+CH;6959;4;Cimadera;0
+CH;6959;5;Piandera Paese;0
+CH;6962;0;Viganello;0
+CH;6962;60;Viganello Dist;0
+CH;6963;0;Pregassona;0
+CH;6963;2;Cureggia;0
+CH;6963;60;Pregassona Dist;0
+CH;6964;0;Davesco-Soragno;0
+CH;6965;0;Cadro;0
+CH;6966;0;Villa Luganese;0
+CH;6967;0;Dino;0
+CH;6968;0;Sonvico;0
+CH;6974;0;Aldesago;0
+CH;6976;0;Castagnola;0
+CH;6977;0;Ruvigliana;0
+CH;6978;0;Gandria;0
+CH;6979;0;Brä sopra Lugano;0
+CH;6980;0;Castelrotto;0
+CH;6981;11;Bedigliora;0
+CH;6981;12;Biogno-Beride;0
+CH;6981;15;Bombinasco;0
+CH;6981;16;Banco;0
+CH;6982;0;Agno;0
+CH;6983;0;Magliaso;0
+CH;6984;0;Pura;0
+CH;6986;0;Novaggio;0
+CH;6986;2;Miglieglia;0
+CH;6986;3;Curio;0
+CH;6987;0;Caslano;0
+CH;6987;1;Caslano Dist;0
+CH;6988;0;Ponte Tresa;0
+CH;6989;0;Purasca;0
+CH;6990;0;Cassina d'Agno;0
+CH;6991;0;Neggio;0
+CH;6992;0;Vernate;0
+CH;6992;1;Cimo;0
+CH;6993;0;Iseo;0
+CH;6994;0;Aranno;0
+CH;6995;0;Molinazzo;0
+CH;6995;2;Madonna del Piano;0
+CH;6996;0;Ponte Cremenaga;0
+CH;6997;0;Sessa;0
+CH;6998;0;Termine;0
+CH;6999;0;Astano;0
+CH;7000;0;Chur;0
+CH;7000;1;Chur 1 Annahme;0
+CH;7000;45;Chur B&V GK 2;0
+CH;7000;46;Chur B&V GK;0
+CH;7000;50;Chur LRV;0
+CH;7000;60;Chur 1 Zustellung;0
+CH;7000;75;Chur Kaserne;0
+CH;7001;0;Chur;0
+CH;7002;0;Chur;0
+CH;7003;0;Chur Postauto;0
+CH;7004;0;Chur;0
+CH;7006;0;Chur;0
+CH;7007;0;Chur;0
+CH;7012;0;Felsberg;0
+CH;7013;0;Domat/Ems;0
+CH;7013;60;Domat/Ems Zust;0
+CH;7014;0;Trin;0
+CH;7015;0;Tamins;0
+CH;7016;0;Trin Mulin;0
+CH;7017;0;Flims Dorf;0
+CH;7017;60;Flims Dorf Zust;0
+CH;7018;0;Flims Waldhaus;0
+CH;7019;0;Fidaz;0
+CH;7023;0;Haldenstein;0
+CH;7026;0;Maladers;0
+CH;7027;0;Castiel;0
+CH;7027;1;LÅen;0
+CH;7027;3;Calfreisen;0
+CH;7028;0;St. Peter;0
+CH;7028;1;Pagig;0
+CH;7029;0;Peist;0
+CH;7031;0;Laax GR;0
+CH;7031;1;Laax GR 1;0
+CH;7032;0;Laax GR 2;0
+CH;7050;0;Arosa;0
+CH;7050;60;Arosa Zust;0
+CH;7056;0;Molinis;0
+CH;7057;0;Langwies;0
+CH;7058;0;LitzirÅti;0
+CH;7062;0;Passugg-Araschgen;0
+CH;7063;0;Praden;0
+CH;7064;0;Tschiertschen;0
+CH;7074;0;Malix;0
+CH;7075;0;Churwalden;0
+CH;7076;0;Parpan;0
+CH;7077;0;Valbella;0
+CH;7078;0;Lenzerheide/Lai;0
+CH;7078;60;Lenzerheide Zust;0
+CH;7082;0;Vaz/Obervaz;0
+CH;7083;0;Lantsch/Lenz;0
+CH;7084;0;Brienz/Brinzauls;0
+CH;7104;0;Versam;0
+CH;7104;3;Arezen;0
+CH;7106;0;Tenna;0
+CH;7107;0;Safien Platz;0
+CH;7109;0;Thalkirch;0
+CH;7110;0;Peiden;0
+CH;7111;0;Pitasch;0
+CH;7112;0;Duvin;0
+CH;7113;0;Camuns;0
+CH;7114;0;Uors (Lumnezia);0
+CH;7115;0;Surcasti;0
+CH;7116;0;Tersnaus;0
+CH;7116;2;St. Martin;0
+CH;7122;0;Valendas;0
+CH;7122;2;Carrera;0
+CH;7126;0;Castrisch;0
+CH;7127;0;Sevgein;0
+CH;7128;0;Riein;0
+CH;7130;0;Ilanz;0
+CH;7130;2;Schnaus;0
+CH;7130;60;Ilanz Zustellung;0
+CH;7132;0;Vals;0
+CH;7133;0;Obersaxen Affeier;0
+CH;7134;0;Obersaxen Meierhof;0
+CH;7135;0;Obersaxen Giraniga;0
+CH;7136;0;Obers FriggahÅs;0
+CH;7137;0;Flond;0
+CH;7138;0;Surcuolm;0
+CH;7141;0;Luven;0
+CH;7142;0;Cumbel;0
+CH;7143;0;Morissen;0
+CH;7144;0;Vella;0
+CH;7145;0;Degen;0
+CH;7146;0;Vattiz;0
+CH;7147;0;Vignogn;0
+CH;7148;0;Lumbrein;0
+CH;7148;2;Surin;0
+CH;7149;0;Vrin;0
+CH;7151;0;Schluein;0
+CH;7152;0;Sagogn;0
+CH;7153;0;Falera;0
+CH;7154;0;Ruschein;0
+CH;7155;0;Ladir;0
+CH;7156;0;Rueun;0
+CH;7156;1;Pigniu;0
+CH;7157;0;Siat;0
+CH;7158;0;Waltensburg/Vuorz;0
+CH;7159;0;Andiast;0
+CH;7162;0;Tavanasa;0
+CH;7163;0;Danis;0
+CH;7164;0;Dardin;0
+CH;7165;0;Breil/Brigels;0
+CH;7166;0;Trun;0
+CH;7167;0;Zignau;0
+CH;7168;0;Schlans;0
+CH;7172;0;Rabius;0
+CH;7173;0;Surrein;0
+CH;7174;0;S. Benedetg;0
+CH;7175;0;Sumvitg;0
+CH;7176;0;Cumpadials;0
+CH;7180;0;Disentis/MustÇr;0
+CH;7182;0;Cavardiras;0
+CH;7183;0;MompÇ Medel;0
+CH;7184;0;Curaglia;0
+CH;7185;0;Platta;0
+CH;7186;0;Segnas;0
+CH;7187;0;Camischolas;0
+CH;7188;0;Sedrun;0
+CH;7189;0;Rueras;0
+CH;7201;0;Untervaz Bahnhof;0
+CH;7202;0;Says;0
+CH;7203;0;Trimmis;0
+CH;7204;0;Untervaz;0
+CH;7205;0;Zizers;0
+CH;7206;0;Igis;0
+CH;7208;0;Malans GR;0
+CH;7212;0;Seewis Dorf;0
+CH;7212;1;Seewis-Pardisla;0
+CH;7212;2;Seewis-Schmitten;0
+CH;7213;0;Valzeina;0
+CH;7214;0;GrÅsch;0
+CH;7215;0;Fanas;0
+CH;7220;0;Schiers;0
+CH;7222;0;Mittellunden;0
+CH;7223;0;Buchen;0
+CH;7224;0;Putz;0
+CH;7226;0;Stels;0
+CH;7226;2;Fajauna;0
+CH;7228;0;Schuders;0
+CH;7228;1;Pusserein;0
+CH;7231;0;Pragg-Jenaz;0
+CH;7232;0;Furna;0
+CH;7233;0;Jenaz;0
+CH;7235;0;Fideris;0
+CH;7240;0;KÅblis;0
+CH;7241;0;Conters;0
+CH;7242;0;Luzein;0
+CH;7243;0;Pany;0
+CH;7244;0;GadenstÑtt;0
+CH;7245;0;Ascharina;0
+CH;7246;0;St. Antînien;0
+CH;7247;0;Saas im PrÑttigau;0
+CH;7249;0;Serneus;0
+CH;7250;0;Klosters;0
+CH;7250;60;Klosters Zust;0
+CH;7252;0;Klosters Dorf;0
+CH;7260;0;Davos Dorf;0
+CH;7265;0;Davos Wolfgang;0
+CH;7270;0;Davos Platz;0
+CH;7270;1;Davos Platz 1;0
+CH;7270;2;Davos 2;0
+CH;7270;60;Davos 1 Zust;0
+CH;7272;0;Davos Clavadel;0
+CH;7276;0;Davos Frauenkirch;0
+CH;7277;0;Davos Glaris;0
+CH;7278;0;Davos Monstein;0
+CH;7302;0;Landquart;0
+CH;7302;47;Landquart SBB;0
+CH;7302;60;Landquart Zust;0
+CH;7302;70;Landquart Dist Ba;0
+CH;7303;0;Mastrils;0
+CH;7304;0;Maienfeld;0
+CH;7306;0;FlÑsch;0
+CH;7307;0;Jenins;0
+CH;7310;0;Bad Ragaz;0
+CH;7310;60;Bad Ragaz Zust;0
+CH;7312;0;PfÑfers;0
+CH;7313;0;St. Margrethenberg;0
+CH;7314;0;Vadura;0
+CH;7315;0;VÑttis;0
+CH;7317;0;Valens;0
+CH;7317;3;Vasîn;0
+CH;7320;0;Sargans;0
+CH;7320;60;Sargans Zustellung;0
+CH;7323;0;Wangs;0
+CH;7324;0;Vilters;0
+CH;7325;0;Schwendi;0
+CH;7326;0;Weisstannen;0
+CH;7402;0;Bonaduz;0
+CH;7403;0;RhÑzÅns;0
+CH;7404;0;Feldis/Veulden;0
+CH;7405;0;Rothenbrunnen;0
+CH;7407;0;Trans;0
+CH;7408;0;Cazis;0
+CH;7408;1;Realta;0
+CH;7411;0;Sils im Domleschg;0
+CH;7412;0;Scharans;0
+CH;7413;0;FÅrstenaubruck;0
+CH;7414;0;FÅrstenau;0
+CH;7415;0;Rodels;0
+CH;7415;2;Pratval;0
+CH;7416;0;Almens;0
+CH;7417;0;Paspels;0
+CH;7418;0;Tumegl/Tomils;0
+CH;7419;0;Scheid;0
+CH;7421;0;Summaprada;0
+CH;7422;0;Tartar;0
+CH;7423;0;Sarn;0
+CH;7423;2;Portein;0
+CH;7424;0;PrÑz;0
+CH;7424;1;Dalin;0
+CH;7425;0;Masein;0
+CH;7426;0;Flerden;0
+CH;7427;0;Urmein;0
+CH;7428;0;Tschappina;0
+CH;7428;2;Glaspass;0
+CH;7430;0;Thusis;0
+CH;7430;2;Rongellen;0
+CH;7430;60;Thusis Zustellung;0
+CH;7431;1;Mutten;0
+CH;7431;2;Obermutten;0
+CH;7432;0;Zillis;0
+CH;7433;0;Donat;0
+CH;7433;2;Farden;0
+CH;7433;3;Lohn GR;0
+CH;7433;4;Mathon;0
+CH;7433;5;Wergenstein;0
+CH;7434;0;Sufers;0
+CH;7435;0;SplÅgen;0
+CH;7436;0;Medels;0
+CH;7437;0;Nufenen;0
+CH;7438;0;Hinterrhein;0
+CH;7440;0;Andeer;0
+CH;7442;0;Clugin;0
+CH;7443;0;Pignia;0
+CH;7444;0;Ausserferrera;0
+CH;7445;0;Innerferrera;0
+CH;7446;0;Campsut-Crît;0
+CH;7447;0;Cresta (Avers);0
+CH;7447;1;Am Bach (Avers);0
+CH;7448;0;Juf;0
+CH;7450;0;Tiefencastel;0
+CH;7451;0;Alvaschein;0
+CH;7452;0;Cunter;0
+CH;7453;0;Tinizong;0
+CH;7454;0;Rona;0
+CH;7455;0;Mulegns;0
+CH;7456;0;Sur;0
+CH;7456;2;Marmorera;0
+CH;7457;0;Bivio;0
+CH;7458;0;Mon;0
+CH;7459;0;Stierva;0
+CH;7460;0;Savognin;0
+CH;7462;0;Salouf;0
+CH;7463;0;Riom;0
+CH;7464;0;Parsonz;0
+CH;7472;0;Surava;0
+CH;7473;0;Alvaneu Bad;0
+CH;7477;0;Filisur;0
+CH;7482;0;BergÅn/Bravuogn;0
+CH;7482;1;Preda;0
+CH;7482;2;Stugl/Stuls;0
+CH;7484;0;Latsch;0
+CH;7492;0;Alvaneu Dorf;0
+CH;7493;0;Schmitten (Albula);0
+CH;7494;0;Davos Wiesen;0
+CH;7500;0;St. Moritz;0
+CH;7500;1;St. Moritz 1;0
+CH;7500;3;St. Moritz 3;0
+CH;7502;0;Bever;0
+CH;7503;0;Samedan;0
+CH;7503;60;Samedan Zustellung;0
+CH;7504;0;Pontresina;0
+CH;7504;60;Pontresina Zust;0
+CH;7505;0;Celerina;0
+CH;7512;0;Champfär;0
+CH;7513;0;Silvaplana;0
+CH;7513;2;Silvaplana-Surlej;0
+CH;7514;0;Sils/Segl Maria;0
+CH;7514;2;Fex;0
+CH;7515;0;Sils/Segl Baselgia;0
+CH;7516;0;Maloja;0
+CH;7517;0;Plaun da Lej;0
+CH;7522;0;La Punt-Chamues-ch;0
+CH;7523;0;Madulain;0
+CH;7524;0;Zuoz;0
+CH;7525;0;S-chanf;0
+CH;7526;0;Cinuos-chel;0
+CH;7527;0;Brail;0
+CH;7530;0;Zernez;0
+CH;7532;0;Tschierv;0
+CH;7533;0;Fuldera;0
+CH;7534;0;LÅ;0
+CH;7535;0;Valchava;0
+CH;7536;0;Sta. Maria V. M.;0
+CH;7537;0;MÅstair;0
+CH;7542;0;Susch;0
+CH;7543;0;Lavin;0
+CH;7545;0;Guarda;0
+CH;7546;0;Ardez;0
+CH;7550;0;Scuol;0
+CH;7550;60;Scuol Zustellung;0
+CH;7551;0;Ftan;0
+CH;7552;0;Vulpera;0
+CH;7553;0;Tarasp;0
+CH;7554;0;Sent;0
+CH;7554;2;Crusch;0
+CH;7556;0;Ramosch;0
+CH;7557;0;VnÖ;0
+CH;7558;0;Strada;0
+CH;7559;0;Tschlin;0
+CH;7560;0;Martina;0
+CH;7562;0;Samnaun-Compatsch;0
+CH;7563;0;Samnaun Dorf;0
+CH;7602;0;Casaccia;0
+CH;7603;0;Vicosoprano;0
+CH;7604;0;Borgonovo;0
+CH;7605;0;Stampa;0
+CH;7606;0;Promontogno;0
+CH;7608;0;Castasegna;0
+CH;7610;0;Soglio;0
+CH;7710;0;Ospizio Bernina;0
+CH;7710;2;Alp GrÅm;0
+CH;7741;0;S. Carlo GR;0
+CH;7742;0;Poschiavo;0
+CH;7742;2;Sfazó;0
+CH;7742;3;La Rîsa;0
+CH;7743;0;Brusio;0
+CH;7743;2;Miralago;0
+CH;7744;0;Campocologno;0
+CH;7745;0;Li Curt;0
+CH;7746;0;Le Prese;0
+CH;7747;0;Viano;0
+CH;7748;0;Campascio;0
+CH;8000;0;ZÅrich;0
+CH;8001;0;ZÅrich;0
+CH;8002;0;ZÅrich;0
+CH;8002;48;ZÅrich Enge;0
+CH;8003;0;ZÅrich;0
+CH;8004;0;ZÅrich;0
+CH;8005;0;ZÅrich;0
+CH;8005;60;ZÅrich 5 Zust;0
+CH;8006;0;ZÅrich;0
+CH;8008;0;ZÅrich;0
+CH;8008;47;ZÅrich Tbrunnen;0
+CH;8008;48;ZÅrich Hornegg;0
+CH;8010;0;ZÅrich;0
+CH;8010;50;ZÅrich BZ;0
+CH;8010;53;ZÅrich BZI;0
+CH;8010;54;ZÅrich BZI DE;0
+CH;8010;55;ZÅrich SPS AG;0
+CH;8010;57;ZÅrich Briefklinik;0
+CH;8010;67;ZÅrich MÅlligen GK;0
+CH;8010;68;ZÅrich MÅlligen FZ;0
+CH;8010;90;ZÅrich Kanton An.;0
+CH;8010;91;ZÅrich Helsana;0
+CH;8010;92;ZÅrich CS Annahme;0
+CH;8011;0;ZÅrich MÅlligen SC;0
+CH;8012;0;ZÅrich;0
+CH;8015;50;ZÅrich 15;0
+CH;8016;60;ZÅrich 16 Zust;0
+CH;8020;49;ZÅrich 1;0
+CH;8021;0;ZÅrich 1 Sihlpost;0
+CH;8021;2;ZÅrich 1;0
+CH;8022;0;ZÅrich;0
+CH;8023;0;ZÅrich;0
+CH;8024;0;ZÅrich;0
+CH;8026;0;ZÅrich;0
+CH;8027;0;ZÅrich;0
+CH;8030;0;ZÅrich;0
+CH;8031;0;ZÅrich;0
+CH;8032;0;ZÅrich;0
+CH;8032;60;ZÅrich 32 Zust;0
+CH;8033;0;ZÅrich;0
+CH;8034;0;ZÅrich;0
+CH;8036;0;ZÅrich;0
+CH;8036;65;ZÅrich Corona;0
+CH;8037;0;ZÅrich;0
+CH;8037;60;ZÅrich 37 Zust;0
+CH;8038;0;ZÅrich;0
+CH;8039;0;ZÅrich;0
+CH;8040;0;ZÅrich;0
+CH;8041;0;ZÅrich;0
+CH;8042;0;ZÅrich;0
+CH;8044;0;ZÅrich;0
+CH;8044;1;Gockhausen;0
+CH;8045;0;ZÅrich;0
+CH;8046;0;ZÅrich;0
+CH;8047;0;ZÅrich;0
+CH;8048;0;ZÅrich;0
+CH;8048;60;ZÅrich 48 Zust;0
+CH;8049;0;ZÅrich;0
+CH;8050;0;ZÅrich;0
+CH;8050;49;ZÅrich Oerlikon DB;0
+CH;8050;60;ZÅrich Nord Zust;0
+CH;8050;61;ZÅrich Nord VZ;0
+CH;8050;70;ZÅrich Dist Ba;0
+CH;8050;76;ZÅrich Postauto;0
+CH;8051;0;ZÅrich;0
+CH;8052;0;ZÅrich;0
+CH;8053;0;ZÅrich;0
+CH;8053;60;ZÅrich 53 Zust;0
+CH;8055;0;ZÅrich;0
+CH;8057;0;ZÅrich;0
+CH;8057;60;ZÅrich 57 Zust;0
+CH;8058;0;ZÅrich;0
+CH;8059;0;ZÅrich 59 EO;0
+CH;8059;85;ZÅrich 59 Ausland;0
+CH;8060;0;ZÅrich;0
+CH;8061;0;ZÅrich;0
+CH;8063;0;ZÅrich;0
+CH;8064;0;ZÅrich;0
+CH;8064;60;ZÅrich 64 Zust;0
+CH;8065;0;ZÅrich;0
+CH;8066;0;ZÅrich;0
+CH;8068;0;ZÅrich;0
+CH;8070;0;ZÅrich;0
+CH;8071;0;ZÅrich CS PZ;0
+CH;8074;0;ZÅrich Voice Pub;0
+CH;8075;0;ZÅrich;0
+CH;8080;47;ZÅrich West SPS;0
+CH;8080;49;ZÅrich PV;0
+CH;8080;63;ZÅrich 80;0
+CH;8081;0;ZÅrich;0
+CH;8085;0;ZÅrich Versich.;0
+CH;8086;0;ZÅrich R Digest;0
+CH;8087;0;ZÅrich;0
+CH;8088;0;ZÅrich;0
+CH;8090;0;ZÅrich;0
+CH;8091;0;ZÅrich;0
+CH;8092;0;ZÅrich;0
+CH;8093;0;ZÅrich;0
+CH;8096;0;ZÅrich IBRS local;0
+CH;8098;0;ZÅrich;0
+CH;8099;0;ZÅrich;0
+CH;8102;0;Oberengstringen;0
+CH;8103;0;Unterengstringen;0
+CH;8104;0;Weiningen ZH;0
+CH;8105;0;Regensdorf;0
+CH;8105;1;Regensdorf 1;0
+CH;8105;2;Watt;0
+CH;8105;60;Regensdorf 1 Zust;0
+CH;8106;2;Adlikon b.Regensdf;0
+CH;8107;0;Buchs ZH;0
+CH;8107;60;Buchs ZH Zust;0
+CH;8108;0;DÑllikon;0
+CH;8109;0;Kloster Fahr;0
+CH;8112;0;Otelfingen;0
+CH;8113;0;Boppelsen;0
+CH;8114;0;DÑnikon ZH;0
+CH;8115;0;HÅttikon;0
+CH;8117;0;FÑllanden;0
+CH;8118;0;Pfaffhausen;0
+CH;8121;0;Benglen;0
+CH;8122;0;Binz;0
+CH;8123;0;Ebmatingen;0
+CH;8124;0;Maur;0
+CH;8125;0;Zollikerberg;0
+CH;8126;0;Zumikon;0
+CH;8126;60;Zumikon Zust;0
+CH;8127;0;Forch;0
+CH;8127;47;Forch Heuberg;0
+CH;8130;0;Zumikon Y. Rocher;0
+CH;8132;0;Egg b. ZÅrich;0
+CH;8132;2;Hinteregg;0
+CH;8132;60;Egg ZH Zust;0
+CH;8133;0;Esslingen;0
+CH;8134;0;Adliswil;0
+CH;8134;1;Adliswil 1;0
+CH;8134;2;Adliswil 2;0
+CH;8134;60;Adliswil 1 Zust;0
+CH;8135;0;Langnau am Albis;0
+CH;8135;2;Sihlbrugg Station;0
+CH;8135;3;Sihlwald;0
+CH;8135;60;Langnau a. A. Zust;0
+CH;8136;0;Gattikon;0
+CH;8142;0;Uitikon Waldegg;0
+CH;8142;60;Uitikon Zust;0
+CH;8143;0;Stallikon;0
+CH;8143;2;Uetliberg;0
+CH;8152;0;Glattbrugg;0
+CH;8152;1;Opfikon;0
+CH;8152;2;Glattpark(Opfikon);0
+CH;8152;60;Glattbrugg Zust;0
+CH;8153;0;RÅmlang;0
+CH;8153;47;RÅmlang Shell;0
+CH;8154;0;Oberglatt ZH;0
+CH;8155;0;Niederhasli;0
+CH;8155;60;Niederhasli Zust;0
+CH;8156;0;Oberhasli;0
+CH;8157;0;Dielsdorf;0
+CH;8157;60;Dielsdorf Zust;0
+CH;8158;0;Regensberg;0
+CH;8162;0;Steinmaur;0
+CH;8162;1;SÅnikon;0
+CH;8164;0;Bachs;0
+CH;8165;0;Schîfflisdorf;0
+CH;8165;2;Oberweningen;0
+CH;8165;3;Schleinikon;0
+CH;8166;0;Niederweningen;0
+CH;8172;0;Niederglatt ZH;0
+CH;8173;0;Neerach;0
+CH;8174;0;Stadel;0
+CH;8175;0;Windlach;0
+CH;8180;0;BÅlach;0
+CH;8180;47;BÅlach Bahnhof SBB;0
+CH;8180;60;BÅlach Zust;0
+CH;8180;75;BÅlach Kaserne;0
+CH;8181;0;Hîri;0
+CH;8182;0;Hochfelden;0
+CH;8183;0;BÅlach Dist Ba;0
+CH;8184;0;BachenbÅlach;0
+CH;8185;0;Winkel;0
+CH;8187;0;Weiach;0
+CH;8192;0;Glattfelden;0
+CH;8192;1;Zweidlen;0
+CH;8193;0;Eglisau;0
+CH;8194;0;HÅntwangen;0
+CH;8195;0;Wasterkingen;0
+CH;8196;0;Wil ZH;0
+CH;8197;0;Rafz;0
+CH;8200;0;Schaffhausen;0
+CH;8200;1;Schaffhausen 1;0
+CH;8200;48;Schaffhausen PF;0
+CH;8200;60;Schaffh 1 Zust;0
+CH;8201;0;Schaffhausen;0
+CH;8202;0;Schaffhausen;0
+CH;8203;0;Schaffhausen;0
+CH;8204;0;Schaffhausen;0
+CH;8205;0;Schaffhausen;0
+CH;8207;0;Schaffhausen;0
+CH;8208;0;Schaffhausen;0
+CH;8210;70;Schaffhausen DistB;0
+CH;8212;0;Neuhausen;0
+CH;8212;1;Neuhausen 1;0
+CH;8212;3;Neuhausen Rundbuck;0
+CH;8212;4;Nohl;0
+CH;8212;60;Neuhausen 1 Zust;0
+CH;8213;0;Neunkirch;0
+CH;8214;0;GÑchlingen;0
+CH;8215;0;Hallau;0
+CH;8216;0;Oberhallau;0
+CH;8217;0;Wilchingen;0
+CH;8218;0;Osterfingen;0
+CH;8219;0;Trasadingen;0
+CH;8222;0;Beringen;0
+CH;8223;0;Guntmadingen;0
+CH;8224;0;Lîhningen;0
+CH;8225;0;Siblingen;0
+CH;8226;0;Schleitheim;0
+CH;8228;0;Beggingen;0
+CH;8231;0;Hemmental;0
+CH;8232;0;Merishausen;0
+CH;8233;0;Bargen SH;0
+CH;8234;0;Stetten SH;0
+CH;8235;0;Lohn SH;0
+CH;8235;60;Lohn SH Zustellung;0
+CH;8236;0;BÅttenhardt;0
+CH;8236;2;Opfertshofen SH;0
+CH;8238;0;BÅsingen;0
+CH;8239;0;Dîrflingen;0
+CH;8239;60;Dîrflingen Zust;0
+CH;8240;0;Thayngen;0
+CH;8240;60;Thayngen Zust;0
+CH;8241;0;Barzheim;0
+CH;8242;0;Bibern SH;0
+CH;8242;1;Hofen SH;0
+CH;8242;60;Bibern SH Zust;0
+CH;8243;0;Altdorf SH;0
+CH;8245;0;Feuerthalen;0
+CH;8246;0;Langwiesen;0
+CH;8247;0;Flurlingen;0
+CH;8248;0;Uhwiesen;0
+CH;8252;0;Schlatt TG;0
+CH;8253;0;Diessenhofen;0
+CH;8253;2;Willisdorf;0
+CH;8253;60;Diessenhofen Zust;0
+CH;8254;0;Basadingen;0
+CH;8255;0;Schlattingen;0
+CH;8259;0;Kaltenbach;0
+CH;8259;2;Etzwilen;0
+CH;8259;3;Rheinklingen;0
+CH;8259;4;Wagenhausen;0
+CH;8260;0;Stein am Rhein;0
+CH;8260;1;Stein am Rhein 1;0
+CH;8260;2;Stein am Rhein 2;0
+CH;8260;60;Stein a.Rh. 1 Zust;0
+CH;8261;0;Hemishofen;0
+CH;8262;0;Ramsen;0
+CH;8263;0;Buch SH;0
+CH;8264;0;Eschenz;0
+CH;8265;0;Mammern;0
+CH;8266;0;Steckborn;0
+CH;8267;0;Berlingen;0
+CH;8268;0;Mannenbach-Salenst;0
+CH;8268;2;Salenstein;0
+CH;8269;0;Fruthwilen;0
+CH;8272;0;Ermatingen;0
+CH;8273;0;Triboltingen;0
+CH;8274;0;TÑgerwilen;0
+CH;8274;2;Gottlieben;0
+CH;8280;0;Kreuzlingen;0
+CH;8280;1;Kreuzlingen 1;0
+CH;8280;2;Kreuzlingen 2;0
+CH;8280;3;Kreuzlingen 3;0
+CH;8280;60;Kreuzlingen 1 Zust;0
+CH;8285;0;Kreuzlingen Ifolor;0
+CH;8301;0;Glattzentrum;0
+CH;8302;0;Kloten;0
+CH;8302;47;Kloten Bahnhof SBB;0
+CH;8302;60;Kloten Zust;0
+CH;8302;75;Kloten Kaserne;0
+CH;8303;0;Bassersdorf;0
+CH;8304;0;Wallisellen;0
+CH;8304;60;Wallisellen Zust;0
+CH;8305;0;Dietlikon;0
+CH;8305;47;Dietlikon Shell;0
+CH;8306;0;BrÅttisellen;0
+CH;8307;0;Effretikon;0
+CH;8307;2;Ottikon b.Kemptth.;0
+CH;8307;47;Effretikon SBB;0
+CH;8307;60;Effretikon Zust;0
+CH;8307;76;Effretikon PAG;0
+CH;8308;0;Illnau;0
+CH;8308;2;Agasul;0
+CH;8309;0;NÅrensdorf;0
+CH;8310;0;Kemptthal;0
+CH;8310;1;Grafstal;0
+CH;8311;0;BrÅtten;0
+CH;8312;0;Winterberg ZH;0
+CH;8314;0;Kyburg;0
+CH;8315;0;Lindau;0
+CH;8317;0;Tagelswangen;0
+CH;8320;0;Fehraltorf;0
+CH;8322;0;Madetswil;0
+CH;8322;2;GÅndisau;0
+CH;8325;0;Effretikon Dist Ba;0
+CH;8330;0;PfÑffikon ZH;0
+CH;8330;41;Hermatswil;0
+CH;8330;60;PfÑffikon ZH Zust;0
+CH;8331;0;Auslikon;0
+CH;8332;0;Russikon;0
+CH;8332;2;Rumlikon;0
+CH;8335;0;Hittnau;0
+CH;8340;0;Hinwil;0
+CH;8340;60;Hinwil Zustellung;0
+CH;8340;61;Hinwil VZ;0
+CH;8342;0;Wernetshausen;0
+CH;8343;0;Hinwil Dist Ba;0
+CH;8344;0;BÑretswil;0
+CH;8345;0;Adetswil;0
+CH;8352;0;Elsau;0
+CH;8352;2;Ricketwil;0
+CH;8353;0;Elgg;0
+CH;8353;60;Elgg Zustellung;0
+CH;8354;0;Hofstetten ZH;0
+CH;8355;0;Aadorf;0
+CH;8356;0;Ettenhausen TG;0
+CH;8357;0;Guntershausen;0
+CH;8360;0;Eschlikon TG;0
+CH;8360;2;Wallenwil;0
+CH;8362;0;Balterswil;0
+CH;8362;1;Bichelsee-Baltersw;0
+CH;8363;0;Bichelsee;0
+CH;8370;0;Sirnach;0
+CH;8371;0;Busswil TG;0
+CH;8372;0;Wiezikon b.Sirnach;0
+CH;8374;0;Dussnang;0
+CH;8374;2;Oberwangen TG;0
+CH;8376;0;Fischingen;0
+CH;8376;2;Au TG;0
+CH;8400;0;Winterthur;0
+CH;8400;60;Winterthur 1 Zust;0
+CH;8400;68;Winterthur 1 Ann.;0
+CH;8400;75;Winterthur Kaserne;0
+CH;8401;0;Winterthur;0
+CH;8402;0;Winterthur;0
+CH;8404;0;Winterthur;0
+CH;8404;2;Reutlingen;0
+CH;8404;3;Stadel(Winterthur);0
+CH;8405;0;Winterthur;0
+CH;8405;60;Winterthur 5 Zust;0
+CH;8406;0;Winterthur;0
+CH;8406;60;Winterthur 6 Zust;0
+CH;8408;0;Winterthur;0
+CH;8408;60;Winterthur 8 Zust;0
+CH;8409;0;Winterthur;0
+CH;8410;0;Winterthur;0
+CH;8411;0;Winterthur;0
+CH;8412;0;Aesch (Neftenbach);0
+CH;8412;1;Riet (Neftenbach);0
+CH;8412;2;HÅnikon;0
+CH;8413;0;Neftenbach;0
+CH;8414;0;Buch am Irchel;0
+CH;8415;0;Berg am Irchel;0
+CH;8415;1;GrÑslikon;0
+CH;8416;0;Flaach;0
+CH;8418;0;Schlatt;0
+CH;8421;0;DÑttlikon;0
+CH;8422;0;Pfungen;0
+CH;8423;0;Embrach-Embraport;0
+CH;8424;0;Embrach;0
+CH;8424;60;Embrach Zustellung;0
+CH;8425;0;Oberembrach;0
+CH;8426;0;Lufingen;0
+CH;8427;0;Rorbas-Freienstein;0
+CH;8427;2;Freienstein;0
+CH;8427;3;Rorbas;0
+CH;8428;0;Teufen ZH;0
+CH;8442;0;Hettlingen;0
+CH;8444;0;Henggart;0
+CH;8447;0;Dachsen;0
+CH;8450;0;Andelfingen;0
+CH;8450;60;Andelfingen Zust;0
+CH;8451;0;Kleinandelfingen;0
+CH;8452;0;Adlikon;0
+CH;8453;0;Alten;0
+CH;8454;0;Buchberg;0
+CH;8455;0;RÅdlingen;0
+CH;8457;0;Humlikon;0
+CH;8458;0;Dorf;0
+CH;8459;0;Volken;0
+CH;8460;0;Marthalen;0
+CH;8461;0;Oerlingen;0
+CH;8462;0;Rheinau;0
+CH;8463;0;Benken ZH;0
+CH;8464;0;Ellikon am Rhein;0
+CH;8465;0;Rudolfingen;0
+CH;8465;1;Wildensbuch;0
+CH;8466;0;TrÅllikon;0
+CH;8467;0;Truttikon;0
+CH;8468;0;Waltalingen;0
+CH;8468;2;Guntalingen;0
+CH;8471;0;Rutschwil;0
+CH;8471;2;DÑgerlen;0
+CH;8471;3;Oberwil (DÑgerlen);0
+CH;8471;4;Berg (DÑgerlen);0
+CH;8471;5;BÑnk (DÑgerlen);0
+CH;8472;0;Seuzach;0
+CH;8472;60;Seuzach Zustellung;0
+CH;8474;0;Dinhard;0
+CH;8475;0;Ossingen;0
+CH;8476;0;Unterstammheim;0
+CH;8477;0;Oberstammheim;0
+CH;8478;0;Thalheim;0
+CH;8479;0;Altikon;0
+CH;8482;0;Sennhof;0
+CH;8483;0;Kollbrunn;0
+CH;8484;0;Weisslingen;0
+CH;8484;2;Neschwil;0
+CH;8484;3;Theilingen;0
+CH;8486;0;Rikon im Tîsstal;0
+CH;8487;0;Zell ZH;0
+CH;8487;1;RÑmismÅhle;0
+CH;8488;0;Turbenthal;0
+CH;8488;60;Turbenthal Zust;0
+CH;8489;0;Wildberg;0
+CH;8492;0;Wila;0
+CH;8493;0;Saland;0
+CH;8494;0;Bauma;0
+CH;8494;60;Bauma Zustellung;0
+CH;8495;0;SchmidrÅti;0
+CH;8496;0;Steg im Tîsstal;0
+CH;8497;0;Fischenthal;0
+CH;8498;0;Gibswil-Ried;0
+CH;8499;0;Sternenberg;0
+CH;8500;0;Frauenfeld;0
+CH;8500;1;Frauenfeld 1;0
+CH;8500;4;Gerlikon;0
+CH;8500;60;Frauenfeld 1 Zust;0
+CH;8500;75;Frauenfeld Kaserne;0
+CH;8500;76;Frauenfeld Pauto;0
+CH;8501;0;Frauenfeld;0
+CH;8502;0;Frauenfeld;0
+CH;8503;0;Frauenfeld;0
+CH;8505;0;Pfyn;0
+CH;8505;2;Dettighofen;0
+CH;8506;0;Lanzenneunforn;0
+CH;8507;0;Hîrhausen;0
+CH;8508;0;Homburg;0
+CH;8510;0;Frauenfeld;0
+CH;8512;0;Thundorf;0
+CH;8512;2;Lustdorf;0
+CH;8512;3;Wetzikon TG;0
+CH;8514;0;Amlikon-Bissegg;0
+CH;8520;0;Frauenfeld PZ;0
+CH;8520;70;Frauenfeld Dist Ba;0
+CH;8522;0;HÑuslenen;0
+CH;8522;2;Aawangen;0
+CH;8523;0;Hagenbuch ZH;0
+CH;8524;0;Uesslingen;0
+CH;8524;2;Buch b. Frauenfeld;0
+CH;8525;0;Niederneunforn;0
+CH;8525;2;Wilen b. Neunforn;0
+CH;8526;0;Oberneunforn;0
+CH;8526;60;Oberneunforn Zust;0
+CH;8530;0;Frauenfeld CALL;0
+CH;8532;0;Warth;0
+CH;8532;2;Weiningen TG;0
+CH;8535;0;Herdern;0
+CH;8536;0;HÅttwilen;0
+CH;8537;0;Nussbaumen TG;0
+CH;8537;2;Uerschhausen;0
+CH;8540;0;Frauenfeld ST PP 1;0
+CH;8542;0;Wiesendangen;0
+CH;8543;0;Bertschikon;0
+CH;8543;1;Gundetswil;0
+CH;8543;2;Kefikon ZH;0
+CH;8544;0;Attikon;0
+CH;8545;0;Rickenbach ZH;0
+CH;8545;1;Rickenbach Sulz;0
+CH;8546;0;Islikon;0
+CH;8546;2;Kefikon TG;0
+CH;8546;3;MenzengrÅt;0
+CH;8547;0;Gachnang;0
+CH;8548;0;Ellikon a d Thur;0
+CH;8552;0;Felben-Wellhausen;0
+CH;8553;0;HÅttlingen-Mettdf;0
+CH;8553;2;Harenwilen;0
+CH;8553;3;Mettendorf TG;0
+CH;8553;4;HÅttlingen;0
+CH;8553;5;Eschikofen;0
+CH;8554;0;MÅllheim-Wigoltgn;0
+CH;8554;3;Bonau;0
+CH;8555;0;MÅllheim Dorf;0
+CH;8556;0;Wigoltingen;0
+CH;8556;2;Engwang;0
+CH;8556;3;Illhart;0
+CH;8556;4;Lamperswil TG;0
+CH;8558;0;Raperswilen;0
+CH;8560;0;MÑrstetten;0
+CH;8561;0;Ottoberg;0
+CH;8564;0;Hefenhausen;0
+CH;8564;2;Engwilen;0
+CH;8564;3;Sonterswil;0
+CH;8564;4;WÑldi;0
+CH;8564;5;Lipperswil;0
+CH;8564;6;Wagerswil;0
+CH;8564;7;Hattenhausen;0
+CH;8564;8;Gunterswilen;0
+CH;8565;0;Hugelshofen;0
+CH;8566;0;Neuwilen;0
+CH;8566;2;Dotnacht;0
+CH;8566;4;Ellighausen;0
+CH;8566;5;Lippoldswilen;0
+CH;8570;0;Weinfelden;0
+CH;8570;60;Weinfelden Zust;0
+CH;8572;0;Berg TG;0
+CH;8572;2;Andhausen;0
+CH;8572;3;Graltshausen;0
+CH;8572;4;Guntershausen Berg;0
+CH;8573;0;Siegershausen;0
+CH;8573;2;Alterswilen;0
+CH;8573;3;Altishausen;0
+CH;8574;0;Lengwil-Oberhofen;0
+CH;8574;1;Illighausen;0
+CH;8575;0;BÅrglen TG;0
+CH;8575;1;Istighofen;0
+CH;8576;0;Mauren TG;0
+CH;8577;0;Schînholzerswilen;0
+CH;8577;2;Toos;0
+CH;8580;0;Amriswil;0
+CH;8580;3;Sommeri;0
+CH;8580;5;Hagenwil;0
+CH;8580;7;Hefenhofen;0
+CH;8580;60;Amriswil Zust;0
+CH;8581;0;Schocherswil;0
+CH;8582;0;Dozwil;0
+CH;8583;0;Sulgen;0
+CH;8583;1;Gîtighofen;0
+CH;8583;2;Donzhausen;0
+CH;8584;0;Leimbach TG;0
+CH;8584;1;Opfershofen TG;0
+CH;8585;1;Mattwil;0
+CH;8585;2;Happerswil;0
+CH;8585;4;Langrickenbach;0
+CH;8585;5;Zuben;0
+CH;8585;7;Schînenbaumgarten;0
+CH;8585;8;Herrenhof;0
+CH;8585;9;Birwinken;0
+CH;8585;10;Klarsreuti;0
+CH;8586;0;Erlen;0
+CH;8586;2;Andwil TG;0
+CH;8586;3;KÅmmertshausen;0
+CH;8586;5;Riedt b. Erlen;0
+CH;8586;7;Buchackern;0
+CH;8586;8;Engishofen;0
+CH;8586;9;Ennetaach;0
+CH;8586;10;Buch b. KÅmmertshs;0
+CH;8587;0;Oberaach;0
+CH;8588;0;Zihlschlacht;0
+CH;8589;0;Sitterdorf;0
+CH;8590;0;Romanshorn;0
+CH;8590;60;Romanshorn Zust;0
+CH;8592;0;Uttwil;0
+CH;8593;0;Kesswil;0
+CH;8594;0;GÅttingen;0
+CH;8595;0;Altnau;0
+CH;8596;0;Scherzingen;0
+CH;8596;1;MÅnsterlingen;0
+CH;8597;0;Landschlacht;0
+CH;8598;0;Bottighofen;0
+CH;8599;0;Salmsach;0
+CH;8600;0;DÅbendorf;0
+CH;8600;1;DÅbendorf 1;0
+CH;8600;2;DÅbendorf 2;0
+CH;8600;60;DÅbendorf 1 Zust;0
+CH;8600;75;DÅbendorf Kaserne;0
+CH;8602;0;Wangen ZH;0
+CH;8603;0;Schwerzenbach;0
+CH;8604;0;Volketswil;0
+CH;8604;60;Volketswil Zust;0
+CH;8605;0;Gutenswil;0
+CH;8606;0;NÑnikon;0
+CH;8606;2;Greifensee;0
+CH;8606;60;NÑnikon Zust;0
+CH;8607;0;Aathal-SeegrÑben;0
+CH;8608;0;Bubikon;0
+CH;8610;0;Uster;0
+CH;8610;1;Uster 1;0
+CH;8610;60;Uster 1 Zustellung;0
+CH;8612;0;Uster 2;0
+CH;8613;0;Uster 3;0
+CH;8614;0;Bertschikon Gossau;0
+CH;8614;2;Sulzbach;0
+CH;8615;0;Wermatswil;0
+CH;8615;2;Freudwil;0
+CH;8616;0;Riedikon;0
+CH;8617;0;Mînchaltorf;0
+CH;8618;0;Oetwil am See;0
+CH;8618;70;Oetwil am See Dist;0
+CH;8620;0;Wetzikon ZH;0
+CH;8620;1;Wetzikon ZH 1;0
+CH;8620;60;Wetzikon ZH 1 Zust;0
+CH;8621;0;Wetzikon ZH 4;0
+CH;8622;0;Wetzikon ZH;0
+CH;8623;0;Wetzikon ZH;0
+CH;8624;0;GrÅt (Gossau ZH);0
+CH;8625;0;Gossau ZH;0
+CH;8626;0;Ottikon;0
+CH;8627;0;GrÅningen;0
+CH;8630;0;RÅti ZH;0
+CH;8630;47;RÅti Bahnhof SBB;0
+CH;8630;60;RÅti ZH Zustellung;0
+CH;8632;0;Tann;0
+CH;8633;0;Wolfhausen;0
+CH;8634;0;Hombrechtikon;0
+CH;8634;60;Hombrechtikon Zust;0
+CH;8635;0;DÅrnten;0
+CH;8636;0;Wald ZH;0
+CH;8636;60;Wald ZH Zustellung;0
+CH;8637;0;Laupen ZH;0
+CH;8638;0;Goldingen;0
+CH;8639;0;Faltigberg;0
+CH;8640;0;Rapperswil SG;0
+CH;8640;2;Kempraten;0
+CH;8640;3;Hurden;0
+CH;8640;60;Rapperswil SG Zust;0
+CH;8645;0;Jona;0
+CH;8645;1;Jona Buech Gewerbe;0
+CH;8646;0;Wagen;0
+CH;8700;0;KÅsnacht ZH;0
+CH;8700;60;KÅsnacht ZH Zust;0
+CH;8702;0;Zollikon;0
+CH;8702;1;Zollikon Dorf;0
+CH;8703;0;Erlenbach ZH;0
+CH;8703;60;Erlenbach ZH Zust;0
+CH;8704;0;Herrliberg;0
+CH;8704;60;Herrliberg Zust;0
+CH;8706;0;Meilen;0
+CH;8706;2;Feldmeilen;0
+CH;8706;60;Meilen Zust;0
+CH;8707;0;Uetikon am See;0
+CH;8708;0;MÑnnedorf;0
+CH;8708;60;MÑnnedorf Zust;0
+CH;8712;0;StÑfa;0
+CH;8712;60;StÑfa Zustellung;0
+CH;8713;0;Uerikon;0
+CH;8714;0;Feldbach;0
+CH;8715;0;Bollingen;0
+CH;8716;0;Schmerikon;0
+CH;8717;0;Benken SG;0
+CH;8718;0;SchÑnis;0
+CH;8722;0;Kaltbrunn;0
+CH;8722;60;Kaltbrunn Zust;0
+CH;8723;0;Rufi;0
+CH;8723;2;Maseltrangen;0
+CH;8725;0;Ernetschwil;0
+CH;8725;2;Gebertingen;0
+CH;8726;0;Ricken SG;0
+CH;8727;0;Walde SG;0
+CH;8730;0;Uznach;0
+CH;8730;60;Uznach Zustellung;0
+CH;8730;76;Uznach Postauto;0
+CH;8732;0;Neuhaus SG;0
+CH;8733;0;Eschenbach SG;0
+CH;8734;0;Ermenswil;0
+CH;8735;0;St. Gallenkappel;0
+CH;8735;2;RÅeterswil;0
+CH;8737;0;Gommiswald;0
+CH;8738;0;Uetliburg SG;0
+CH;8739;0;Rieden SG;0
+CH;8740;0;Uznach Vîgele AG;0
+CH;8750;0;Glarus;0
+CH;8750;2;Riedern;0
+CH;8750;3;Klîntal;0
+CH;8750;60;Glarus Zustellung;0
+CH;8751;0;Urnerboden;0
+CH;8752;0;NÑfels;0
+CH;8753;0;Mollis;0
+CH;8754;0;Netstal;0
+CH;8755;0;Ennenda;0
+CH;8756;0;Mitlîdi;0
+CH;8757;0;Filzbach;0
+CH;8758;0;Obstalden;0
+CH;8759;0;Netstal;0
+CH;8762;0;Schwanden GL;0
+CH;8762;2;SchwÑndi GL;0
+CH;8762;3;Sool;0
+CH;8762;60;Schwanden GL Zust;0
+CH;8765;0;Engi;0
+CH;8766;0;Matt;0
+CH;8767;0;Elm;0
+CH;8772;0;Nidfurn;0
+CH;8773;0;Haslen GL;0
+CH;8774;0;Leuggelbach;0
+CH;8775;0;Luchsingen-HÑtzin;0
+CH;8775;1;Luchsingen;0
+CH;8775;2;HÑtzingen;0
+CH;8775;60;Luchsingen Zust;0
+CH;8777;0;Diesbach GL;0
+CH;8777;2;Betschwanden;0
+CH;8782;0;RÅti GL;0
+CH;8783;0;Linthal;0
+CH;8784;0;Braunwald;0
+CH;8800;0;Thalwil;0
+CH;8800;47;Thalwil SBB;0
+CH;8800;60;Thalwil Zustellung;0
+CH;8801;2;Thalwil;0
+CH;8802;0;Kilchberg ZH;0
+CH;8802;60;Kilchberg ZH Zust;0
+CH;8803;0;RÅschlikon;0
+CH;8804;0;Au ZH;0
+CH;8805;0;Richterswil;0
+CH;8805;2;Richterswil Burghd;0
+CH;8806;0;BÑch SZ;0
+CH;8807;0;Freienbach;0
+CH;8808;0;PfÑffikon SZ;0
+CH;8808;47;PfÑffikon SBB;0
+CH;8808;60;PfÑffikon SZ Zust;0
+CH;8810;0;Horgen;0
+CH;8810;1;Horgen 1;0
+CH;8812;1;Horgen Bhf Oberd.;0
+CH;8813;0;Horgen;0
+CH;8815;0;Horgenberg;0
+CH;8816;0;Hirzel;0
+CH;8820;0;WÑdenswil;0
+CH;8820;47;WÑdenswil SBB;0
+CH;8820;60;WÑdenswil Zust;0
+CH;8820;70;WÑdenswil Dist Ba;0
+CH;8824;0;Schînenberg ZH;0
+CH;8825;0;HÅtten;0
+CH;8832;0;Wollerau;0
+CH;8832;2;Wilen b. Wollerau;0
+CH;8832;60;Wollerau Zust;0
+CH;8833;0;Samstagern;0
+CH;8834;0;Schindellegi;0
+CH;8835;0;Feusisberg;0
+CH;8836;0;Bennau;0
+CH;8840;0;Einsiedeln;0
+CH;8840;2;Trachslau;0
+CH;8840;60;Einsiedeln Zust;0
+CH;8841;0;Gross;0
+CH;8842;0;Unteriberg;0
+CH;8843;0;Oberiberg;0
+CH;8844;0;Euthal;0
+CH;8845;0;Studen SZ;0
+CH;8846;0;Willerzell;0
+CH;8847;0;Egg SZ;0
+CH;8849;0;Alpthal;0
+CH;8852;0;Altendorf;0
+CH;8852;47;Altendorf B&V GK;0
+CH;8852;48;Altendorf B&V GK 2;0
+CH;8853;0;Lachen SZ;0
+CH;8854;0;Siebnen;0
+CH;8854;2;Galgenen;0
+CH;8854;60;Siebnen Zust;0
+CH;8855;0;Wangen SZ;0
+CH;8856;0;Tuggen;0
+CH;8857;0;Vorderthal;0
+CH;8858;0;Innerthal;0
+CH;8862;0;SchÅbelbach;0
+CH;8863;0;Buttikon SZ;0
+CH;8864;0;Reichenburg;0
+CH;8865;0;Bilten;0
+CH;8866;0;ZiegelbrÅcke;0
+CH;8866;47;ZiegelbrÅcke SBB;0
+CH;8867;0;Niederurnen;0
+CH;8867;70;Niederurnen Dist F;0
+CH;8868;0;Oberurnen;0
+CH;8872;0;Weesen;0
+CH;8873;0;Amden;0
+CH;8874;0;MÅhlehorn;0
+CH;8877;0;Murg;0
+CH;8878;0;Quinten;0
+CH;8879;0;Pizolpark (Mels);0
+CH;8880;0;Walenstadt;0
+CH;8881;1;Walenstadtberg;0
+CH;8881;2;KnoblisbÅhl;0
+CH;8881;6;Tscherlach;0
+CH;8882;0;Unterterzen;0
+CH;8883;0;Quarten;0
+CH;8884;0;Oberterzen;0
+CH;8885;0;Mols;0
+CH;8886;0;MÑdris-Vermol;0
+CH;8887;0;Mels;0
+CH;8887;60;Mels Zustellung;0
+CH;8887;75;Mels Kaserne;0
+CH;8888;0;Heiligkreuz (Mels);0
+CH;8889;0;Plons;0
+CH;8890;0;Flums;0
+CH;8890;60;Flums Zustellung;0
+CH;8892;0;Berschis;0
+CH;8893;0;Flums Hochwiese;0
+CH;8894;0;Flumserberg Saxli;0
+CH;8895;0;Flumserberg Portel;0
+CH;8896;0;Flumserberg Bergh;0
+CH;8897;0;Flumserberg Theim;0
+CH;8898;0;Flumserberg Tboden;0
+CH;8901;0;Urdorf;0
+CH;8902;0;Urdorf;0
+CH;8902;70;Urdorf Dist Ba;0
+CH;8902;71;Urdorf GKA;0
+CH;8903;0;Birmensdorf ZH;0
+CH;8903;60;Birmensdorf Zust;0
+CH;8903;75;Birmensdorf ZH Kas;0
+CH;8904;0;Aesch ZH;0
+CH;8905;0;Arni-Islisberg;0
+CH;8905;2;Islisberg;0
+CH;8905;3;Arni AG;0
+CH;8906;0;Bonstetten;0
+CH;8907;0;Wettswil;0
+CH;8907;60;Wettswil Zust;0
+CH;8908;0;Hedingen;0
+CH;8909;0;Zwillikon;0
+CH;8910;0;Affoltern am Albis;0
+CH;8910;60;Affoltern a.A.Zust;0
+CH;8911;0;Rifferswil;0
+CH;8912;0;Obfelden;0
+CH;8913;0;Ottenbach;0
+CH;8914;0;Aeugst am Albis;0
+CH;8914;2;Aeugstertal;0
+CH;8915;0;Hausen am Albis;0
+CH;8916;0;Jonen;0
+CH;8917;0;Oberlunkhofen;0
+CH;8918;0;Unterlunkhofen;0
+CH;8919;0;Rottenschwil;0
+CH;8925;0;Ebertswil;0
+CH;8926;0;Kappel am Albis;0
+CH;8926;2;Hauptikon;0
+CH;8926;3;Uerzlikon;0
+CH;8926;60;Kappel a. A. Zust;0
+CH;8932;0;Mettmenstetten;0
+CH;8932;60;Mettmenstetten Zus;0
+CH;8933;0;Maschwanden;0
+CH;8934;0;Knonau;0
+CH;8942;0;Oberrieden;0
+CH;8951;0;Fahrweid;0
+CH;8952;0;Schlieren;0
+CH;8952;55;Schlieren DS;0
+CH;8952;60;Schlieren Zust;0
+CH;8953;0;Dietikon;0
+CH;8953;1;Dietikon 1;0
+CH;8953;2;Dietikon 2;0
+CH;8953;47;Dietikon SBB;0
+CH;8954;0;Geroldswil;0
+CH;8955;0;Oetwil a.d. Limmat;0
+CH;8956;0;Killwangen;0
+CH;8957;0;Spreitenbach;0
+CH;8957;60;Spreitenbach Zust;0
+CH;8962;0;Bergdietikon;0
+CH;8964;0;Rudolfstetten;0
+CH;8965;0;Berikon;0
+CH;8965;1;Berikon 1;0
+CH;8965;2;Berikon 2 Dorf;0
+CH;8965;60;Berikon 1 Zust;0
+CH;8966;0;Oberwil-Lieli;0
+CH;8967;0;Widen;0
+CH;8970;0;Urdorf Exchange;0
+CH;9000;0;St. Gallen;0
+CH;9000;1;St. Gallen 1 Ann.;0
+CH;9000;60;St. Gallen 1 Zust;0
+CH;9000;70;St. Gallen Dist Ba;0
+CH;9000;75;St. Gallen Kaserne;0
+CH;9001;0;St. Gallen;0
+CH;9001;76;St. Gallen Postaut;0
+CH;9004;0;St. Gallen;0
+CH;9006;0;St. Gallen;0
+CH;9007;0;St. Gallen;0
+CH;9008;0;St. Gallen;0
+CH;9009;0;St. Gallen;0
+CH;9010;0;St. Gallen;0
+CH;9011;0;St. Gallen;0
+CH;9012;0;St. Gallen;0
+CH;9013;0;St. Gallen;0
+CH;9014;0;St. Gallen;0
+CH;9014;60;St. Gallen 14 Zust;0
+CH;9015;0;St. Gallen;0
+CH;9016;0;St. Gallen;0
+CH;9020;0;St. Gallen;0
+CH;9020;81;St. Gallen PF KD;0
+CH;9022;0;St. Gallen;0
+CH;9023;0;St. Gallen;0
+CH;9024;0;St. Gallen;0
+CH;9025;0;St. Gallen Quelle;0
+CH;9026;0;St. Gallen K AG;0
+CH;9027;0;St. Gallen;0
+CH;9028;0;St. Gallen;0
+CH;9029;0;St. Gallen;0
+CH;9030;0;Abtwil SG;0
+CH;9030;2;Gaiserwald;0
+CH;9030;3;St. Josefen;0
+CH;9032;0;Engelburg;0
+CH;9033;0;Untereggen;0
+CH;9034;0;Eggersriet;0
+CH;9035;0;Grub AR;0
+CH;9036;0;Grub SG;0
+CH;9037;0;Speicherschwendi;0
+CH;9038;0;Rehetobel;0
+CH;9042;0;Speicher;0
+CH;9043;0;Trogen;0
+CH;9044;0;Wald AR;0
+CH;9050;0;Appenzell;0
+CH;9050;2;Appenzell Eggerst.;0
+CH;9050;3;Appenzell Enggenh.;0
+CH;9050;5;Appenzell Meister.;0
+CH;9050;6;Appenzell Steinegg;0
+CH;9050;7;Appenzell Schlatt;0
+CH;9050;60;Appenzell Zust;0
+CH;9052;0;Niederteufen;0
+CH;9053;0;Teufen AR;0
+CH;9053;60;Teufen AR Zust;0
+CH;9054;0;Haslen AI;0
+CH;9055;0;BÅhler;0
+CH;9056;0;Gais;0
+CH;9057;0;Weissbad;0
+CH;9057;2;Schwende;0
+CH;9057;3;Wasserauen;0
+CH;9058;0;BrÅlisau;0
+CH;9062;0;LustmÅhle;0
+CH;9063;0;Stein AR;0
+CH;9064;0;Hundwil;0
+CH;9100;0;Herisau;0
+CH;9100;1;Herisau 1;0
+CH;9100;60;Herisau 1 Zust;0
+CH;9101;0;Herisau;0
+CH;9102;0;Herisau;0
+CH;9103;0;Schwellbrunn;0
+CH;9104;0;Waldstatt;0
+CH;9105;0;Schînengrund;0
+CH;9107;0;UrnÑsch;0
+CH;9108;0;Gonten;0
+CH;9108;2;Gontenbad;0
+CH;9108;3;Jakobsbad;0
+CH;9112;0;Schachen b.Herisau;0
+CH;9113;0;Degersheim;0
+CH;9113;60;Degersheim Zust;0
+CH;9114;0;Hoffeld;0
+CH;9115;0;Dicken;0
+CH;9116;0;Wolfertswil;0
+CH;9122;0;Mogelsberg;0
+CH;9122;2;Ebersol;0
+CH;9123;0;Nassen;0
+CH;9125;0;Brunnadern;0
+CH;9126;0;Necker;0
+CH;9127;0;St. Peterzell;0
+CH;9200;0;Gossau SG;0
+CH;9200;1;Gossau SG 1;0
+CH;9200;2;Gossau SG 2;0
+CH;9200;50;Gossau SG LZB;0
+CH;9200;60;Gossau SG 1 Zust;0
+CH;9201;0;Gossau SG;0
+CH;9203;0;Niederwil SG;0
+CH;9204;0;Andwil SG;0
+CH;9205;0;Waldkirch;0
+CH;9212;0;Arnegg;0
+CH;9213;0;Hauptwil;0
+CH;9214;0;Kradolf-Schînenb.;0
+CH;9214;2;Kradolf;0
+CH;9215;0;Schînenberg TG;0
+CH;9215;2;Buhwil;0
+CH;9216;0;Heldswil;0
+CH;9216;2;Hohentannen;0
+CH;9217;0;Neukirch;0
+CH;9220;0;Bischofszell;0
+CH;9220;60;Bischofszell Zust;0
+CH;9223;0;Schweizersholz;0
+CH;9223;1;Halden;0
+CH;9225;0;Wilen (Gottshaus);0
+CH;9225;1;St. Pelagiberg;0
+CH;9230;0;Flawil;0
+CH;9230;1;Flawil 1;0
+CH;9230;2;Flawil 2;0
+CH;9230;60;Flawil 1 Zust;0
+CH;9231;0;Egg (Flawil);0
+CH;9240;0;Uzwil;0
+CH;9240;2;Niederglatt SG;0
+CH;9240;60;Uzwil Zustellung;0
+CH;9242;0;Oberuzwil;0
+CH;9243;0;Jonschwil;0
+CH;9244;0;Niederuzwil;0
+CH;9245;0;OberbÅren;0
+CH;9245;2;Sonnental;0
+CH;9246;0;NiederbÅren;0
+CH;9247;0;Henau;0
+CH;9248;0;Bichwil;0
+CH;9249;0;Algetshausen;0
+CH;9249;1;Niederstetten;0
+CH;9249;2;Oberstetten;0
+CH;9300;0;Wittenbach;0
+CH;9300;60;Wittenbach Zust;0
+CH;9301;0;Wittenbach;0
+CH;9304;0;Bernhardzell;0
+CH;9305;0;Berg SG;0
+CH;9306;0;Freidorf TG;0
+CH;9308;0;Lîmmenschwil;0
+CH;9312;0;HÑggenschwil;0
+CH;9313;0;Muolen;0
+CH;9314;0;Steinebrunn;0
+CH;9315;0;Neukirch (Egnach);0
+CH;9315;2;Winden;0
+CH;9320;0;Arbon;0
+CH;9320;2;Frasnacht;0
+CH;9320;3;Stachen;0
+CH;9320;60;Arbon Zustellung;0
+CH;9322;0;Egnach;0
+CH;9323;0;Steinach;0
+CH;9325;0;Roggwil TG;0
+CH;9326;0;Horn;0
+CH;9327;0;TÅbach;0
+CH;9400;0;Rorschach;0
+CH;9400;60;Rorschach Zust;0
+CH;9401;0;Rorschach;0
+CH;9402;0;Mîrschwil;0
+CH;9403;0;Goldach;0
+CH;9404;0;Rorschacherberg;0
+CH;9405;0;Wienacht-Tobel;0
+CH;9410;0;Heiden;0
+CH;9410;60;Heiden Zustellung;0
+CH;9411;0;Reute AR;0
+CH;9413;0;Oberegg;0
+CH;9414;0;Schachen b. Reute;0
+CH;9422;0;Staad SG;0
+CH;9423;0;Altenrhein;0
+CH;9424;0;Rheineck;0
+CH;9424;60;Rheineck Zust;0
+CH;9425;0;Thal;0
+CH;9426;0;Lutzenberg;0
+CH;9427;0;Wolfhalden;0
+CH;9428;0;Walzenhausen;0
+CH;9428;3;Platz;0
+CH;9430;0;St. Margrethen SG;0
+CH;9430;60;St.Margrethen Zust;0
+CH;9434;0;Au SG;0
+CH;9435;0;Heerbrugg;0
+CH;9435;60;Heerbrugg Zust;0
+CH;9436;0;Balgach;0
+CH;9437;0;Marbach SG;0
+CH;9442;0;Berneck;0
+CH;9442;2;BÅriswilen;0
+CH;9442;70;Berneck Dist Ba;0
+CH;9443;0;Widnau;0
+CH;9444;0;Diepoldsau;0
+CH;9444;60;Diepoldsau Zust;0
+CH;9445;0;Rebstein;0
+CH;9450;0;AltstÑtten SG;0
+CH;9450;2;LÅchingen;0
+CH;9450;60;AltstÑtten SG Zust;0
+CH;9451;0;Kriessern;0
+CH;9452;0;Hinterforst;0
+CH;9453;0;Eichberg;0
+CH;9462;0;Montlingen;0
+CH;9463;0;Oberriet SG;0
+CH;9463;60;Oberriet SG Zust;0
+CH;9464;0;RÅthi (Rheintal);0
+CH;9464;2;Lienz;0
+CH;9465;0;Salez;0
+CH;9466;0;Sennwald;0
+CH;9467;0;FrÅmsen;0
+CH;9468;0;Sax;0
+CH;9469;0;Haag (Rheintal);0
+CH;9470;0;Buchs SG;0
+CH;9470;1;Buchs SG 1;0
+CH;9470;3;Buchs SG 3;0
+CH;9470;5;Werdenberg;0
+CH;9470;60;Buchs SG 1 Zust;0
+CH;9470;70;Buchs SG Dist Fil;0
+CH;9471;1;Buchs SG 1;0
+CH;9471;3;Buchs SG 3;0
+CH;9471;47;Buchs Bahnhof SBB;0
+CH;9472;0;Grabs;0
+CH;9472;2;Grabserberg;0
+CH;9473;0;Gams;0
+CH;9475;0;Sevelen;0
+CH;9476;0;Weite;0
+CH;9476;2;Fontnas;0
+CH;9477;0;TrÅbbach;0
+CH;9478;0;Azmoos;0
+CH;9479;0;Oberschan;0
+CH;9479;1;Malans SG;0
+CH;9479;2;Gretschins;0
+CH;9485;0;Nendeln;0
+CH;9486;0;Schaanwald;0
+CH;9487;0;Gamprin-Bendern;0
+CH;9488;0;Schellenberg;0
+CH;9489;0;Schaan Log;0
+CH;9490;0;Vaduz;0
+CH;9491;0;Ruggell;0
+CH;9492;0;Eschen;0
+CH;9493;0;Mauren FL;0
+CH;9494;0;Schaan;0
+CH;9494;50;Schaan BZ;0
+CH;9494;60;Schaan Zustellung;0
+CH;9494;68;Schaan BZ GKS;0
+CH;9495;0;Triesen;0
+CH;9496;0;Balzers;0
+CH;9497;0;Triesenberg;0
+CH;9498;0;Planken;0
+CH;9500;0;Wil SG;0
+CH;9500;1;Wil SG 1;0
+CH;9500;2;Wil SG 2;0
+CH;9500;60;Wil SG 1 Zust;0
+CH;9501;0;Wil SG 1;0
+CH;9502;0;Braunau;0
+CH;9503;0;Stehrenberg;0
+CH;9503;2;Lanterswil;0
+CH;9504;0;Friltschen;0
+CH;9506;0;Lommis;0
+CH;9507;0;Stettfurt;0
+CH;9508;0;Weingarten-Kalth;0
+CH;9510;0;Wil SG Dist Ba;0
+CH;9512;0;RossrÅti;0
+CH;9514;0;Wuppenau;0
+CH;9515;0;Hosenruck;0
+CH;9517;0;Mettlen;0
+CH;9523;0;ZÅberwangen;0
+CH;9524;0;Zuzwil SG;0
+CH;9525;0;Lenggenwil;0
+CH;9526;0;Zuckenriet;0
+CH;9527;0;Niederhelfenschwil;0
+CH;9532;0;Rickenbach b. Wil;0
+CH;9533;0;Kirchberg SG;0
+CH;9533;1;Dietschwil;0
+CH;9534;0;GÑhwil;0
+CH;9535;0;Wilen b. Wil;0
+CH;9536;0;Schwarzenbach SG;0
+CH;9542;0;MÅnchwilen TG;0
+CH;9542;60;MÅnchwilen TG Zust;0
+CH;9543;0;St. Margarethen TG;0
+CH;9545;0;WÑngi;0
+CH;9545;60;WÑngi Zustellung;0
+CH;9546;0;Tuttwil;0
+CH;9547;0;Wittenwil;0
+CH;9548;0;Matzingen;0
+CH;9552;0;Bronschhofen;0
+CH;9553;0;Bettwiesen;0
+CH;9554;0;TÑgerschen;0
+CH;9555;0;Tobel;0
+CH;9556;0;Affeltrangen;0
+CH;9556;2;Zezikon;0
+CH;9562;0;MÑrwil;0
+CH;9562;2;Buch b. MÑrwil;0
+CH;9565;0;Bussnang;0
+CH;9565;2;Oberbussnang;0
+CH;9565;3;Oppikon;0
+CH;9565;4;Schmidshof;0
+CH;9565;5;Rothenhausen;0
+CH;9573;0;Littenheid;0
+CH;9601;0;LÅtisburg Station;0
+CH;9602;0;Bazenheid;0
+CH;9602;2;MÅselbach;0
+CH;9602;60;Bazenheid Zust;0
+CH;9604;0;LÅtisburg;0
+CH;9604;1;Oberrindal;0
+CH;9604;2;Unterrindal;0
+CH;9606;0;BÅtschwil;0
+CH;9607;0;Mosnang;0
+CH;9608;0;Ganterschwil;0
+CH;9612;0;Dreien;0
+CH;9613;0;MÅhlrÅti;0
+CH;9614;0;Libingen;0
+CH;9615;0;Dietfurt;0
+CH;9620;0;Lichtensteig;0
+CH;9621;0;Oberhelfenschwil;0
+CH;9622;0;Krinau;0
+CH;9630;0;Wattwil;0
+CH;9630;60;Wattwil Zustellung;0
+CH;9631;0;Ulisbach;0
+CH;9633;0;Hemberg;0
+CH;9633;2;BÑchli (Hemberg);0
+CH;9642;0;Ebnat-Kappel;0
+CH;9642;60;Ebnat-Kappel Zust;0
+CH;9643;0;Krummenau;0
+CH;9650;0;Nesslau;0
+CH;9651;0;EnnetbÅhl;0
+CH;9652;0;Neu St. Johann;0
+CH;9655;0;Stein SG;0
+CH;9656;0;Alt St. Johann;0
+CH;9657;0;Unterwasser;0
+CH;9658;0;Wildhaus;0
