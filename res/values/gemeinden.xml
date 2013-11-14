@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <string-array name="gemeinden">
-        <item>Richterswil</item>
-        <item>Wädenswil</item>
+        <item>Dübendorf</item>
+        <item>Wangen ZH</item>
+        <item>Schwerzenbach</item>
+        <item>Volketswil</item>
+        <item>Gutenswil</item>
+        <item>Nänikon</item>
+        <item>Greifensee</item>
+        <item>Aathal-Seegräben</item>
+        <item>Bubikon</item>
+        <item>Uster</item>
+        <item>Bertschikon Gossau</item>
+        <item>Sulzbach</item>
+        <item>Wermatswil</item>
+        <item>Freudwil</item>
+        <item>Riedikon</item>
+        <item>Mönchaltorf</item>
+        <item>Oetwil am See</item>
+        <item>Wetzikon ZH</item>
+        <item>Grüt (Gossau ZH)</item>
+        <item>Gossau ZH</item>
+        <item>Ottikon</item>
+        <item>Grüningen</item>
+        <item>Rüti ZH</item>
+        <item>Tann</item>
+        <item>Wolfhausen</item>
+        <item>Hombrechtikon</item>
+        <item>Dürnten</item>
+        <item>Wald ZH</item>
+        <item>Laupen ZH</item>
+        <item>Goldingen</item>
+        <item>Faltigberg</item>
+        <item>Rapperswil SG</item>
+        <item>Kempraten</item>
+        <item>Hurden</item>
+        <item>Jona</item>
+        <item>Wagen</item>
     </string-array>
+
 </resources>

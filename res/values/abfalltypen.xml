@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <string-array name="abfalltypen">
-        <item>Altglas</item>
-        <item>Altpapier</item>
+        <item>Altöl</item>
+        <item>Aluminium</item>
+        <item>Autobatterien</item>
+        <item>Batterien</item>
+        <item>Brot</item>
+        <item>Christbaum</item>
+        <item>Elektrische Geräte</item>
+        <item>Elektronische Geräte</item>
+        <item>Fahrzeuge</item>
+        <item>Glas</item>
+        <item>Grubengut</item>
+        <item>Grüngut</item>
+        <item>Karton</item>
+        <item>Kehricht</item>
+        <item>Kork</item>
+        <item>Kühlgeräte</item>
+        <item>Leuchten und Leuchtmittel</item>
+        <item>Metall</item>
+        <item>Papier</item>
+        <item>PET-Flaschen</item>
+        <item>Pneus</item>
+        <item>Sonderabfälle (Farben, Lacke, Putzmittel)</item>
+        <item>Sperrgut</item>
+        <item>Styropor</item>
+        <item>Testilien und Schuhe</item>
+        <item>Tierkadaver</item>
+        <item>Weinflaschen</item>
+        <item>Weissblech</item>
     </string-array>
+
 </resources>

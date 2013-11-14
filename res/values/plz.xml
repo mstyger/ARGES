@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="plz">
+        <item>8600</item>
+        <item>8602</item>
+        <item>8603</item>
+        <item>8604</item>
+        <item>8605</item>
+        <item>8606</item>
+        <item>8607</item>
+        <item>8608</item>
+        <item>8610</item>
+        <item>8612</item>
+        <item>8613</item>
+        <item>8614</item>
+        <item>8615</item>
+        <item>8616</item>
+        <item>8617</item>
+        <item>8618</item>
+        <item>8620</item>
+        <item>8621</item>
+        <item>8622</item>
+        <item>8623</item>
+        <item>8624</item>
+        <item>8625</item>
+        <item>8626</item>
+        <item>8627</item>
+        <item>8630</item>
+        <item>8632</item>
+        <item>8633</item>
+        <item>8634</item>
+        <item>8635</item>
+        <item>8636</item>
+        <item>8637</item>
+        <item>8638</item>
+        <item>8639</item>
+        <item>8640</item>
+        <item>8645</item>
+        <item>8646</item>
+    </string-array>
+
+</resources>
