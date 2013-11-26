@@ -1,14 +1,14 @@
 package ch.euromapi.arges;
 
 import android.app.ListActivity;
+import android.content.Intent;
 import android.os.Bundle;
-import android.view.Menu;
 import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
-import android.widget.Toast;
 
 public class AbfallView extends ListActivity {
+	private String gemeinde;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -25,6 +25,9 @@ public class AbfallView extends ListActivity {
 
 		// Assign adapter to List
 		setListAdapter(adapter);
+		
+		Intent intent = getIntent();
+		this.gemeinde = intent.getStringExtra("gemeinde");
 	}
 
 	@Override
@@ -37,9 +40,11 @@ public class AbfallView extends ListActivity {
 
 		// ListView Clicked item value
 		String itemValue = (String) l.getItemAtPosition(position);
-
-		Toast.makeText(getApplicationContext(), itemPosition + " " + itemValue,
-				Toast.LENGTH_LONG).show();
+		
+		Intent intent = new Intent(this, DetailView.class);
+	    intent.putExtra("gemeinde", this.gemeinde);
+	    intent.putExtra("abfalltyp", itemValue);
+	    startActivity(intent);
 
 	}
 

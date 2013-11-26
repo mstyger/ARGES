@@ -37,13 +37,9 @@ public class MainActivity extends ListActivity {
 
 		// ListView Clicked item value
 		String itemValue = (String) l.getItemAtPosition(position);
-
-		Toast.makeText(getApplicationContext(), itemPosition + " " + itemValue,
-				Toast.LENGTH_LONG).show();
 		
 		Intent intent = new Intent(this, AbfallView.class);
-	    intent.putExtra("gemeinde_pos", itemPosition);
-	    intent.putExtra("gemeinde_name", itemValue);
+	    intent.putExtra("gemeinde", itemValue);
 	    startActivity(intent);
 
 	}
