@@ -3,7 +3,6 @@ package ch.euromapi.arges;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
-import android.util.Log;
 import android.webkit.WebView;
 
 public class DetailView extends Activity {
@@ -20,9 +19,8 @@ public class DetailView extends Activity {
 		this.abfalltyp = intent.getStringExtra("abfalltyp");
 		
 		final WebView wv = (WebView)findViewById(R.id.webview);
-		String uri = "http://down.ch?gemeinde=" + this.gemeinde + "&abfalltyp=" + this.abfalltyp;
+		String uri = "http://www.down.ch/service.php?ort=" + this.gemeinde + "&abfalltyp=" + this.abfalltyp;
 		wv.loadUrl(uri);
-		Log.d("printr", "url:" + uri);
 	}
 
 }
