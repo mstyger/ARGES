@@ -2,7 +2,7 @@
 <resources>
 
     <string-array name="gemeinden">
-        <item>Dübendorf</item>
+        <item>Dübendorf</item>
         <item>Wangen ZH</item>
         <item>Schwerzenbach</item>
         <item>Volketswil</item>
@@ -20,15 +20,15 @@
         <item>Mönchaltorf</item>
         <item>Oetwil am See</item>
         <item>Wetzikon ZH</item>
-        <item>Grüt (Gossau ZH)</item>
+        <item>Grüt (Gossau ZH)</item>
         <item>Gossau ZH</item>
         <item>Ottikon</item>
-        <item>Grüningen</item>
-        <item>Rüti ZH</item>
+        <item>Grüningen</item>
+        <item>Rüti ZH</item>
         <item>Tann</item>
         <item>Wolfhausen</item>
         <item>Hombrechtikon</item>
-        <item>Dürnten</item>
+        <item>Dürnten</item>
         <item>Wald ZH</item>
         <item>Laupen ZH</item>
         <item>Goldingen</item>
